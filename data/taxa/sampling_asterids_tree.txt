@@ -1,0 +1,63 @@
+taxa_in_original_tree	include	names_to_query	more_specific_woody_taxa_included	"perforation_type:_SCAL_=_scalariform,_SIM_=_simple"
+Cornales	1	"Cornaceae, Grubbiaceae, Curtisiaceae, Nyssaceae, Hydrangeaceae"	"Cornaceae, Grubbiaceae, Curtisiaceae, Nyssaceae, Hydrangeaceae"	SCAL
+balsaminoid Ericales	1	"Tetrameristaceae, Marcgraviaceae"	"Tetrameristaceae, Marcgraviaceae"	SIM
+Fouquieriaceae	1	Fouquieria	Fouquieria	SIM
+Polemoniaceae	0		"mostly herbaceous, potentially secondarily woody"	
+Napoleonaeoideae	1	Napoleonaea	Napoleonaea	SIM/SCAL
+Scytopetaloideae	1	"Asteranthos, Brazzeia, Crateranthus, Oubanguia, Pierrina, Rhaptopetalum, Scytopetalum"	"Asteranthos, Brazzeia, Crateranthus, Oubanguia, Pierrina, Rhaptopetalum, Scytopetalum"	SCAL
+rest of Lecythidaceae	1	"Abdulmajidia, Allantoma, Barringtonia, Bertholletia, Careys, Cariniana, Chydenanthus, Corythophora, Couratari, Couroupita, Eschweilera, Foetidia, Grias, Gustavia, Lecythis, Petersianthus, Planchonia"	"Abdulmajidia, Allantoma, Barringtonia, Bertholletia, Careys, Cariniana, Chydenanthus, Corythophora, Couratari, Couroupita, Eschweilera, Foetidia, Grias, Gustavia, Lecythis, Petersianthus, Planchonia"	SIM
+rest Ericales	1	"Sapotaceae, Ebenaceae, Primulaceae"	"Sapotaceae, Ebenaceae, Primulaceae"	SIM
+ericalean lineage	1	"Actinidiaceae, Clethraceae, Cyrillaceae, Ericaceae, Theaceae, Symplocaceae, Styracaceae, Diapensiaceae"	"Actinidiaceae, Clethraceae, Cyrillaceae, Ericaceae, Theaceae, Symplocaceae, Styracaceae, Diapensiaceae"	SCAL
+"Oncothecaceae, Metteniusaceae, Icacinaceae"	1	"Oncotheca, Apodytes, Metteniusa, Poraqueiba, Calatola, Dendrobangia, Raphiostylis, Emmotum, Stachyanthus, Oecopetalum, Ottoschulzia, Phytocrene, Iodes, Mappia, Icacina, Casinopsis"	"Oncotheca, Apodytes, Metteniusa, Poraqueiba, Calatola, Dendrobangia, Raphiostylis, Emmotum, Stachyanthus, Oecopetalum, Ottoschulzia, Phytocrene, Iodes, Mappia, Icacina, Casinopsis"	
+Garryales	1	"Garrya, Aucuba, Eucommia"	"Garrya, Aucuba, Eucommia"	SCAL
+Gentianales	1	"Rubiaceae, Loganiaceae, Gelsemiaceae, Gentianaceae, Apocynaceae"	"Rubiaceae, Loganiaceae, Gelsemiaceae, Gentianaceae, Apocynaceae"	SIM
+Solanales	1	"Montiniaceae,  Convolvulaceae, Solanaceae"	"Montiniaceae,  Convolvulaceae, Solanaceae"	SIM
+Boraginales	1	"Codonaceae, Wellsteadiaceae, Cordiaceae, Ehretiaceae"	"Codonaceae, Wellsteadiaceae, Cordiaceae, Ehretiaceae"	SIM
+Lamiales	1	"Plocospermataceae, Oleaceae, Peltanthera, Sanango, Buddleja, Stilbaceae, Bignoniaceae, Avicennia, Schlegeliaceae, Thomersandersiaceae, Verbenaceae, Pauwloniaceae"	"Plocospermataceae, Oleaceae, Peltanthera, Sanango, Buddleja, Stilbaceae, Bignoniaceae, Avicennia, Schlegeliaceae, Thomersandersiaceae, Verbenaceae, Pauwloniaceae"	SIM
+Aquifoliales	1	"Cardiopteridaceae, Stemonuraceae, Aquifoliaceae, Helwingiaceae, Phyllonomaceae"	"Cardiopteridaceae, Stemonuraceae, Aquifoliaceae, Helwingiaceae, Phyllonomaceae"	SCAL
+Rousseaceae	1	"Abrophyllum, Carpodetus, Cuttsia, Roussea"	"Abrophyllum, Carpodetus, Cuttsia, Roussea"	SCAL
+Campanulaceae	0		"84 genera, mostly herbaceous"	
+Pentaphragmataceae	1	Pentaphragma	Pentaphragma	SCAL
+Alseuosmiaceae	1	"Alseuosmia, Crispiloba, Platyspermation, Wittsteinia"	"Alseuosmia, Crispiloba, Platyspermation, Wittsteinia"	SCAL
+Phellinaceae	1	Phelline	Phelline	SCAL
+Argophyllaceae	1	"Argophyllum, Corokia"	"Argophyllum, Corokia"	SCAL
+Stylidiaceae	0		mostly herbaceous	
+rest of Asterales	0		"mainly herbaceous Menyanthaceae, Goodeniaceae, Calyceraceae"	
+early diverging Asteraceae	1	Barnadesioideae	"subfamily Barnadesioideae including 9 genera amongst others Barnadesia, Fucaldea, Dussenia"	SIM
+rest of Asteraceae	0		mainly herbaceous (and secondarily woody)	
+Escalloniales	1	"Anopterus, Eremosyne, Escallonia, Forgesia, Polyosma, Tribeles, Valdivia"	"Anopterus, Eremosyne, Escallonia, Forgesia, Polyosma, Tribeles, Valdivia"	SCAL
+Bruniales	1	"Staavia, Audouinia, Berzelia, Brunia, Nebelia, Lonchostoma, Linconia, Mniothamnea, Columellia, Desfontainia"	"Staavia, Audouinia, Berzelia, Brunia, Nebelia, Lonchostoma, Linconia, Mniothamnea, Columellia, Desfontainia"	SCAL
+Pennantiaceae	1	Pennantia	Pennantia	SCAL
+Aralidium	1	Aralidium		SCAL
+Melanophylla	1	Melanophylla		SIM
+Torricellia	1	Torricellia		SIM
+Griseliniaceae	1	Griselinia	Griselinia	SCAL
+rest of Apiales	1	"Pittosporaceae, Araliaceae, Mydyocarpaceae"	"Pittosporaceae, Araliaceae, Mydyocarpaceae"	SIM/SCAL
+early diverging Apiaceae	1	"Mackinlaya, Centella, Xanthosia, Actinotus, Steganotaenia, Hermas, Heteromorpha, Anginon"	"Mackinlaya, Centella, Xanthosia, Actinotus, Steganotaenia, Hermas, Heteromorpha, Anginon"	SIM
+rest of Apiaceae	0		mostly herbaceous	
+Viburnum	1	Viburnum		SCAL
+Sambucus	1	Sambucus		SIM
+Adoxa	0		herbaceous	
+Tetradoxa	0		herbaceous	
+Sinadoxa	0		herbaceous	
+Weigela	1	Weigela		SCAL
+Diervilla	1	Diervilla		SCAL
+Heptacodium	1	Heptacodium		SIM
+Triosteum	0		herbaceous	
+Symphoricarpos	1	Symphoricarpos		SIM
+Leycesteria	1	Leycesteria		SCAL
+Lonicera	1	Lonicera		SIM
+Linnaea	1	Linnaea		SIM
+Vesalea	1	Vesalea		SCAL
+Abelia	1	Abelia		SCAL
+Kolkwitzia	1	Kolkwitzia		SCAL
+Dipelta	1	Dipelta		SCAL
+Diabelia	1	Diabelia		SCAL
+Morina clade	0		herbaceous genera Morina	
+Zabelia	1	Zabelia		SIM
+Dipsacus clade	0		"mostly herbaceous Cephalaria, Dipelta, Dipsacus, Heptacodium, Knautia, Succisa"	
+Triplostegia	0		herbaceous	
+Valeriana clade	0		"mostly herbaceous Patrinia, Centranthus, Fedia, Plectritis, Valeriana, Valerianella"	
+Quintinia	1	Quintinia		SCAL
+Paracryphia	1	Paracryphia		SCAL
+Sphenostemon	1	Sphenostemon		SCAL
