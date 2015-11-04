@@ -25,6 +25,11 @@ for TAXON in $TAXA; do
 		smrt taxize -b -r $TAXON
 	fi
 	
+	# run smrt align
+	if [ ! -e "aligned.txt" ]; then
+		smrt align
+	fi
+	
 	# move back
 	cd -
 
