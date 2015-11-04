@@ -20,17 +20,26 @@ for TAXON in $TAXA; do
 	# move into working directory
 	cd $SUPERSMART/$TAXON
 
-	# run smrt taxize
+	# perform taxonomic name resolution
 	if [ ! -e "species.tsv" ]; then
 		smrt taxize -b -r $TAXON
 	fi
 	
-	# run smrt align
+	# align all phylota clusters for the species
 	if [ ! -e "aligned.txt" ]; then
 		smrt align
 	fi
 	
+	# run all-vs-all BLAST merger on phylota clusters
+	if [ ! -e "merged.txt "]; then
+		smrt orthologize
+	fi
+	
+	# perform a supermatrix merger, produce marker table
+	if [ ! -e "markers-backbone.tsv" ]; then
+		smrt bbmerge
+	fi
+	
 	# move back
 	cd -
-
 done
