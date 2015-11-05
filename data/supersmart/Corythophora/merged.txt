@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/cluster11.fa

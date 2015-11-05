@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/cluster15.fa

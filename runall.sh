@@ -2,6 +2,7 @@
 
 SPREADSHEET=data/taxa/sampling_asterids_tree.tsv
 SUPERSMART=data/supersmart
+export SUPERSMART_BACKBONE_MAX_DISTANCE=0.25
 
 # make top level working directory
 if [ ! -d "$SUPERSMART" ]; then

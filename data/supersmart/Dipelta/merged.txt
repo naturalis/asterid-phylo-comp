@@ -1,0 +1,4 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Dipelta/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Dipelta/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Dipelta/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Dipelta/cluster6.fa

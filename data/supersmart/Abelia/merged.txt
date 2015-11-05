@@ -1,0 +1,7 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/cluster7.fa

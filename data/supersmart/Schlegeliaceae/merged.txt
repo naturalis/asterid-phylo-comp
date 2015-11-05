@@ -1,0 +1,3 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/cluster6.fa

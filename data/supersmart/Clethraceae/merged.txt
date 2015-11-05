@@ -1,0 +1,5 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/cluster10.fa

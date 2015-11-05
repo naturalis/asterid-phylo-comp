@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Linconia/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Linconia/cluster2.fa

@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Garrya/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Garrya/cluster2.fa

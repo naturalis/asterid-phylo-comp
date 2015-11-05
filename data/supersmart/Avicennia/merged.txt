@@ -1,0 +1,17 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster12.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster13.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster15.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster16.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster17.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster18.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Avicennia/cluster19.fa

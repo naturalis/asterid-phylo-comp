@@ -1,0 +1,3 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Escallonia/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Escallonia/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Escallonia/cluster4.fa

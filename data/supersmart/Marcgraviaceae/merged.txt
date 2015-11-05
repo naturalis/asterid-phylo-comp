@@ -1,0 +1,5 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/cluster8.fa

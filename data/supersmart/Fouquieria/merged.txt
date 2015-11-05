@@ -1,0 +1,8 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster13.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Fouquieria/cluster15.fa

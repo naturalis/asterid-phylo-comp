@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Staavia/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Staavia/cluster2.fa

@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Berzelia/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Berzelia/cluster3.fa

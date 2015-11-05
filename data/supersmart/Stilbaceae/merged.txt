@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stilbaceae/cluster11.fa

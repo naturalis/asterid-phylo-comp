@@ -1,0 +1,5 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Weigela/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Weigela/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Weigela/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Weigela/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Weigela/cluster11.fa

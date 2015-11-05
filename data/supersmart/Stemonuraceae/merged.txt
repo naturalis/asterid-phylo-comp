@@ -1,0 +1,5 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/cluster10.fa

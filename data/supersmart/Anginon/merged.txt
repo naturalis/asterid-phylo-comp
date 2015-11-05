@@ -1,0 +1,6 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Anginon/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Anginon/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Anginon/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Anginon/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Anginon/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Anginon/cluster9.fa

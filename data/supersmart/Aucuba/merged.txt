@@ -1,0 +1,4 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/cluster4.fa
