@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/221078684-3642-35-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/224382593-42627-17-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/224987290-42627-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/267476708-3642-38-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/267476864-3642-39-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/387768643-3642-37-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/441523624-3642-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/441523624-42627-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/90856061-42627-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/92918729-42627-1-subtree.fa

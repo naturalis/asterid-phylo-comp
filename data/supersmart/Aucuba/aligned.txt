@@ -1,0 +1,5 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/23393927-16900-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/27544754-16900-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/27544763-16900-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/37542660-4286-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Aucuba/38426393-4286-9-subtree.fa

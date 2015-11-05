@@ -1,0 +1,12 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/158251891-3642-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/158251928-79564-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/158251943-79564-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/158530268-79564-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/161783836-79564-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/37039753-79564-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/37039901-3642-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/4322253-3642-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/441523624-3642-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/90855975-79564-32-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/92918702-79564-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Corythophora/994800-3642-1-subtree.fa

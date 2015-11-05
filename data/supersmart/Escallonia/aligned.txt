@@ -1,0 +1,4 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Escallonia/1777678-23075-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Escallonia/18075934-23075-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Escallonia/6687549-703245-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Escallonia/9856890-39020-7-subtree.fa

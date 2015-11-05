@@ -1,0 +1,17 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/158251880-3642-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/158251905-79574-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/158251925-79574-12-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/158251938-79574-13-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/158530269-3642-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/161783831-79574-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/224382615-79574-14-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/224987286-3642-36-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/267476708-3642-38-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/267476798-79574-17-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/37039903-79574-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/387768643-3642-37-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/4206684-79574-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/441523624-3642-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/441523644-79574-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/90856017-79574-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/92918780-79574-1-subtree.fa

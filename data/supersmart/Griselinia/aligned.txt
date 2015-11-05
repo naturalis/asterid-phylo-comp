@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/11323496-16912-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/14718067-16912-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/164371392-4036-87-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/164685683-16912-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/22796304-16912-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/255958515-16912-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/255958784-16912-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/30524708-42225-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/33563003-4036-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/6687618-16912-6-subtree.fa

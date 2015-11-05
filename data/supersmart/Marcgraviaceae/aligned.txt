@@ -1,0 +1,12 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/15810715-164981-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/15810723-55360-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/15810723-55388-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/15810739-164981-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/2058346-55360-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/224382268-55360-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/22797160-55360-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/387768415-55360-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/57340752-55360-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/6706289-55360-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/74134066-55360-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Marcgraviaceae/8517630-55360-0-subtree.fa

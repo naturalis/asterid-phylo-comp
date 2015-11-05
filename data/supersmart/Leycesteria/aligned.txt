@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/11138685-4200-14-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/165934090-52834-12-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/165934229-4200-61-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/165934283-52834-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/17980586-52834-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/224995095-4200-62-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/226534280-52834-13-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/22795880-4199-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/33299974-52834-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Leycesteria/52429797-4199-59-subtree.fa
