@@ -34,14 +34,14 @@ for TAXON in $TAXA; do
 	if [ -e "aligned.txt" ] && [ ! -e "merged.txt" ]; then
 		smrt orthologize
 	else
-		echo "no alignments were made, won't cluster"
+		echo "no alignments were made for $TAXON, won't cluster"
 	fi	
 	
 	# perform a supermatrix merger, produce marker table
 	if [ -e "merged.txt" ] && [ ! -e "markers-backbone.tsv" ]; then
 		smrt bbmerge --exemplars -1
 	else
-		echo "no clustering was done, won't merge"
+		echo "no clustering was done for $TAXON, won't merge"
 	fi	
 	
 	# move back
