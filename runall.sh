@@ -27,18 +27,22 @@ for TAXON in $TAXA; do
 	
 	# align all phylota clusters for the species
 	if [ ! -e "aligned.txt" ]; then
-		smrt align
-	fi
+		smrt align				
+	fi	
 	
 	# run all-vs-all BLAST merger on phylota clusters
-	if [ ! -e "merged.txt "]; then
+	if [ -e "aligned.txt" ] && [ ! -e "merged.txt" ]; then
 		smrt orthologize
-	fi
+	else
+		echo "no alignments were made, won't cluster"
+	fi	
 	
 	# perform a supermatrix merger, produce marker table
-	if [ ! -e "markers-backbone.tsv" ]; then
+	if [ -e "merged.txt" ] && [ ! -e "markers-backbone.tsv" ]; then
 		smrt bbmerge --exemplars -1
-	fi
+	else
+		echo "no clustering was done, won't merge"
+	fi	
 	
 	# move back
 	cd -
