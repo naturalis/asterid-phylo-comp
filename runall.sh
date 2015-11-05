@@ -37,7 +37,7 @@ for TAXON in $TAXA; do
 	
 	# perform a supermatrix merger, produce marker table
 	if [ ! -e "markers-backbone.tsv" ]; then
-		smrt bbmerge
+		smrt bbmerge --exemplars -1
 	fi
 	
 	# move back
