@@ -24,11 +24,16 @@ GetOptions(
 		}
 		if ( $record[1] ) {
 			$record[2] =~ s/"//g;
-			my @subtaxa = grep { /\S/ } split /,\s*/, $record[2];
-			for my $taxon ( @subtaxa ) {
-				if ( not -d "${outdir}/${taxon}" ) {
-					mkdir "${outdir}/${taxon}";
-				}
+			my $root = $record[0];
+			$root =~ s/ /_/g;
+			$root =~ s/"//g;
+			if ( not -d "${outdir}/${root}" ) {
+				mkdir "${outdir}/${root}";
+			}
+			if ( not -e "${outdir}/${root}/names.txt" ) {
+				my @subtaxa = grep { /\S/ } split /,\s*/, $record[2];
+				open my $fh, '>', "${outdir}/${root}/names.txt" or die $!;
+				print $fh join ",", @subtaxa;
 			}
 		}
 	}

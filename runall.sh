@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SPREADSHEET=data/taxa/sampling_asterids_tree.tsv
-SUPERSMART=data/supersmart
+SUPERSMART=data/supersmart-merged
 export SUPERSMART_BACKBONE_MAX_DISTANCE=0.25
 
 # make top level working directory
@@ -23,7 +23,7 @@ for TAXON in $TAXA; do
 
 	# perform taxonomic name resolution
 	if [ ! -e "species.tsv" ]; then
-		smrt taxize -b -r $TAXON
+		smrt taxize -b -r `cat names.txt`
 	fi
 	
 	# align all phylota clusters for the species
