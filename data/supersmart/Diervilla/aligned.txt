@@ -1,0 +1,4 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Diervilla/22795880-4200-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Diervilla/22795990-19933-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Diervilla/295454-4200-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Diervilla/33299979-19933-5-subtree.fa

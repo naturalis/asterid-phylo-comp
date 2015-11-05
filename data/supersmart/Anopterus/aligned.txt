@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Anopterus/6687549-703245-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Anopterus/9856890-57721-0-subtree.fa

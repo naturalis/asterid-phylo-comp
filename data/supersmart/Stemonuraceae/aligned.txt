@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/17932802-159362-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/22795908-91883-118-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/22797628-91883-119-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/305672070-91883-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/305672270-91883-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/308096536-159362-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/308096673-159362-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/359360713-159362-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/6689005-91883-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Stemonuraceae/769777-91883-8-subtree.fa

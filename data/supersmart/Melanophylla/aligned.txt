@@ -1,0 +1,3 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Melanophylla/10945632-138900-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Melanophylla/255958518-46412-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Melanophylla/255958813-46412-5-subtree.fa
