@@ -1,7 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Diapensiaceae/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Diapensiaceae/cluster2.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Diapensiaceae/cluster3.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Diapensiaceae/cluster5.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Diapensiaceae/cluster7.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Diapensiaceae/cluster8.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Diapensiaceae/cluster9.fa

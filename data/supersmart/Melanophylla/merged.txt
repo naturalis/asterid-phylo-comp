@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Melanophylla/cluster2.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Melanophylla/cluster3.fa

@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Heteromorpha/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Heteromorpha/cluster4.fa

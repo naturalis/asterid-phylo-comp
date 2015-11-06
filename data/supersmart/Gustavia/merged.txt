@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Gustavia/cluster4.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gustavia/cluster5.fa

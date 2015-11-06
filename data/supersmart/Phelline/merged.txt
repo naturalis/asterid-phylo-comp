@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Phelline/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Phelline/cluster2.fa

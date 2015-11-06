@@ -1,6 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/cluster3.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/cluster5.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/cluster6.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/cluster7.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Griselinia/cluster8.fa

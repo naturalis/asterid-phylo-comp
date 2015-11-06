@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Mniothamnea/45548786-266427-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Mniothamnea/45548991-266427-2-subtree.fa

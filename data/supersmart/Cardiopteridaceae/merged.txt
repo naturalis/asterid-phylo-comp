@@ -1,5 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Cardiopteridaceae/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cardiopteridaceae/cluster2.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cardiopteridaceae/cluster3.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cardiopteridaceae/cluster4.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cardiopteridaceae/cluster8.fa

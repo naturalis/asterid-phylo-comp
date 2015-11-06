@@ -1,6 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Tetrameristaceae/11558518-91901-2-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Tetrameristaceae/14718166-91901-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Tetrameristaceae/19919594-91901-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Tetrameristaceae/302748047-91901-9-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Tetrameristaceae/57648204-91901-13-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Tetrameristaceae/57868885-91901-15-subtree.fa

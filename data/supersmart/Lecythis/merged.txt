@@ -1,9 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster7.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster8.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster9.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster10.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster12.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster13.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster14.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster15.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Lecythis/cluster16.fa

@@ -1,6 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Barringtonia/15127774-3642-65-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Barringtonia/221078684-3642-35-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Barringtonia/22795964-79556-5-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Barringtonia/313504511-3642-40-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Barringtonia/34015040-3642-55-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Barringtonia/6687204-3642-8-subtree.fa

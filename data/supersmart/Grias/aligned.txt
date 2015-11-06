@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Grias/22795964-3642-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Grias/90855953-79570-0-subtree.fa

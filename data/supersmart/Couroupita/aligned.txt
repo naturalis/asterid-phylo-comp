@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Couroupita/22795964-3642-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Couroupita/6687204-66683-2-subtree.fa

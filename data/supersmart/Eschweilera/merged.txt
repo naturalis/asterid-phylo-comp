@@ -1,9 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster2.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster3.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster4.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster5.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster6.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster7.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster8.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Eschweilera/cluster9.fa

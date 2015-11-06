@@ -1,9 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/146148337-241778-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/164371392-364270-83-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/167890906-241786-6-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/171903905-241786-13-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/255958576-46363-3-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/255958847-46363-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/295016037-241786-14-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/33318510-46363-2-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Anginon/55584719-241786-2-subtree.fa

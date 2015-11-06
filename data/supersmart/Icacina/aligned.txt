@@ -1,5 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Icacina/17932806-4322-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Icacina/22796646-4322-11-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Icacina/22796667-4322-10-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Icacina/335059946-4321-6-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Icacina/335060191-4321-12-subtree.fa

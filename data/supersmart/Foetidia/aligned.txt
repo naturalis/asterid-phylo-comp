@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Foetidia/22795964-3642-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Foetidia/90855951-79568-3-subtree.fa

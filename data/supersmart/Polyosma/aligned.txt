@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Polyosma/18075934-39020-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Polyosma/22795862-703245-9-subtree.fa

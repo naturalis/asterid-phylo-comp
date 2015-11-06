@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Cariniana/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cariniana/cluster2.fa

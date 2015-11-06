@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Scytopetalum/90855937-372766-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Scytopetalum/92918798-372766-1-subtree.fa

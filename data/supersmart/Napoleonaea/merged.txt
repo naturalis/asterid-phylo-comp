@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Napoleonaea/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Napoleonaea/cluster2.fa

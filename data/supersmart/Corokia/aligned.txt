@@ -1,1 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Corokia/149389288-16908-4-subtree.fa

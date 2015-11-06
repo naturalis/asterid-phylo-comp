@@ -1,3 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Berzelia/348066-25738-14-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Berzelia/45548840-25738-2-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Berzelia/45548973-25736-17-subtree.fa

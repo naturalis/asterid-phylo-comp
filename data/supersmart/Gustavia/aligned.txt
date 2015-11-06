@@ -1,5 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Gustavia/224382613-79572-5-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gustavia/261864160-79572-7-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gustavia/4033983-79572-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gustavia/6687204-3642-8-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gustavia/92918762-79572-1-subtree.fa

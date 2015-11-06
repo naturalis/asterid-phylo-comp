@@ -1,4 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/cluster2.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/cluster3.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/cluster4.fa

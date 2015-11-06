@@ -1,4 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Hermas/110808742-317984-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Hermas/146148337-4037-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Hermas/255958613-241804-5-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Hermas/255958936-4037-8-subtree.fa

@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Phelline/7414408-4303-2-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Phelline/769779-4303-9-subtree.fa

@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Nebelia/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Nebelia/cluster2.fa

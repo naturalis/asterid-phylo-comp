@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Grias/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Grias/cluster2.fa

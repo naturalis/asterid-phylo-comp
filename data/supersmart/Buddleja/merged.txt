@@ -1,5 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Buddleja/cluster1.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Buddleja/cluster4.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Buddleja/cluster7.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Buddleja/cluster8.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Buddleja/cluster9.fa

@@ -1,4 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Couratari/cluster7.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Couratari/cluster12.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Couratari/cluster14.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Couratari/cluster15.fa

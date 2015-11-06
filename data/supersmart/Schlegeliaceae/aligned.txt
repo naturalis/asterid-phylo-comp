@@ -1,6 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/22797468-39253-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/22797588-91897-2-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/22797620-39253-3-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/270272222-91897-7-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/335059268-91897-13-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Schlegeliaceae/335059496-91897-8-subtree.fa

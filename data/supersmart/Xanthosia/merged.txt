@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Xanthosia/cluster2.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Xanthosia/cluster3.fa

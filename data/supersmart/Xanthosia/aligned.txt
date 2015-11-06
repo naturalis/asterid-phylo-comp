@@ -1,3 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Xanthosia/146148337-4037-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Xanthosia/255958568-90472-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Xanthosia/255958936-4036-2-subtree.fa
