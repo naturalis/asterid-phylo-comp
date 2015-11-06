@@ -1,0 +1,3 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Brunia/319998447-938261-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Brunia/45548832-57717-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Brunia/45548973-25736-17-subtree.fa

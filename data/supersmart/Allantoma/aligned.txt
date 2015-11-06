@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Allantoma/90855957-79554-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Allantoma/92918689-79554-1-subtree.fa

@@ -1,0 +1,4 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Heteromorpha/146148337-241778-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Heteromorpha/167890906-40688-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Heteromorpha/22795504-4037-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Heteromorpha/89213400-40688-19-subtree.fa

@@ -1,0 +1,4 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/126256533-26478-14-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/157887032-4055-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/335059540-83620-20-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Gelsemiaceae/6424708-4055-8-subtree.fa

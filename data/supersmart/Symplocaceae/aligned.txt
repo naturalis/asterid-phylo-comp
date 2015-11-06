@@ -1,0 +1,17 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/160690125-55372-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/18140710-55372-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/209489839-55372-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/209490117-55372-26-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/22797576-55372-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/259187014-55372-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/33284949-55372-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/33326496-55372-18-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/33342110-55372-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/38197986-55372-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/57340794-55372-30-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/57648214-55372-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/57648371-20019-22-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/57868911-55372-21-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/72011396-55372-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/72011617-55372-24-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Symplocaceae/8452757-55372-13-subtree.fa

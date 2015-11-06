@@ -1,0 +1,9 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/17863895-4200-20-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/17980593-86866-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/20530892-86866-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/22795880-4200-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/22796661-4200-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/284429049-4199-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/295454-4200-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/36938518-4199-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Abelia/6424732-4199-13-subtree.fa

@@ -1,0 +1,12 @@
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/20146555-13434-13-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/20257333-13434-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/20257333-16611-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/20269401-13434-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/22795958-16611-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/33326682-16611-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/37543473-190255-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/37779271-16611-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/383212864-13434-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/384582046-16611-12-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/384589720-13434-14-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart/Clethraceae/6687121-13434-1-subtree.fa
