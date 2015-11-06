@@ -10,20 +10,30 @@ GetOptions(
 	'markers=s' => \@markers,
 );
 
-# start reading from directory
+# start reading data
 my %taxon;
-opendir my $dh, $indir or die $!;
-ENTRY: while( my $entry = readdir $dh ) {
-	next ENTRY if $entry =~ /^\.\.?$/;
-	next ENTRY unless -d "${indir}/${entry}";
+if ( -d $indir ) {
+	opendir my $dh, $indir or die $!;
+	ENTRY: while( my $entry = readdir $dh ) {
+		next ENTRY if $entry =~ /^\.\.?$/;
+		next ENTRY unless -d "${indir}/${entry}";
+		read_table( "${indir}/${entry}/markers-backbone.tsv" => $entry );
+	}
+}
+else {
+	read_table( $indir => 'MISSING' );	
+}
+
+sub read_table {
+	my ( $file, $entry ) = @_;
 	my @entries;
 	
 	# have a marker table
-	if ( -e "${indir}/${entry}/markers-backbone.tsv" ) {
+	if ( -e $file ) {
 	
 		# start reading marker table
 		my @header;
-		open my $fh, '<', "${indir}/${entry}/markers-backbone.tsv" or die $!;
+		open my $fh, '<', $file or die $!;
 		LINE: while(<$fh>) {
 			chomp;
 			my @record = split /\t/;
