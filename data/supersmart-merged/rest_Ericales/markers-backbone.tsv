@@ -1,0 +1,851 @@
+taxon	atpB	trnG	rpl16	unknown	26S-ribosomal-RNA	unknown.1	atp1	atpB-rbcL-intergenic-spacer	trnH-psbA-intergenic-spacer	rpoB	ndhF	rpoC1	rps16	contains-tRNA-Leu-and-trnL-trnF-intergenic-spacer	trnK	psbA-trnH-intergenic-spacer	18S-ribosomal-RNA	internal-transcribed-spacer-1,-ITS1	internal-transcribed-spacer-1,-ITS1.1	internal-transcribed-spacer-1,-ITS1.2	unknown.2	trnS	nad5	contains-trnL,-trnL-trnF-intergenic-spacer-region,-and-trnF	sphingolipid-delta-8-desaturase	DEF	matR	rbcL	rps16-trnK-intergenic-spacer	rps4	rbcL.1	trnH-psbA-intergenic-spacer.1	contains-trnD-trnY-intergenic-spacer,-tRNA-Tyr-(trnY),-trnY-trnE-intergenic-spacer,-tRNA-Glu-(trnE),-and-trnE-trnT-intergenic-spacer	psbD-trnT-intergenic-spacer	ndhF-rpl32-intergenic-spacer	unknown.3	trnT	internal-transcribed-spacer-1,-ITS1.3	trnD-trnT-intergenic-spacer-region	aat	trnS-trnG-intergenic-spacer	trnT-trnL-intergenic-spacer	ndhF.1	psbA-trnH-intergenic-spacer.1	trnH-psbA-intergenic-spacer,-IGS	rpl20-rps12-intergenic-spacer	GLO	petN-psbM-intergenic-spacer,-IGS	Xdh	psbM-trnD-intergenic-spacer,-IGS	trnC-petN-intergenic-spacer,-IGS	
+Pelletiera verna						AY855155								AY855126																													AY839990									
+Sideroxylon confertum						AM408068																																					AM407941		AM407738							
+Sideroxylon borbonicum						AM408064																																					AM407937								AM407796	
+Sideroxylon stenospermum						AM408101																																					AM407956		AM407752							
+Primula calyptrata													FJ786618	FJ794250	FJ828646																																					
+Primula auricula						AM920498																													JQ755618				JQ755533													
+Primula efarinosa													FJ786585	FJ794216	FJ828616																																					
+Primula celsiiformis													FJ786600	FJ794232	FJ828629																																					
+Primula duclouxii															JF955701													JF943639																JN046513								
+Primula virginis															JF955789													JF943724																JN046596								
+Primula petiolaris			AF402512											AF402392																								AJ491431														
+Primula florindae			AF402499			AF396691								AF402379																																						
+Primula barbicalyx													FJ786619	FJ794251	FJ828647																																					
+Primula cusickiana																																		JQ755569	JQ755612				JQ755527													
+Primula sertulum													FJ786572	FJ794203	FJ828604																																					
+Primula caldaria													FJ786558	FJ794189	FJ828592																																					
+Primula veitchiana	AF213788																											AF213802															AF213759									
+Primula grandis						HM629090																							HM628935												HM629005											
+Primula pseudodenticulata													FJ786556	FJ794187	FJ828590																																					
+Primula hidakana			AF402544											AF402424														AF394998																								
+Primula sinomollis													FJ786605	FJ794237	FJ828634																																					
+Primula renifolia						HM629171																							HM628943												HM629013											
+Primula saturata													FJ786623	FJ794256	FJ828650																																					
+Cyclamen cilicium						AM990474							AM990492	AJ236985																																						
+Cyclamen balearicum						AF164000							AM990491	AM990517																																						
+Cyclamen cyprium						AF164002							AM990496	AJ236991																																						
+Cyclamen parviflorum						AM990480							AM990504	AM990530																																						
+Cyclamen africanum						AF163999							AM990490	AM990516																																						
+Cyclamen libanoticum						AF164005							AM990502	AJ236997																																						
+Cyclamen alpinum						AM990485							AM990513	AJ237008																																						
+Cyclamen creticum						AM990476							AM990495	AM990521																																						
+Cyclamen coum						AF164001							AM990494	AM990520																																						
+Cyclamen somalense			DQ384934			DQ384932								DQ384936																																						
+Cyclamen pseudibericum						AF164007							AM990509	AM990535																																						
+Cyclamen intaminatum						AF164010							AM990501	AM990527																																						
+Cyclamen mirabile						AF164006							AM990503	AM990529																																						
+Cyclamen rohlfsianum						AF164009							AM990512	AM990538																																						
+Pycnandra griseosepala				EU661414																																					EU661480				EU661528							
+Pycnandra blanchonii				EU661390																																					EU661461				EU661509							
+Pycnandra schmidii				EU661396																																					EU661466				EU661514							
+Letestua durissima																																											AM179779		AM179724					AM179592		
+Micropholis garciniifolia															HM446713													HM446833																	HM446965							
+Micropholis porphyrocarpa						FJ037883								FJ039197														JQ626009																								
+Douglasia montana						AY275024								AY275002						AJ491446																																
+Eberhardtia tonkinensis						AF456258								AF534666													AY163750																									
+Planchonella novozelandica						AF396230								AF396221																																			EU264331			
+Planchonella xylocarpa				HE860236		DQ154049																									JF738490																					
+Planchonella thyrsoidea				HE860230		HE860112																									JF738448																					
+Planchonella australis				HE860173		AY552148																																					AY230713									
+Planchonella myrsinoides				HE860214		AY552142																																					AY230722									
+Planchonella costata				HE860178		DQ499144											GU476466																																			
+Diospyros morrisiana															HQ427383													HQ427240																HQ415533								
+Diospyros batocana																								FJ238262																				FJ238219							FJ238176	
+Diospyros cathayensis						FJ624404									GU471717													GU471700																								
+Diospyros chamaethamnus																								FJ238263																				FJ238220							FJ238177	
+Diospyros zenkeri															FJ238140																													FJ238225							FJ238182	
+Diospyros oleifera						AB175016									AB174997													GU471696																								
+Diospyros eriantha															HQ415355													HQ415185																HQ415534								
+Dionysia gaubae						AY680740							AY680783	AY680827																																						
+Dionysia lamingtonii						AY680743							AY680786	AY680830																																						
+Dionysia denticulata						AY680721							AY680764	AY680808																																						
+Dionysia sarvestanica						AY680715							AY680758	AY680802																																						
+Dionysia lindbergii						AY680748							AY680791	AY680835																																						
+Dionysia termeana						AY680747							AY680790	AY680834																																						
+Dionysia iranica						AY680741							AY680784	AY680828																																						
+Dionysia haussknechtii						AY680720							AY680763	AY680807																																						
+Dionysia oreodoxa						AY680744							AY680787	AY680831																																						
+Dionysia archibaldii						AY680737							AY680780	AY680824																																						
+Dionysia odora						AY680719							AY680762	AY680806																																						
+Dionysia rhaptodes						AY680745							AY680788	AY680832																																						
+Dionysia mozaffarianii						AY680716							AY680759	AY680803																																						
+Dionysia khatamii						AY680742							AY680785	AY680829																																						
+Dionysia khuzistanica						AY680727							AY680770	AY680813																																						
+Dionysia viscidula						AY680722							AY680765	AY680809																																						
+Dionysia caespitosa						AY680738							AY680781	AY680825																																						
+Dionysia freitagii						AY680729							AY680772	AY680815																																						
+Dionysia bryoides						AY680728							AY680771	AY680814																																						
+Dionysia curviflora						AY680739							AY680782	AY680826																																						
+Dionysia michauxii						AY680714							AY680757	AY680801																																						
+Dionysia teucrioides						AY680734							AY680777	AY680820																																						
+Chrysophyllum mexicanum						JF912991							JF913194									JF913101																														
+Chrysophyllum bicolor						JF912987							JF913188									JF913095																														
+Chrysophyllum pauciflorum						JF912986							JF913189									JF913096																														
+Bonellia umbellata														AY228611														Z80206															AF207962									
+Bonellia frutescens														AY228615														AF213816															AY228592									
+Bonellia stenophylla														AY228620														AF213815															AY228580									
+Maesa salicifolia															HQ415257													HQ415072																HQ415424								
+Clavija lancifolia					AY727962								JF275973																	JF275971																						
+Ardisia standleyana															GQ981940	GQ982152												GQ981671																								
+Ardisia revoluta															JQ588470	GQ429133												JQ592919																								
+Ardisia glauca															HM446657	HM446888												HM446759																								
+Ardisia involucrata						JF416246								JF416266	JF416273																																					
+Ardisia ensifolia						JN253021										JN253123															JN253177																					
+Ardisia bartlettii															GQ981938	GQ982150												GQ981669																								
+Ardisia paniculata													JF416256	JF416267	JF416270																																					
+Ardisia maculosa						JN253020										JN253122															JN253176																					
+Lysimachia vittiformis						AF547711								AF547766																													AY840003									
+Lysimachia nutantiflora						AF547710								AF547765																													AY840011									
+Lysimachia microcarpa						AF547732								AF547774																													AY840013									
+Lysimachia alpestris						AF547685								AF547742																													AY839997									
+Lysimachia confertifolia						AF547715								AF547770																													AY840012									
+Lysimachia azorica						AF164017									HM850733													HM850151																								
+Lysimachia punctata						AF547718								AF547780																													AY839987									
+Lysimachia petelotii						AF547713								AF547768																													AY839998									
+Lysimachia lancifolia						AF547717								AF547772																													AY840006									
+Lysimachia minoricensis	AF213778																											AF213809															AF213749									
+Androsace sublanata													FJ786608	FJ794240	FJ828637																																					
+Androsace alpina						AY275052								AY274975						AJ491444																																
+Samolus dichondrifolius						HQ284124							HQ284095	HQ284068																																						
+Samolus latifolius						HQ284115								HQ284064																											HQ284152											
+Samolus cinerascens						HQ284129							HQ284100	HQ284073																																						
+Vitellaria paradoxa																																											AM179804		AM179776					AM179644		
+Lissocarpa ronliesneri	DQ923972													DQ924297	DQ924080																																					
+Pouteria reticulata															JQ589189													JQ625962																	GQ982327							
+Pouteria stipitata															GQ982069													GQ981842																	GQ982328							
+Pouteria fossicola															GQ982068													GQ981840																	GQ982326							
+Sideroxylon puberulum						AM408094																																		AM407995			AM407953								AM407811	
+Sideroxylon beguei						AM408062																																					AM407936		AM407734					AM407758		
+Sideroxylon capuronii						AM408066																																					AM407939		AM407736						AM407798	
+Sideroxylon tambolokoko						AM408103																																					AM407958		AM407754						AM407815	
+Primula bracteosa			DQ378476											DQ378565	DQ378371									DQ378776																												
+Primula minor			DQ378495											DQ378584	DQ378394									DQ378799																												
+Primula kialensis						JF977999									JF955717													JF943656																JN046529								
+Primula rotundifolia			DQ378500											AF402407	DQ378402									DQ378807																												
+Primula luteola			AF402461											AF402343	DQ378309									DQ378714																												
+Primula stuartii			DQ378493											DQ378582	DQ378392									DQ378797																												
+Primula reptans			AF402496											AF402376	DQ378336									DQ378741																												
+Primula littledalei			DQ378499											DQ378588	DQ378401									DQ378806																												
+Primula sorachiana								AB003580																D85700														AB011628				AB003573										
+Primula odontocalyx			DQ378473											DQ378562	DQ378368									DQ378773																												
+Primula asarifolia			DQ378502											DQ378591	DQ378405									DQ378810																												
+Primula bracteata			AF402548											AF402429	DQ378409									DQ378814																												
+Primula aureata			DQ378478											DQ378567	DQ378375									DQ378780																												
+Primula agleniana						JF977930									JF955648													JF943586																JN046458								
+Primula cernua			DQ378446											DQ378535	DQ378317									DQ378722																												
+Primula fedtschenkoi			AF402526											AF402406	DQ378399									DQ378804																												
+Primula diantha						JF977981									JF955698													JF943637																JN046510								
+Primula muscoides			DQ378461											DQ378550	DQ378337									DQ378742																												
+Primula rupestris						AF323697							FJ786566	FJ794197	FJ828585																																					
+Primula cachemiriana			DQ378452											DQ378541	DQ378325									DQ378730																												
+Primula flaccida			AF402465											AF402347	DQ378318									DQ378723																												
+Primula tenuiloba			DQ378462											DQ378551	DQ378338									DQ378743																												
+Primula wigramiana			DQ378449											DQ378538	DQ378321									DQ378726																												
+Primula florida			DQ378437											DQ378526	DQ378302									DQ378707																												
+Primula oreodoxa						JF978021									JF955741													JF943678																JN046551								
+Primula mollis			DQ378510											AF402427	DQ378419									DQ378824																												
+Primula glomerata			DQ378451											DQ378540	DQ378324									DQ378729																												
+Primula clarkei			AF402460											AF402342	DQ378307									DQ378712																												
+Primula prattii						JF978032									JF955753													JF943689																JN046563								
+Primula daonensis						AJ427772																												JQ755577	JQ755621				JQ755536													
+Primula deuteronana			DQ378477											DQ378566	DQ378372									DQ378777																												
+Primula filchnerae						AF323702							FJ786554	FJ794185	FJ828588																																					
+Primula munroi						JF978014									JF955736													JF943672																JN046546								
+Primula merrilliana						HQ199868							FJ786565	FJ794196	FJ828589																																					
+Primula prenantha			AF402519											AF402399	DQ378383									DQ378788																												
+Primula orbicularis			DQ378489											DQ378578	DQ378388									DQ378793																												
+Primula reidii			AF402467											AF402349	DQ378320									DQ378725																												
+Primula prolifera			DQ378485											AF402401	DQ378384									DQ378789																												
+Primula firmipes			AF402502											AF402382	DQ378360									DQ378765																												
+Primula glabra			DQ378457											DQ378546	DQ378331									DQ378736																												
+Primula baldshuanica			DQ378464											DQ378553	DQ378342									DQ378747																												
+Primula stirtoniana			DQ378459											DQ378548	DQ378334									DQ378739																												
+Primula tardiflora						JF978064									JF955787													JF943722																JN046595								
+Primula leucophylla			JX231063			JX231021								JX231096																							JX231042															
+Primula hongshanensis			DQ378492											DQ378581	DQ378391									DQ378796																												
+Primula apennina						AJ427754																												JQ755575	JQ755619				JQ755534													
+Primula advena			AF402525											AF402405	DQ378396									DQ378801																												
+Primula tosaensis			DQ378504											DQ378593	DQ378411									DQ378816																												
+Primula melanops						JF978005									JF955725													JF943662																JN046534								
+Primula spicata						JF978061									JF955783													JF943717																JN046591								
+Primula szechuanica						JF978063									JF955785													JF943720																JN046593								
+Primula elliptica			AF402459											AF402341	DQ378306									DQ378711																												
+Primula soongii			DQ378494											DQ378583	DQ378393									DQ378798																												
+Primula pedemontana						AJ427791																												JQ755578	JQ755622				JQ755537													
+Primula aliciae			DQ378438											DQ378527	DQ378303									DQ378708																												
+Primula petelotii			DQ378474											DQ378563	DQ378369									DQ378774																												
+Primula pumilio			AF402493											AF402373	DQ378327									DQ378732																												
+Primula waltonii			AF402500											AF402380	DQ378359									DQ378764																												
+Primula epilosa						JF977985									JF955703													JF943642																JN046516								
+Primula exscapa			DQ378472											DQ378561	DQ378367									DQ378772																												
+Primula erratica			AF402471											AF402353	DQ378322									DQ378727																												
+Cyclamen colchicum						AM990475							AM990493	AJ236986																			JF505199																			
+Coris monspeliensis	AF213770													AM990514														U96660															AF213738									
+Pycnandra kaalaensis				EU661415		EU661440																																			EU661481				EU661529							
+Pycnandra gordoniifolia				EU661392		AY552133																																			EU661462				EU661510							
+Pycnandra sarlinii				EU661395		EU661435																																			EU661465				EU661513							
+Pycnandra deplanchei				EU661380		AY552120																																			EU661451				EU661499							
+Pycnandra balansae				EU661387		AY552123																																			EU661457				EU661505							
+Pycnandra fastuosa				EU661412		AY552121																																			EU661478				EU661526							
+Pycnandra vieillardii				EU661417		EU661441																																			EU661483				EU661531							
+Pycnandra gatopensis				EU661413		EU661439																																			EU661479				EU661527							
+Pycnandra litseiflora				EU661393		DQ154060																																			EU661463				EU661511							
+Pycnandra carinocostata				EU661405		AY552132																																			EU661472				EU661520							
+Pycnandra sessilifolia				EU661397		AY552118																																			EU661467				EU661515							
+Pycnandra acuminata				EU661430		AY552124																																			EU661496				EU661544							
+Pycnandra chartacea				EU661406		EU661437																																			EU661473				EU661521							
+Pycnandra elegans				EU661409		DQ154091																																			EU661475				EU661523							
+Pycnandra lissophylla				EU661432		DQ154095																																			EU661498				EU661546							
+Pycnandra controversa				EU661408		AY552126																																			EU661474				EU661522							
+Pycnandra neocaledonica				EU661416		AY552129																																			EU661482				EU661530							
+Pycnandra benthamii				EU661404		EU661436																																			EU661471				EU661519							
+Jacquinia keyensis	AF213780													AY228624														AF213817															AF213746									
+Jacquinia aculeata						HQ284102							HQ284074	AY228623																											HQ284131											
+Euclea pseudebenus															FJ238119									FJ238244																				FJ238201							FJ238159	
+Euclea tomentosa									FJ238204		FJ238289													FJ238247																											FJ238162	
+Douglasia beringensis			AF402557			AY275018								AY274999	AY647536																																					
+Planchonella euphlebia				HE860187		DQ154069									JN564057																JN564324																					
+Planchonella sandwicensis				HE860221		DQ154084																																					AY230723		DQ377543							
+Planchonella pohlmaniana	AJ235398			HE860216		DQ154079																						AJ235788																								
+Planchonella luteocostata				EU661401		EF025099																																			EU661470				EU661518							
+Planchonella tahitensis				HE860228		EF025105																																					DQ377524		DQ377544							
+Diospyros austroafricana															FJ238123									FJ238249																				FJ238206							FJ238164	
+Diospyros monbuttensis															FJ238145									FJ238273																				FJ238230							FJ238187	
+Diospyros scabrida															FJ238129									FJ238255																				FJ238212							FJ238170	
+Diospyros rabiensis															FJ238147									FJ238275																				FJ238232							FJ238189	
+Diospyros viridicans															FJ238150									FJ238278																				FJ238235							FJ238192	
+Dionysia involucrata						AY680705							AY680750	AY680793														AF394991																								
+Dionysia lurorum						AY680718							AY680761	AY680805														AY753637																								
+Dionysia leucotricha						AY680717							AY680760	AY680804														AY753636																								
+Dionysia paradoxa						AY680724							AY680753	AY680811														AY753633																								
+Dionysia mira						AY680733							AY680776	AY680819														AY753638																								
+Dionysia diapensiifolia						AY680713							AY680756	AY680800														AY753635																								
+Dionysia esfandiarii						AY680712							AY680755	AY680799														AY753634																								
+Dionysia janthina						AY680711							AY680754	AY680798														AF395007																								
+Dionysia microphylla						AY680706							AY680751	AY680794														AF394993																								
+Chrysophyllum eximium						FJ037866								FJ039179														JQ625950																	FJ039054							
+Bonellia nervosa														AY228614	JQ588859													JQ593549															AY228590									
+Maesa myrsinoides	AJ235525				AF479152																							Z80203																					EU264330			
+Omphalogramma minus						JF977192									JF954772																JF942677	JN045614																				
+Omphalogramma tibeticum						JF977199									JF954781																JF942687	JN045627																				
+Omphalogramma forrestii						JF977187									JF954767																JF942673	JN045613																				
+Omphalogramma elegans						JF977182									JF954761																JF942668	JN045606																				
+Clavija euerganea	AF213771													AY228609																													AF213737						EU264363			
+Ardisia chinensis						JN252968									JN253022	JN253070															JN253124																					
+Ardisia curvula						JN252975									JN253028	JN253077															JN253131																					
+Ardisia elegans						JN252996									JN253049	JN253099															JN253153																					
+Ardisia dasyrhizomatica						JN252970									JN253023	JN253071															JN253126																					
+Ardisia ordinata						JN253009									JN253060	JN253111															JN253165																					
+Ardisia verbascifolia						JN638408									JN638409													JN638410																JN638411								
+Ardisia fordii						JN253002									JN253053	JN253104															JN253158																					
+Ardisia solanacea						JF416245							JF416255	JF416265	JF416278																																					
+Ardisia argenticaulis						JN253016									JN253066	JN253118															JN253172																					
+Ardisia corymbifera						JN253018									JN253068	JN253120															JN253174																					
+Monotheca buxifolia	AF420977																										AF421018	AF421097															AF421066									
+Sebertia gatopensis				EU661431		DQ154092																																			EU661497				EU661545							
+Autranella congolensis																																											AY230666		AM179710					AM179581	AM179648	
+Leptostylis grandifolia				EU661384		DQ154053																																			EU661454				EU661502							
+Leptostylis goroensis				EU661383		DQ154052																																			EU661453				EU661501							
+Corbassona intermedia				EU661381		AY552119																																			EU661452				EU661500							
+Lysimachia hemsleyana						JF976932									JF954484													JF942398																JN045342								
+Lysimachia klattiana						JF976947									JF954501													JF942415																JN045363								
+Lysimachia pendens						GQ258048															GQ258026																				GQ258004					GQ257931						
+Lysimachia patungensis						JF976967									JF954521													JF942435																JN045380								
+Lysimachia ephemerum						AF547720								AF547798														AF213807															AY839976									
+Lysimachia hemsleyi						JF976934									JF954485													JF942402																JN045350								
+Lysimachia erosipetala						JF976915									JF954464													JF942378																JN045326								
+Lysimachia chekiangensis						JF976891									JF954438													JF942352																JN045300								
+Lysimachia gesnerioides						JF976926									JF954476													JF942390																JN045338								
+Lysimachia chapaensis						JF976889									JF954436													JF942350																JN045297								
+Lysimachia pentapetala						JN638407									JF954523													JF942437																JN045385								
+Lysimachia heterobotrys						JF976937									JF954490													JF942404																JN045352								
+Lysimachia dextrorsiflora						JF976913									JF954462													JF942375																JN045324								
+Ochrothallus multipetalus				EU661394		EU661434																																			EU661464				EU661512							
+Manilkara mayarensis																																											AM179787		AM179735					AM179603	AM179669	
+Niemeyera chartacea				HE860157		DQ154057																																			EU661458				EU661506							
+Mimusops comorensis																																											AY230700		AM179740					AM179608	AM179674	
+Androsace erecta						AY275097								AY545780														AF395004															AF421115									
+Androsace vitaliana		FJ606071				EU109182																FJ692472																								FJ605855						
+Androsace sempervivoides			AF402555											AF402436	AY647535									DQ378837																												
+Samolus parviflorus						HQ284123							HQ284083	HQ284052																											HQ284139											
+Samolus porosus						HQ284104							HQ284085	HQ284056																											HQ284142											
+Samolus eremaeus						HQ284103							HQ284084	HQ284054																											HQ284141											
+Samolus vagans						HQ284130							HQ284081	HQ284051																											HQ284138											
+Samolus spathulatus						HQ284113							HQ284094	HQ284065																											HQ284153											
+Myrsine seguinii													AB178628	AB178629	HQ415303																HQ415125																					
+Pouteria ambelaniifolia						FJ037886						FJ038789		FJ039234														JQ626230																								
+Pouteria singularis												FJ038807		FJ039317														JQ626061																	GQ428715							
+Sideroxylon angustum						AM408061																																					AM407935		AM407733					AM407757	AM407795	
+Sideroxylon mascatense						AM408085																																							AM179762			AM179565		AM179630	AM179696	
+Primula valentinae			DQ378456			AM920475								DQ378545	DQ378330									DQ378735																												
+Primula tyrolensis			AJ427903			AJ427795																												JQ755572	JQ755615				JQ755530													
+Primula sinolisteri			DQ378501										FJ786606	FJ794238	DQ378404									DQ378809																												
+Primula wulfeniana			AJ427859			AJ427799																												JQ755571	JQ755614				JQ755529													
+Primula geraniifolia			AF402546										FJ786610	FJ794242	FJ828638									DQ378822																												
+Primula cottia			AJ427904			AJ427796																												JQ755576	JQ755620				JQ755535													
+Primula simensis			DQ378432			AJ491676								DQ378521	DQ378295									DQ378700																												
+Primula watsonii			DQ378443										FJ786584	FJ794215	FJ828615									DQ378719																												
+Primula maximowiczii			DQ378497			AM920497								DQ378586	DQ378398									DQ378803																												
+Primula tschuktschorum			AF402523			AM920495								AF402403	DQ378395									DQ378800																												
+Primula pinnatifida			DQ378445										FJ786570	FJ794201	DQ378316									DQ378721																												
+Primula primulina			DQ378460										FJ786613	FJ794245	DQ378335									DQ378740																												
+Primula serrata			DQ378465			AM920469								DQ378554	DQ378343									DQ378748																												
+Primula reticulata			DQ378470			AF396694								DQ378559	DQ378358									DQ378763																												
+Primula glaucescens			AJ427893			AJ427774																												JQ755582	JQ755626				JQ755541													
+Primula latifolia			AJ427897			JQ755722																												JQ755608	JQ755655				JQ755561													
+Primula vialii			AF402466											AF402348	DQ378313									DQ378718	AY234126																											
+Primula caveana			DQ378498										FJ786612	FJ794244	FJ828640									DQ378805																												
+Primula villosa			AJ427905			AJ427797																												JQ755573	JQ755616				JQ755531													
+Primula muscarioides			AF402463											DQ378530	DQ378311									DQ378716				AF394970																								
+Primula warshenewskiana			DQ378440			AM920477								DQ378529	DQ378308									DQ378713																												
+Primula latisecta			DQ378509										FJ786576	FJ794207	FJ828608									DQ378821																												
+Primula allionii			AJ427887			JQ755782																												JQ755606	JQ755652				JQ755565													
+Primula spectabilis			AJ427902			AJ427794																												JQ755574	JQ755617				JQ755532													
+Cyclamen purpurascens			AF402564			AF164008							AM990510	AM990536																			JF505196																			
+Micropholis obscura						FJ037881						FJ038785		FJ039193														JQ626160																	GQ428708							
+Neolemonniera clitandrifolia																																											AY230703		AM179745			AM179548		AM179613	AM179679	
+Vitellariopsis dispar																																											AY603785		AM179736			AM179576		AM179641	AM179670	
+Vitellariopsis cuneata																																											AY230743		AM179772			AM179575		AM179640	AM179706	
+Vitellariopsis marginata																																											AM179803		AM179775			AM179578		AM179643	AM179709	
+Vitellariopsis kirkii																																											AY603786		AM179774			AM179577		AM179642	AM179708	
+Euclea schimperi									FJ238203		FJ238288				FJ238121									FJ238246																											FJ238161	
+Douglasia nivalis	AF213766					AY275028								AY274991														AF213796															AF213742									
+Madhuca longifolia																																											AM179781		AM179726			AM179531		AM179594	AM179660	
+Madhuca macrophylla	DQ923982													DQ924308	DQ924091													EU980806															DQ924199									
+Madhuca hainanensis																																											AM179780		AM179725			AM179530		AM179593	AM179659	
+Soldanella minima			DQ378518			AJ306344								DQ378607	DQ378426									DQ378833																												
+Soldanella villosa			DQ378519			AJ306361								DQ378608	DQ378427									DQ378834																												
+Soldanella pusilla			AF402553			AJ306353								AF402434										DQ378831				AF395000																								
+Soldanella montana	AF213791					AJ306348												AJ491429										U96943															AF213761									
+Diospyros rotundifolia											FJ238300				FJ238135									FJ238261																				FJ238218							FJ238175	
+Diospyros iturensis											FJ238302				FJ238137									FJ238265																				FJ238222							FJ238179	
+Diospyros malabarica											FJ238312				FJ238151									FJ238279																				FJ238236							FJ238193	
+Diospyros crassiflora											FJ238301				FJ238136									FJ238264																				FJ238221							FJ238178	
+Diospyros kirkii											FJ238297				FJ238132									FJ238258																				FJ238215							FJ238172	
+Diospyros fischeri											FJ238292				FJ238125									FJ238251																				FJ238208							FJ238166	
+Diospyros soubreana											FJ238310				FJ238148									FJ238276																				FJ238233							FJ238190	
+Diospyros loureiriana											FJ238294				FJ238127									FJ238253																				FJ238210							FJ238168	
+Diospyros calciphila	EU980817													EU981002	EU980940													EU980659													EU981074											
+Diospyros duclouxii											FJ238305				FJ238141									FJ238269																				FJ238226							FJ238183	
+Diospyros dendo											FJ238308				FJ238144									FJ238272																				FJ238229							FJ238186	
+Dionysia tapetodes			AF402456											AF402338	DQ378300									DQ378705				AF394992																								
+Chrysophyllum prieurii						FJ037867						FJ038775		FJ039349														JQ626139			GQ428633																					
+Cortusa brotheri			DQ378513											DQ378602	DQ378422									DQ378827				AF394964																								
+Labramia costata																																											AY230689		AM179721			AM179528		AM179590	AM179657	
+Clavija domingensis							AF420918							AY228607													AF420995	AF213818															AY228595									
+Clavija costaricana						HQ284101							HQ284075		JQ588866													JQ593554													HQ284132											
+Bryocarpum himalaicum			DQ378516			AJ491672								DQ378605	DQ378424			AJ491428																																		
+Ardisia lindleyana						JN645193									JN253059	JN253109															JN253164					JN253008																
+Ardisia hanceana						JN645189									JN253065	JN253116															JN253170					JN253014																
+Ardisia guianensis						JF416237							JF416253	JF416263	JF416280													GQ981670																								
+Ardisia opegrapha						JF416239							JF416249	JF416260	JF416276													JQ594924																								
+Faucherea parvifolia																																											AY230687		AM179719			AM179526		AM179588	AM179655	
+Anagallis rhodesiaca			EU150386			AY855148							EU150406	AY855104																													AY856432									
+Anagallis angustiloba			EU150393			AY855134							EU150413	AY855110																													AY856419									
+Anagallis monelli			EF437023			AY855144							EF437041	AY855123																													AY839967									
+Anagallis rubricaulis			EU150387			EU150424							EU150407	EU150425																													EU169017									
+Anagallis crassifolia			EU150401			AY855136							EU150421	AY855106																													AY856421									
+Anagallis tenuicaulis			EU150388			AY855151							EU150408	AY855103																													AY839970									
+Anagallis nummulariifolia			EU150391			AY855145							EU150411	AY855105																													AY856429									
+Anagallis acuminata			EU150384			AY855132							EU150404	AY855109																													AY856417									
+Anagallis serpens			EU150397			AY855149							EU150417	AY855113																													AY839971									
+Anagallis hexamera			EU150394			AY855139							EU150414	AY855112																													AY856424									
+Anagallis kochii			EU150389			AY855142							EU150409	AY855108																													AY856427									
+Anagallis oligantha			EU150396			AY855146							EU150416	AY855114																													AY856430									
+Anagallis kingaensis			EU150395			AY855141							EU150415	AY855111																													AY856426									
+Anagallis alternifolia			EU150398			AY855133							EU150418	AY855118																													AY839972									
+Anagallis djalonis			EU150390			AY855137							EU150410	AY855107																													AY856422									
+Anagallis pumila			EU150385			AY855147							EU150405	AY855115																													AY856431									
+Anagallis filiformis			EU150399			AY855138							EU150419	AY855119																													AY856423									
+Anagallis platyphylla			EF437025			EF436997							EF437043	EF437059																													EF437010									
+Anagallis collina			EF437022			EF436995							EF437040	EF437057																													EF437008									
+Anagallis huttonii			EU150392			AY855140							EU150412	AY855117																													AY856425									
+Asterolinon adoense			EF437030			AY855152							EF437048	AY855127																													AY839965									
+Leptostylis petiolata				EU661385		AY552134																																			EU661455		AY230693		EU661503							
+Lysimachia fortunei						JF976924								AF547763	JF954475													JF942389																JN045336								
+Lysimachia alfredii						JN638405									JF954430													JF942344															AY839984	JN045292								
+Lysimachia crispidens						JF976905								AF547751	JF954455													JF942369																JN045316								
+Lysimachia heterogenea						JF976938								AF547753	JF954493													JF942407																JN045355								
+Lysimachia capillipes						JF976887									JF954434													JF942348															AY839999	JN045296								
+Lysimachia longipes						JF976952								AF547757	JF954506													JF942422																JN045370								
+Lysimachia decurrens						JF976907								AF547759	JF954457													JF942371																JN045319								
+Lysimachia omeiensis						JF976958								AF547800	JF954512													JF942426																JN045374								
+Northea seychellana																																											AY230706		AM179747			AM179550		AM179615	AM179681	
+Tieghemella heckelii																																											AY230742		AM179771			AM179574		AM179639	AM179705	
+Manilkara concolor																																											AM179784		AM179730			AM179535		AM179598	AM179664	
+Manilkara obovata																																											AM179789		AM179737			AM179541		AM179605	AM179671	
+Manilkara kauki																																											AY230695		AM179734			AM179539		AM179602	AM179668	
+Manilkara discolor																																											AM179785		AM179731			AM179536		AM179599	AM179665	
+Manilkara butugi																																											AM179782		AM179728			AM179533		AM179596	AM179662	
+Niemeyera whitei				EU661388		AY552137																																			EU661459		AY230705		EU661507							
+Diploknema oligomera																																											AY603775		AM179717			AM179524		AM179586	AM179653	
+Diploknema butyracea																																											AY230681		AM179716			AM179523		AM179585	AM179652	
+Burckella macropoda																																											AY603773		AM179713			AM179520		AM179582	AM179649	
+Mimusops caffra																																											AM179790		AM179739			AM179543		AM179607	AM179673	
+Mimusops elengi																																											AY230701		AM179741			AM179544		AM179609	AM179675	
+Hottonia inflata			DQ378520											DQ378609	DQ378428									DQ378836				AY753596																								
+Androsace hedraeantha		EF189905				AY275046								AY275010								EF587896																								EF189904						
+Androsace halleri		EF152451				EU655566								EU655589								EF152464																								EF152438						
+Androsace pyrenaica		EF152458				AY275035								AY274977								EF152472																								EF152446						
+Androsace wulfeniana		EF512033				EU655572								AY274962								EF512092																								EF512061						
+Androsace laggeri		EF152453				AY275036								EU655590								EF152469																								EF152443						
+Androsace brevis		EF512032				EU655573								AY274964								EF512093																								EF512060						
+Androsace ciliata		EF587862				AY275034								AY274982								EF587893																								EF587877						
+Androsace hausmannii		EF587863				AY275056								AY274984								EF587895																								EF587879						
+Androsace chaixii		EU513021				AY275044								AY275003								EF587892																								EF587876						
+Androsace obtusifolia		EF587865				EU655574								AY274971								EF587897																								EF587881						
+Androsace septentrionalis						AY275074								AY274959	JN966081													AF394963															AF421116									
+Androsace rioxana		EF152457				AY275045								AY275004								EF152470																								EF152444						
+Androsace vandellii		EF587866				AY275059								AY274967								EF587898																								EF587882						
+Androsace cantabrica		EU513014				AY275038								AY275011								EF587890																								EF587874						
+Inhambanella henriquesii																																											AY230688		AM179720			AM179527		AM179589	AM179656	
+Stimpsonia chamaedryoides	AF421112					AJ491669													AJ491425									AF421117															AF421113									
+Payena acuminata																																											AY603779		AM179749			AM179552		AM179617	AM179683	
+Payena lucida																																											AY230709		AM179750			AM179553		AM179618	AM179684	
+Trientalis europaea	AF213790					AF547727								AY855130														U96655															AF213763									
+Sideroxylon marmulano						AM408084																																					AY603783		AM179761			AM179564		AM179629	AM179695	
+Sideroxylon portoricense						AM408093																																					AM407952		AM407749			AM407789		AM407771	AM407810	
+Sideroxylon repens						AM408096																																					AM179800		AM179766			AM179569		AM179634	AM179700	
+Sideroxylon celastrinum						AM408067																																					AM407940		AM407737			AM407778		AM407760	AM407799	
+Sideroxylon sessiliflorum						AM408100																																					AM407955		AM407751			AM407791		AM407773	AM407813	
+Sideroxylon floribundum						AM408071																																					AM407943		AM407740			AM407780		AM407762	AM407801	
+Sideroxylon lanuginosum						AF174617																																					AY230733		AM179757			AM179560		AM179625	AM179691	
+Sideroxylon contrerasii						AM408069																																					AM407942		AM407739			AM407779		AM407761	AM407800	
+Sideroxylon majus						AM408082																																					AM179796		AM179759			AM179562		AM179627	AM179693	
+Sideroxylon grandiflorum						AM408075																																					AM407944		AM407741			AM407781		AM407763	AM407802	
+Sideroxylon obovatum						AM408086																																					AM407947		AM407744			AM407784		AM407766	AM407805	
+Sideroxylon stevensonii						AM408102																																					AM407957		AM407753			AM407792		AM407774	AM407814	
+Sideroxylon picardae						AM408092																																					AM407951		AM407748			AM407788		AM407770	AM407809	
+Sideroxylon oxyacanthum						AM408089																																					AM407948		AM407745			AM407785		AM407767	AM407806	
+Sideroxylon palmeri						AM408090																																					AM407949		AM407746			AM407786		AM407768	AM407807	
+Royena cordata	DQ923975													DQ924301	DQ924084													EU980799													EU981214		DQ924192									
+Primula boreiocalliantha						JF977957							FJ786589	FJ794220	FJ828620													JF943611																JN046485								
+Primula magellanica			EF218306			DQ993827							EF218396	EF218578																									EF218487			DQ379811										
+Primula bella						JF977944							FJ786567	FJ794198	FJ828600													JF943598																JN046472								
+Primula cicutariifolia			DQ378471			AF323703							FJ786564	FJ794195	FJ828598									DQ378771																												
+Primula chapaensis						JF977966							FJ786617	FJ794249	FJ828645													JF943620																JN046493								
+Primula scotica			DQ379851			DQ994000							DQ379905	DQ379728																									DQ994109			DQ379790										
+Primula blinii						JF977952							FJ786597	FJ794229	FJ828628													JF943606																JN046483								
+Primula sinensis						AF323696							FJ786552	FJ794183	FJ828584													JF943709																JN046584								
+Primula aromatica						JF977942							FJ786628	FJ794233	FJ828630													JF943596																JN046470								
+Primula partschiana						JF978028							FJ786626	FJ794190	FJ828653													JF943685																JN046558								
+Primula pycnoloba						JF978041							FJ786625	FJ794258	FJ828652													JF943697																JN046569								
+Primula algida			AF402468			EU643661							FJ786561	FJ794192	DQ378340									DQ378745																												
+Primula sachalinensis			EF218278			EF218196							EF218368	EF218550																									EF218459			EF218097										
+Primula moupinensis						JF978010							FJ786583	FJ794214	FJ828614													JF943665																JN046540								
+Primula polyneura						JF978030							FJ786596	FJ794227	FJ828627													JF943688																JN046561								
+Primula wangii						JF978067							FJ786620	FJ794252	FJ828649													JF943726																JN046598								
+Primula longiscapa			AF402469			EF218169							EF218348	EF218528																									EF218438			EF218077										
+Primula blattariformis						JF977949							FJ786627	FJ794261	FJ828654													JF943603																JN046478								
+Primula frondosa			EF218264			EF218200							EF218353	EF218536																									EF218449			EF218082										
+Primula rugosa						JF978042							FJ786560	FJ794248	FJ828594													JF943699																JN046574								
+Primula japonica			DQ378482			AM920496								DQ378571	DQ378379									DQ378784				AF394979																								
+Primula alpicola						JF977933							FJ786574	FJ794205	FJ828606													JF943590																JN046465								
+Primula capitata			DQ378453										FJ786614	FJ794246	DQ378326									DQ378731				AF394971																								
+Primula nivalis			DQ378490			AM920493								DQ378579	DQ378389									DQ378794	GQ981650																											
+Primula malvacea						JF978003							FJ786624	FJ794257	FJ828651													JF943657																JN046533								
+Maba magnifolia	DQ923973										DQ924190			DQ924299	DQ924082													EU980796													EU981211											
+Maba myriophylla	DQ923974										DQ924191			DQ924300	DQ924083													EU980797													EU981212											
+Maba tropophylla	EU980875										EU980935			EU981059	EU980997													EU980798													EU981213											
+Tetraclis baroni	DQ923979													DQ924305	DQ924088													EU980803													EU981218		DQ924196									
+Pomatosace filicula			AF402559			AY545751								AY545774	DQ378431													JF943531																JN046451								
+Euclea racemosa									FJ238202		FJ238287				FJ238120									FJ238245							JQ412361																				FJ238160	
+Planchonella ripicola										GQ248848		GQ249013			GQ248187																GQ248683														GQ248378							
+Diospyros apiculata	EU980813										EU980876			EU980998	EU980936													EU980647													EU981062											
+Diospyros maingayi	DQ923926										DQ924143			DQ924250	DQ924033													EU980706													EU981121											
+Diospyros vestita	DQ923956										DQ924173			DQ924280	DQ924063													EU980768													EU981183											
+Diospyros borbonica	EU980815										EU980878			EU981000	EU980938													EU980654													EU981069											
+Diospyros longifolia	DQ923923										DQ924140			DQ924247	DQ924030													EU980702													EU981117											
+Diospyros dichrophylla											FJ238291				FJ238124									FJ238250				JF265388																FJ238207							FJ238165	
+Diospyros filipendula	DQ923912										DQ924129			DQ924236	DQ924019													EU980686													EU981101											
+Diospyros sandwicensis	EU980851										EU980912			EU981036	EU980974													EU980749													EU981164											
+Diospyros frutescens	EU980827										EU980889			EU981012	EU980950													EU980691													EU981106											
+Diospyros pancheri	EU980838										EU980899			EU981023	EU980961													EU980725													EU981140											
+Diospyros umbrosa	EU980859										EU980921			EU981045	EU980981													EU980763													EU981176											
+Diospyros scalariformis	EU980852										EU980913			EU981037	EU980975													EU980750													EU981165											
+Diospyros wallichii	EU980868										EU980929			EU981053	EU980991													EU980775													EU981190											
+Diospyros olen	EU980834										EU980894			EU981019	EU980957													EU980721													EU981136											
+Diospyros cayennensis	DQ923896										DQ924113			DQ924220	DQ924003													EU980663													EU981078											
+Diospyros philippinensis	DQ923940										DQ924157			DQ924264	DQ924047													EU980730													EU981145											
+Diospyros brassica	DQ923892										DQ924109			DQ924216	DQ923999													EU980657													EU981072											
+Diospyros dictyonema	EU980820										EU980882			EU981005	EU980943													EU980674													EU981089											
+Diospyros celebica	DQ923897										DQ924114			DQ924221	DQ924004													EU980664													EU981079											
+Diospyros parviflora	EU980840										EU980900			EU981025	EU980962													EU980727													EU981143											
+Diospyros ridleyi	DQ923946										DQ924163			DQ924270	DQ924053													EU980742													EU981157											
+Diospyros montana	DQ923935										DQ924152			DQ924259	DQ924042													EU980717													EU981132											
+Diospyros insidiosa	DQ923920										DQ924137			DQ924244	DQ924027													EU980697													EU981112											
+Diospyros yaouhensis	EU980869										EU980930			EU981054	EU980992													EU980776													EU981191											
+Diospyros flavocarpa	EU980826										EU980888			DQ924237	EU980949													EU980689													EU981102											
+Diospyros pubicalyx	DQ923943										DQ924160			DQ924267	DQ924050													EU980733													EU981148											
+Diospyros vieillardii	EU980867										EU980928			EU981052	EU980989													EU980769													EU981184											
+Diospyros curranii	DQ923902										DQ924119			DQ924226	DQ924009													EU980671													EU981086											
+Diospyros labillardierei	EU980829										EU980890			DQ924246	DQ924029													EU980701													EU981116											
+Diospyros pentamera	DQ923939										DQ924156			DQ924263	DQ924046													EU980729													EU981144											
+Diospyros samoensis	EU980847										EU980911			EU981032	EU980970													EU980745													EU981163											
+Diospyros ropourea	DQ923948										DQ924165			DQ924272	DQ924055													EU980744													EU981159											
+Diospyros dichroa	DQ923904										DQ924121			DQ924228	DQ924011													EU980673													EU981088											
+Diospyros pilosula	DQ923941										DQ924158			DQ924265	DQ924048													EU980731													EU981146											
+Diospyros consolatae	DQ923899										DQ924116			DQ924223	DQ924006													EU980668													EU981083											
+Diospyros tetrandra	DQ923951										DQ924168			DQ924275	DQ924058													EU980756													EU981171											
+Diospyros puncticulosa	DQ923944										DQ924161			DQ924268	DQ924051													EU980734													EU981149											
+Diospyros castanea	DQ923893										DQ924110			DQ924217	DQ924000													EU980660													EU981075											
+Diospyros styraciformis	DQ923949										DQ924166			DQ924273	DQ924056													EU980753													EU981168											
+Diospyros revolutissima	EU980846										EU980907			EU981030	EU980968													EU980739													EU981154											
+Diospyros senensis	EU980853										EU980914			EU981038	EU980976													EU980751													EU981166											
+Diospyros brandisiana	DQ923891										DQ924108			DQ924215	DQ923998													EU980656													EU981071											
+Diospyros tahanensis	DQ923950										DQ924167			DQ924274	DQ924057													EU980755													EU981170											
+Diospyros maritima	DQ923930										DQ924147			DQ924254	DQ924037													EU980710													EU981125											
+Diospyros melocarpa	DQ923931										DQ924148			DQ924255	DQ924038													EU980711													EU981126											
+Diospyros cauliflora	DQ923894										DQ924111			DQ924218	DQ924001													EU980661													EU981076											
+Diospyros balansae	EU980814										EU980877			EU980999	EU980937													EU980651													EU981066											
+Diospyros cherrieri	EU980819										EU980881			EU981004	EU980942													EU980666													EU981081											
+Diospyros macrocarpa	EU980830										EU980891			EU981015	EU980953													EU980705													EU981119											
+Diospyros rigida	DQ923947										DQ924164			DQ924271	DQ924054													EU980743													EU981158											
+Diospyros cooperi	DQ923900										DQ924117			DQ924224	DQ924007													EU980669													EU981084											
+Diospyros borneensis	DQ923890										DQ924107			DQ924214	DQ923997													EU980655													EU981070											
+Diospyros cavalcantei	DQ923895										DQ924112			DQ924219	DQ924002													EU980662													EU981077											
+Diospyros mindanaensis	DQ923933										DQ924150			DQ924257	DQ924040													EU980713													EU981128											
+Diospyros oubatchensis	EU980836										EU980897			EU981020	EU980958													EU980723													EU981139											
+Diospyros gracilipes	DQ923918										DQ924135			DQ924242	DQ924025													EU980695													EU981110											
+Diospyros bipindensis	DQ923889										DQ924106			DQ924213	DQ923996													EU980653													EU981068											
+Diospyros guianensis	DQ923919										DQ924136			DQ924243	DQ924026													EU980696													EU981111											
+Diospyros dasyphylla	DQ923903										DQ924120			DQ924227	DQ924010													EU980672													EU981087											
+Diospyros pustulata	EU980844										EU980905			EU981028	EU980967													EU980736													EU981150											
+Diospyros andamanica	DQ923884										DQ924101			DQ924208	DQ923991													EU980645													EU981060											
+Diospyros crassinervis	DQ923901										DQ924118			DQ924225	DQ924008													EU980670													EU981085											
+Diospyros minimifolia	EU980832										EU980892			EU981017	EU980955													EU980714													EU981130											
+Diospyros fulvopilosa	DQ923915										DQ924132			DQ924239	DQ924022													EU980692													EU981107											
+Diospyros fragrans	DQ923914										DQ924131			DQ924238	DQ924021													EU980690													EU981105											
+Diospyros undulata	DQ923954										DQ924171			DQ924278	DQ924061													EU980764													EU981179											
+Diospyros yatesiana	DQ923958										DQ924175			DQ924282	DQ924065													EU980777													EU981192											
+Diospyros oblonga	DQ923937										DQ924154			DQ924261	DQ924044													EU980719													EU981134											
+Diospyros venosa	EU980862										EU980923			EU981047	EU980985													EU980767													EU981182											
+Diospyros fasciculosa	EU980822										EU980884			EU981007	EU980945													EU980679													EU981094											
+Diospyros ferox	DQ923909										DQ924126			DQ924233	DQ924016													EU980681													EU981096											
+Diospyros veillonii	EU980861										EU980922			EU981046	EU980984													EU980765													EU981180											
+Diospyros buxifolia	EU980816										EU980879			EU981001	EU980939													EU980658													EU981073											
+Diospyros diepenhorstii	DQ923905										DQ924122			DQ924229	DQ924012													EU980675													EU981090											
+Diospyros toposia	EU980856										EU980917			EU981041	EU980979													EU980759													EU981174											
+Dionysia hissarica			DQ378435			AY680725							AY680768	AY680812	DQ378299									DQ378704																												
+Lecomtedoxa klaineana						AM408109																																					AY230691		AM179723			AM179529		AM179591	AM179658	
+Capurodendron androyense						AM408107																																					AM179777		AM179714			AM179521		AM179583	AM179650	
+Clavija eggersiana	AJ235437				AF479151																		GU351374					L12608																					EU264338			
+Ardisia pusilla						FJ482140								FJ482158	JN253051	JN253101															JN253155					JN252999																
+Ardisia crispa						FJ482139								FJ482157	JN253036	JN253086															JN253140					JN252984																
+Ardisia primulifolia						FJ482147								FJ482165	JN253069	JN253121															JN253175					JN253019																
+Ardisia densilepidotula						FJ482151								FJ482169	JN253062	JN253113															JN253168					JN253012																
+Ardisia virens						JF416241							JF416251		JF416279	JN253083															JN253139					JN252983																
+Hymenandra wallichii	AF213779																									GQ141176		AF213811															AF213745				GQ141135					
+Lysimachia christinae						JF976892								AF547744	JF954443													JF942353															AY840008	JN045301								
+Lysimachia insignis						JF976945								AF547767	JF954499													JF942413															AY840001	JN045359								
+Lysimachia phyllocephala						JF976968								AF547748	JF954525													JF942439															AY839983	JN045387								
+Lysimachia candida						JF976884								AF547745	JF954432													JF942346															AY839973	JN045294								
+Lysimachia melampyroides						JF976956								AF547788	JF954510													JF942424															AY839992	JN045371								
+Lysimachia congestiflora						JF976903								AF547749	JF954452													JF942366															AY839963	JN045313								
+Lysimachia paridiformis						JF976959								AF547747	JF954515													JF942430															AY839995	JN045375								
+Lysimachia thyrsiflora					AY056517	AF547725								AF547787					AJ491420																								AY839959									
+Lysimachia laxa						JF976949								AF547778	JF954503													JF942417															AY840005	JN045365								
+Lysimachia fistulosa						JF976917								AF547758	JF954468													JF942382															AY839978	JN045327								
+Lysimachia clethroides						JF976899								AF547762	JF954445													JF942362															AY839955	JN045307								
+Lysimachia lobelioides						JF976951								AF547776	JF954504													JF942419															AY839958	JN045367								
+Lysimachia ovoidea			GQ257907										GQ257954								GQ258025																				GQ258003			GQ257977		GQ257930						
+Lysimachia fordiana						JF976920								AF547760	JF954470													JF942384															AY840009	JN045332								
+Lysimachia rubiginosa						JF976972								AF547750	JF954530													JF942444															AY839989	JN045392								
+Lysimachia pittosporoides						JF976971								AF547769	JF954527													JF942441															AY840002	JN045389								
+Lysimachia grammica						AF547691								AF547746	JF954479													JF942393															AY840010	JN045341								
+Mimusops obovata																																								AM407962			AM179791		AM179742			AM179545		AM179610	AM179676	
+Hottonia palustris						AJ491674								AF402435	AY647534			AJ491430						DQ378835				AF395002																								
+Androsace helvetica		EU117143				AY275065								AY274981						AJ491445		EU117145																								EU117144						
+Androsace lactea		HM067106				AY275069								AY274986								HM106202						AF394965																		HM106213						
+Androsace chamaejasme			AF402556			AY275090								AY274947	DQ378429									DQ378838																			AF421114									
+Samolus junceus						HQ284107							HQ284088	AY228603																											HQ284145		AY228579									
+Vitaliana primuliflora			AF402558			AY275051								AY274966	DQ378430					AJ491443								AF395006																								
+Lissocarpa kating	DQ923971													DQ924296	DQ924079													EU980795													EU981210		DQ924189									
+Pouteria filipes										FJ038382		FJ038808			JQ626499													JQ626082																	FJ039076							
+Pouteria obovoidea										GQ248847		GQ249012			GQ248186													GQ248682																	GQ248377							
+Pradosia ptychandra						FJ037899				FJ038388		FJ038821		FJ039212	FJ514772													JQ626027																								
+Pradosia spinosa						DQ246695		DQ377533						DQ344332																											DQ344441				DQ344143	DQ344206						
+Sideroxylon tenax						AM408104																																		AM408012			AM179801		AM179769			AM179572		AM179637	AM179703	
+Sideroxylon reclinatum						AM408095																																		AM407984			AY230734		AM179765			AM179568		AM179633	AM179699	
+Sideroxylon occidentale						AM408088																																		AM407977			AM179799		AM179764			AM179567		AM179632	AM179698	
+Sideroxylon saxorum						AM408099																																		AM407990			AY230736		AM179768			AM179571		AM179636	AM179702	
+Sideroxylon ibarrae						AM408077																																		AM408020			AM407945		AM407742			AM407782		AM407764	AM407803	
+Sideroxylon wightianum						AM408106																																		AM408013			AM179802		AM179770			AM179573		AM179638	AM179704	
+Sideroxylon leucophyllum						AM408080																																		AM408008			AM407946		AM407743			AM407783		AM407765	AM407804	
+Sideroxylon marginatum						AM408083																																		AM408010			AM179797		AM179760			AM179563		AM179628	AM179694	
+Sideroxylon lycioides						AM408081																																		AM408011			AM179795		AM179758			AM179561		AM179626	AM179692	
+Sideroxylon salicifolium						AM408098																																		AM408015			AY230735		AM179767			AM179570		AM179635	AM179701	
+Sideroxylon americanum						AM408060																																		AM407963			AM179793		AM179751			AM179554		AM179619	AM179685	
+Sideroxylon rotundifolium						AM408097																																		AM407971			AM407954		AM407750			AM407790		AM407772	AM407812	
+Sideroxylon horridum						AM408076																																		AM407964			AY230731		AM179755			AM179558		AM179623	AM179689	
+Sideroxylon cubense						AM408070																																		AM408014			AM179794		AM179753			AM179556		AM179621	AM179687	
+Sideroxylon obtusifolium						AM408087																																		AM407960			AM179798		AM179763			AM179566		AM179631	AM179697	
+Sideroxylon betsimisarakum						AM408063																																		AM407991			AY230729		AM179752			AM179555		AM179620	AM179686	
+Sideroxylon persimile						AM408091																																		AM407982			AM407950		AM407747			AM407787		AM407769	AM407808	
+Sideroxylon tepicense						AM408105																																		AM408028			AM407959		AM407755			AM407793		AM407775	AM407816	
+Royena lycioides						AB175014									FJ238128									FJ238254				JF265389															FJ238295	FJ238211							FJ238169	
+Primula gemmifera			AF402495			AY545759								AY545784	DQ378333									DQ378738				JF943651																JN046522								
+Primula kisoana			DQ378507											AB161506	DQ378414									AB161507															AB161509			AB161505		AB161508								
+Primula gaubaeana	AF213784		DQ378433											DQ378522	DQ378297									DQ378702				AF213798															AF213755									
+Primula heucherifolia			DQ378508			JF977996								DQ378597	DQ378415									DQ378820				JF943652																JN046527								
+Primula siamensis			DQ378448			HM629062								DQ378537	DQ378319									DQ378724					HM628944												HM629014											
+Primula calderiana			AF402514			JF977961								AF402394	DQ378374									DQ378779				JF943613																JN046489								
+Primula malacoides			AF402541			AF323700							FJ786579	FJ794210	FJ828631									DQ378813				AF394990																								
+Primula forrestii			AF402549			AJ491682							FJ786557	FJ794188	DQ378410				AJ491438					DQ378815																												
+Primula membranifolia			AF402458			JF978006								AF402340	DQ378304									DQ378709				JF943663																JN046537								
+Primula utahensis			AY528532										AY647562	AY647632	AY647487									AY647702																	AY647772	AY647839										
+Primula septemloba			AF402545			JF978046							FJ786629	FJ794263	FJ828656													JF943702																JN046576								
+Primula poetica			AY528533										AY647563	AY647633	AY647488									AY647703																	AY647773	AY647840										
+Primula fassettii			AY528526										AY647556	AY647626	AY647481									AY647696																	AY647766	AY647833										
+Primula pulchella			DQ378463			JF978038								DQ378552	DQ378339									DQ378744				JF943691																JN046564								
+Primula standleyana			AY528531										AY647561	AY647631	AY647486									AY647701																	AY647771	AY647838										
+Primula sonchifolia			AF402513			JF978056								AF402393	DQ378373									DQ378778				JF943714																JN046586								
+Primula auriculata			AF402462			EU643658								AF402344	DQ378310									DQ378715					HM628909												HM628980											
+Primula juliae			AF402508			HM629141								AY274938	DQ378364									DQ378769					HM628937												HM629009											
+Primula hendersonii			AY528507										AY647537	AY647607	AY647463									AY647678																	AY647747	AY647817										
+Primula frigida			AY528516										AY647545	GQ244845	AY647471									AY647686																	AY647756	AY647823										
+Primula ioessa			AF402501			DQ993774							DQ379955	DQ379778														AF394972											DQ994139			DQ379841										
+Primula chionantha			DQ378488			JF977970							FJ786568	FJ794199	FJ828601													JF943625																JN046495								
+Primula tetrandra			AY528521										AY647550	AY647621	AY647476									AY647690																	AY647761	AY647829										
+Primula jeffreyi			AY528519										AY647548	AY647619	AY647474									AY647688																	AY647758	AY647827										
+Primula floribunda			AF402454			AY680707							AY680752	AY680795	DQ378296									DQ378701				AF394996																								
+Primula souliei			DQ378439			HM629060								DQ378528	DQ378305									DQ378710					HM628945												HM629015											
+Primula forbesii			AF402540										AY647595	AF402420	AY647520									AY647735																	AY647805	AY647872										
+Cyclamen persicum						AF164011							AM990508	AM990534												AB600231		AF213804																			GQ141134					
+Cyclamen hederifolium	AF213773					AF164004							AM990500	AJ236995														U96656					JF505201										AF213740									
+Sredinskya grandis			AF402505										AY647606	AF402385	AY647531													AF394988													AY647816	AY647883										
+Glaux maritima			AF402563			AF547726								AF547789	JN895983													AF213821															AF213743	JN044745								
+Ardisiandra wettsteinii	AF213772		AF402560			AJ491670								AF402441					AJ491426									AF213795															AF213733									
+Micropholis longipedicellata						FJ037879				FJ817171				FJ039191	JQ626506													FJ038174																	FJ039066							
+Soldanella alpina			DQ378517			AJ306324							AM990487	AJ237011	DQ378425									DQ378832						JF275965																						
+Diospyros glandulosa	DQ923916					AB175006					DQ924133			DQ924240	DQ924023													EU980693													EU981108											
+Diospyros carbonaria										FJ038258		FJ038507		FJ039274	JQ626407													JQ626229																FJ038912								
+Diospyros confertiflora	DQ923898					AB175003					DQ924115			DQ924222	DQ924005													EU980667													EU981082											
+Diospyros artanthifolia	DQ923885										DQ924102			DQ924209	DQ923992													EU980648													EU981063			GQ982208								
+Diospyros transitoria										GQ248770		AM889884			GQ248122													GQ248596																GQ248293								
+Diospyros ehretioides	DQ923907					AB175005					DQ924124			DQ924231	DQ924014													EU980678													EU981093											
+Diospyros sumatrana	EU980855					AB175020					EU980916			EU981040	EU980978													EU980754													EU981169											
+Diospyros capreifolia										FJ038257		FJ038506		FJ039325	FJ037902													JQ626100																FJ038911								
+Diospyros rhombifolia	DQ923945					AB175018					DQ924162			DQ924269	DQ924052													EU980741													EU981156											
+Diospyros mollis	DQ923934					AB175015					DQ924151			DQ924258	DQ924041													EU980716													EU981131											
+Cortusa turkestanica	AF213769		DQ378512											DQ378601	DQ378421									DQ378826				AF213803															AF213739									
+Maesa tenera	AF213781						AF420937						AJ431000	AY228626	AJ429288												AF421015																AF213750									
+Omphalogramma vinciflorum						JF977203							FJ786609	FJ794241	JF954790			AJ491427													JF942697	JN045629																				
+Omphalogramma souliei			DQ378515			JF977197								DQ378604	AY647532									DQ378829							JF942683	JN045622																				
+Ardisia humilis						FJ482142							JF416257	FJ482160	JF416272	JN253080															JN253136					JN252980																
+Ardisia mamillata						FJ482134							JF416250	JF416261	JN253061	JN253112															JN253166					JN253010																
+Ardisia polycephala						JF416244							JF416254	JF416264	JN253044	JN253094															JN253148					JN252992																
+Anagallis foemina			EF437028			DQ256370							EF437046	EF437061	HM850731													HM849771															DQ256371									
+Lysimachia kalalauensis			GQ257903			GQ258045							GQ257951								GQ258022																				GQ257999			GQ257973		GQ257926						
+Lysimachia waianaeensis			GQ257915			GQ258056							GQ257962								GQ258034																				GQ258012			GQ257986		GQ257939						
+Lysimachia scopulensis			GQ257914			GQ258055							GQ257961								GQ258033																				GQ258011			GQ257984		GQ257938						
+Lysimachia nemorum			EF437029			AF547722							EF437047	AY855128	JN894698													JN893195															AF213747									
+Lysimachia daphnoides			GQ257894			GQ258035							GQ257941								GQ258013																				GQ257988			GQ257963		GQ257917						
+Lysimachia filifolia			GQ257895			GQ258036							GQ257942								GQ258014																				GQ257989			GQ257965		GQ257918						
+Lysimachia mauritiana			GQ257905			GQ258046							GQ257952								GQ258023																				GQ258001		AY839956			GQ257928						
+Manilkara hexandra															JQ673569													JQ673543															AY230694		AM179732			AM179537		AM179600	AM179666	
+Manilkara chicle															JQ589185													JQ594847															AM179783		AM179729			AM179534		AM179597	AM179663	
+Mimusops zeyheri															JF270865																JF265519												AY230702		AM179743			AM179546		AM179611	AM179677	
+Androsace spinulifera	AJ235392				AF479150									AY545760			AF206847											Z80205		JF275964																			EU264327			
+Nesoluma polynesiacum						AM408059																																		AM408004			AY230704		AM179746			AM179549		AM179614	AM179680	
+Nesoluma nadeaudi						AM408058																																		AM407996			AM407934		AM407732			AM407776		AM407756	AM407794	
+Lissocarpa benthamii	DQ923969				AY727956									DQ924294	DQ924077													EU980793													EU981208		AY725877									
+Sideroxylon foetidissimum						AM408072																						Z83136												AM408022			AY230730		AM179754			AM179557		AM179622	AM179688	
+Royena lucida						AF396234								AF396213	JF270745									FJ238256				Z83134															FJ238296	FJ238213							FJ238171	
+Primula mistassinica			EF218313			DQ993748							EF218402	EF218586	DQ378352									DQ378757															EF218497			EF218129										
+Primula calliantha			DQ378496			JF977962							FJ786587	FJ794218	FJ828618									DQ378802				JF943616																JN046490								
+Primula denticulata			AF402472			JF977979								AF402354	JF955695											GQ141177		JF943631																JN046507			GQ141130					
+Primula deflexa			DQ378444			JF977972							FJ786595	FJ794226	DQ378315									DQ378720				JF943626																JN046503								
+Primula integrifolia			AJ427896			AJ427781							AY647576	AF402409	AY647501									AY647716																	AY647786	AY647852										
+Primula sikkimensis						JF978049							FJ786599	FJ794231	FJ828642												AF421025	JF943707															AF213758	JN046579								
+Primula sieboldii	AF213787													AB277087										AB161489				U96657											AB277093			AB161479	AF213757	AB161496								
+Primula incana			EF218284			DQ993875							DQ379916	EF218555	DQ378347									DQ378752															DQ994093			EF218103										
+Primula stricta			EF218304			DQ993918							EF218387	EF218577	JN966473													AF394975											EF218476			EF218121										
+Primula pinnata			EF218261			EF218173							EF218351	EF218533	DQ378344									DQ378749															EF218442			EF218080										
+Primula darialica			AF402470			EF218165							EF218345	EF218530	DQ378341									DQ378746															EF218439			EF218074										
+Primula cortusoides	AF213786		DQ378505			AM920488								DQ378595	DQ378413									DQ378817				AF394977															AF213753									
+Primula obconica			AF402542			AF323698							JX258175	JX258209	DQ378403									DQ378808				JF943675																JN046548								
+Primula yunnanensis			AF402457			JF978068							FJ786569	FJ794200	DQ378301									DQ378706				JF943728																JN046601								
+Primula bellidifolia			DQ378442			JF977948							FJ786590	FJ794221	DQ378312									DQ378717				JF943602																JN046475								
+Primula specuicola			AF402487			DQ993751							DQ379909	DQ379732	DQ378354									DQ378759															DQ994078			DQ379793										
+Primula eximia			AF402522			AF260768							AY647600	AF402402	AY647525									AY647740																	AY647810	AY647877										
+Primula capitellata			DQ378468			EF218166							EF218349	EF218531	DQ378353									DQ378758															EF218440			EF218078										
+Primula megaseifolia			AF402507			HM629115								AF402387	DQ378363									DQ378768				AF394997	HM628942												HM629010											
+Primula dryadifolia			DQ378503										AY647596	AF402432	DQ378407									DQ378811				AF394994													AY647806	AY647873										
+Primula anvilensis			DQ379852			DQ993731							EF218363	EF218545	DQ378355									DQ378760															EF218454			EF218092										
+Primula scandinavica			EF218281			DQ994054							EF218371	AY274941	DQ378351									DQ378756															DQ994090			EF218098										
+Primula alcalina			AF402489			DQ993804							DQ379908	DQ379731	DQ378356									DQ378761															DQ994079			DQ379792										
+Primula fragrans			AY528522			EU887001							AY647552	AY647622	AY647477									AY647692																	AY647762											
+Englerophytum natalense						AY552150		DQ344362						DQ344299																											DQ344408		AY230686		DQ344111	DQ344173						
+Micropholis cayennensis						FJ037875				FJ817170				FJ039187	FJ514753													JQ625973			FJ038171														FJ039062							
+Synsepalum dulcificum						DQ246697		HQ158554						DQ344337																											DQ344446		AY230739		DQ344148	DQ344211						
+Diospyros glaucifolia	DQ923917					FJ624405					DQ924134			DQ924241	DQ924024													EU980694													EU981109			HQ427082								
+Diospyros australis	DQ923887										DQ924104			DQ924211	DQ923994									FJ238257				EU980650													EU981065			FJ238214								
+Diospyros ferrea	EU980823					DQ499075					DQ924127			DQ924234	EU980947		GU476411											EU980683													EU981098											
+Diospyros texana	DQ923953					AF174622					DQ924170			DQ924277	DQ924060													EU980758													EU981173		AF130213									
+Chrysophyllum fenerivense						DQ246669		DQ344349						DQ344286																											DQ344395		DQ246702		DQ344098	DQ344160						
+Chrysophyllum bangweolense						AY552152		DQ344346						DQ344283																											DQ344392		AY230671		DQ344094	DQ344157						
+Chrysophyllum imperiale						EF558615		EF558592						EF558603																											EF558611		EF558589		EF558600	EF558596						
+Chrysophyllum cuneifolium						DQ246668		DQ344348						DQ344285														JQ625874													DQ344394				DQ344097	DQ344159						
+Chrysophyllum pruniforme						DQ246671		DQ344351						DQ344288																											DQ344397		DQ246703		DQ344100	DQ344162						
+Ardisia quinquegona						FJ980441									HQ415400	JN253106												GQ436753			JN253162					JN253004								HQ415582								
+Ardisia elliptica						JN645200									JN253024	JN253073												GU135176			JN253130					JN252974					HE599703			GU135344								
+Anagallis minima			EU150400			AY855143							EU150420	AY855120	JN894204													HM849772			JN891009												AY839968									
+Lysimachia iniki			GQ257901			GQ258043							GQ257949	AF547783							GQ258021																				GQ257997			GQ257971		GQ257924						
+Lysimachia glutinosa			GQ257897			GQ258038							GQ257945	AF547785							GQ258016																				GQ257994			GQ257968		GQ257921						
+Lysimachia nummularia			AF402562			AF547708								AF547764	JN895200				AJ491418									AY395550															AY839988									
+Lysimachia ciliata						DQ006032						HQ594051		AF547781	HQ593353													DQ006120															AY839977	DQ006219								
+Lysimachia hillebrandii			GQ257899			GQ258041							GQ257947								GQ258019																				GQ257995		AY839982	GQ257969		GQ257922						
+Manilkara bidentata						FJ037871				FJ817211				FJ039185	FJ514757													JQ626263			FJ038167														GQ428717							
+Theophrasta americana	AF213792		AF402568										AJ431018	AY228600	AJ429307													U96649															AF213762									
+Trientalis borealis						AY855156						HQ594161		AY855131	HQ593472													HQ590306															AY856438	HQ596869								
+Pouteria macrocarpa						FJ037894				FJ038381		FJ038805		FJ039205	FJ037942													FJ038184																	FJ039075							
+Pouteria decorticans						FJ037887				FJ038377		FJ038794		FJ039199	JQ626403													JQ625955																	FJ039070							
+Pouteria gardneriana						DQ246689		DQ344384						DQ344321																											DQ344430		AY603780		DQ344133	DQ344195						
+Pouteria torta						FJ037896				FJ038387		FJ038819		FJ039209	JQ626418													JQ625931																	FJ039082							
+Pouteria gongrijpii						FJ037891				FJ038379		FJ038802		FJ039202	FJ037940													JQ626231																	FJ039074							
+Pouteria eugeniifolia						FJ037888				FJ817206		FJ038796		FJ039271	JQ626389													JQ625932																	FJ039079							
+Pradosia surinamensis						AY552157		DQ377534						DQ344333																											DQ344442		AY230728		DQ344144	DQ344207						
+Pradosia brevipes						AY552158		DQ377532						DQ344331																											DQ344440		AY230727		DQ344142	DQ344205						
+Sideroxylon capiri						AM408065						GQ429101			JQ589193																JQ594081												AM407938		GQ429136			AM407777		AM407759	AM407797	
+Royena glabra	DQ923976													DQ924302	DQ924085									FJ238252				EU980800													EU981215		DQ924193	FJ238209							FJ238167	
+Primula borealis			DQ379853			EF218209							AY647602	EF218549	AY647527									AY647742															EF218458		AY647812	EF218093										
+Primula farinosa			EF218267			DQ993961							EF218356	EF218539	DQ378345									DQ378750	AY234124														EF218445			EF218086										
+Primula laurentiana			EF218285			DQ993900							EF218377	DQ379747	DQ378348									DQ378753				AF394967											DQ994089			EF218109										
+Primula nipponica			AY528546			AB011626		AB003579					AY647583	AF402415	AY647507									D85698																	AY647792	AY647859										
+Primula angustifolia			AF402536			EU886997							AY647589	AF402416	AY647514									AY647729																	AY647799	AY647866										
+Primula nutans			EF218329			DQ993778							EF218418	DQ379767	AY647526									AY647741															DQ994134		AY647811	DQ379832										
+Primula capillaris			AY528554			EU886996							AY647594	AY647664	AY647519									AY647734																	AY647804	AY647871										
+Primula suffrutescens			AY528547			EU887000							AY647584	AF402418	AY647510									AY647725																	AY647794	AY647862										
+Primula modesta			EF218272			DQ993730							EF218362	EF218544	DQ378357									DQ378762				AF394978											DQ994077			EF218091										
+Primula rusbyi			AY528549			EU886998							AY647588	AY647658	AY647513									AY647728																	AY647798	AY647865										
+Primula edelbergii			AF402452										AY647603	AF402334	AY647528									AY647743				AF213797													AY647813	AY647880	AF213754									
+Primula involucrata			EF218337			DQ993772							EF218428	DQ379777	DQ378328									DQ378733				AF394974											DQ994138			EF218157										
+Primula bulleyana			AJ427860			HM018188				HM018386		HM018435			HM018235													AF394985																HM018484								
+Primula verticillata			AF402453			HM629103							AY680775	AY680818	DQ378294									DQ378699				AF394968	HM628946												HM629016											
+Sarcaulus brasiliensis						DQ246696		DQ377537						DQ344336																											DQ344445		DQ246718		DQ344147	DQ344210						
+Elaeoluma schomburgkiana						DQ246679		DQ344360						DQ344297																											DQ344406		AY230684		DQ344109	DQ344171						
+Elaeoluma glabrescens						EF558616		EF558593						EF558604																											EF558612		EF558590		EF558601	EF558597						
+Synsepalum passargei						DQ246698		DQ377539						DQ344338																											DQ344447		AY230741		DQ344149	DQ344212						
+Chromolucuma rubriflora						EF558614		EF558591						EF558602																											EF558610		EF558588		EF558599	EF558595						
+Planchonella howeana				HE860194		EF025094		DQ377525						DQ344324																											DQ344433		AY230726		DQ377542	DQ344198						
+Planchonella linggensis				HE860203		HE860101		DQ377526						DQ344325																											DQ344434				DQ344136	DQ344199						
+Diospyros pseudomespilus	DQ923942										DQ924159			DQ924266	DQ924049									FJ238274				EU980732													EU981147			FJ238231							FJ238188	
+Diospyros squarrosa	EU980854										EU980915			EU981039	EU980977									FJ238277				EU980752													EU981167			FJ238234							FJ238191	
+Diospyros abyssinica	DQ923883										DQ924100			DQ924207	DQ923990									FJ238271				EU980646													EU981061			FJ238228							FJ238185	
+Diospyros mannii	DQ923929										DQ924146			DQ924253	DQ924036									FJ238266				EU980709													EU981124			FJ238223							FJ238180	
+Diospyros tetrasperma	DQ923952										DQ924169			DQ924276	DQ924059									FJ238280				EU980757													EU981172			FJ238237							FJ238194	
+Diospyros ebenum	EU980821										EU980883			EU981006	EU980944									FJ238282				EU980677													EU981092			FJ238239							FJ238196	
+Diospyros natalensis	DQ923936										DQ924153			DQ924260	DQ924043									FJ238260				EU980718													EU981133			FJ238217							FJ238174	
+Diospyros lotus	DQ923924				AY727957	AB175013					DQ924141			DQ924248	DQ924031													EU980703													EU981118			HE966604								
+Dionysia aretioides			AF402455			AY680726							AY647604	AY680810	DQ378298									DQ378703														AJ491434			AY647814	AY647881										
+Chrysophyllum boivinianum						DQ246667		DQ344347						DQ344284																											DQ344393		AY230670		DQ344095	DQ344158						
+Chrysophyllum sanguinolentum						FJ037868				FJ038368		FJ038778		FJ039181	FJ514634													JQ626145			FJ038163														FJ039056							
+Chrysophyllum venezuelanense						DQ246673		DQ344353						DQ344290																											DQ344399		AY230678		DQ344102	DQ344164						
+Maesa japonica			AF402570		AY727959	AY452672							AM990486	AF402451									GU351450				GU351245			JF275960																						
+Ardisia japonica						JN645201							JF416248	FJ482161	HQ427411	HQ427112												GQ436756			JN253151					JN252993																
+Xantolis siamensis						AY552154		DQ377541						DQ344340			GU476468																								DQ344449				DQ344151	DQ344214				AM179645		
+Anagallis arvensis	AF213774		EF437018			EF436990							EF437032	EF437056	HM850730													HM849770			JN893430												AF130212									
+Breviea sericea						DQ246666		DQ344345						DQ344282																											DQ344391		AY230667		DQ344093	DQ344156						
+Sersalisia sericea				HE860246				DQ377530						DQ344329																											DQ344438		DQ246715		DQ344140	DQ344203						
+Aegiceras corniculatum	AF213776		AF402565			FJ976669								AF402446	JQ235202		AY671951										AY289673	JQ080282															AF213734									
+Niemeyera antiloga				HE860156		DQ154055		DQ344370						DQ344307																											DQ344416		DQ246704		DQ344119	DQ344181						
+Aubregrinia taiensis						DQ377520		DQ344341						DQ344278																											DQ344387		AY230665		DQ344089	DQ344152						
+Omphalocarpum strombocarpum						DQ246685		DQ344374						DQ344311																											DQ344420		AY230708		DQ344123	DQ344185						
+Omphalocarpum pachysteloides						AY552151		DQ344373						DQ344310																											DQ344419		AY230707		DQ344122	DQ344184						
+Samolus valerandi					AY727958	HQ284117							HQ284078	HQ284047	JN895196													U96659													HQ284133		AF213760									
+Samolus repens	AF213789					HQ284109	AF420946						HQ284090	AY228604													AF421027	AF421102													HQ284147											
+Delpydora gracilis						DQ246674		DQ344354						DQ344291																											DQ344400		AY230679		DQ344103	DQ344165						
+Delpydora macrophylla						DQ246675		DQ344355						DQ344292																											DQ344401		AY230680		DQ344104	DQ344166						
+Pouteria alnifolia						DQ246686		DQ344379						DQ344316																											DQ344425		AY230712		DQ344128	DQ344190						
+Pouteria domingensis						AY552106		DQ344382						DQ344319																											DQ344428		AY230718		DQ344131	DQ344193						
+Pouteria macrophylla						DQ246692		DQ377527						DQ344326														JQ625805													DQ344435				DQ344137	DQ344200						
+Pouteria multiflora						DQ246693		DQ377528						DQ344327																											DQ344436		DQ246713		DQ344138	DQ344201						
+Pouteria hispida						DQ246691		DQ344386						DQ344323														JQ626328													DQ344432		DQ246712		DQ344135	DQ344197						
+Pouteria altissima						DQ246687		DQ344380						DQ344317																											DQ344426		DQ246710		DQ344129	DQ344191						
+Pouteria vernicosa						DQ246694		DQ377531						DQ344330																											DQ344439		DQ246716		DQ344141	DQ344204						
+Sideroxylon inerme						AM408078									JF270940													AM235132			JQ412421									AM407994			AY230732		AM179756			AM179559		AM179624	AM179690	
+Beccariella sebertii				HE860145		DQ154047		DQ344343						DQ344280																											DQ344389		DQ246700		DQ344091	DQ344154						
+Beccariella baueri				HE860128		AY552113		DQ344342						DQ344279																											DQ344388		AY230715		DQ344090	DQ344153						
+Beccariella vieillardii				HE860148		DQ154087		DQ344344						DQ344281																											DQ344390		DQ246701		DQ344092	DQ344155						
+Primula amethystina			AY528556			JF977939							AY647598	AY647668	AY647523									AY647738				JF943594													AY647808	AY647875		JN046466								
+Primula smithiana						HM018171				HM018367		HM018416	FJ786611	FJ794243	FJ828639													HM018318																HM018465								
+Primula elatior	AY725916		JX231056		AY727960	AM920659								AF402384	DQ378361									DQ378766					HM628914								JX231036				HM628984											
+Primula maguirei			AY528551			EU886994							AY647591	AY786533	AY647516									AY786534				AF394995													AY647801	AY647868										
+Primula faberi			AY528557			JF977988							AY647599	FJ794202	AY647524									AY647739				JF943644													AY647809	AY647876		JN046517								
+Primula helodoxa						HM018181				HM018377		HM018426	FJ786604	FJ794236	FJ828633													HM018328																HM018474								
+Primula fasciculata			EF218336			EF218248							EF218427	EF218609	DQ378329									DQ378734				JF943647											EF218518			EF218156		JN046519								
+Primula serratifolia						HM018172				HM018368		HM018417	FJ786586	FJ794217	FJ828617													HM018319																HM018466								
+Primula cuneifolia			AF402534			AM920499		AB003578						AF402414										D85740				AF394962						JQ755570	JQ755613				JQ755528			AB003569										
+Primula miyabeana						HM018173				HM018369		HM018418	FJ786592	FJ794223	FJ828623													AF395003																HM018467								
+Primula halleri			EF218268			DQ993982							EF218360	EF218540	DQ378346									DQ378751					HM628936										EF218447		HM629006	EF218089										
+Pycnandra comptonii				EU661407		AY552131		DQ377535						DQ344334																											DQ344443		DQ246717		DQ344145	DQ344208						
+Pycnandra francii				EU661391		AY552117		DQ344372						DQ344309																											DQ344418		AY603778		DQ344121	DQ344183						
+Pichonia daenikeri				HE860161		AY552108		DQ344376						DQ344313																											DQ344422		DQ246708		DQ344125	DQ344187						
+Pichonia balansana				HE860160		AY552109		DQ344375						DQ344312																											DQ344421		DQ246707		DQ344124	DQ344186						
+Euclea crispa	DQ923966								FJ238198		FJ238284			DQ924290	DQ924073									FJ238241				EU980789													EU981204		DQ924183								FJ238156	
+Madhuca microphylla	AF420976				AY727947		AF420936																				AF421014	AF421096															AF421064		AM179727			AM179532		AM179595	AM179661	
+Planchonella kaalaensis				HE860196		HE860097		DQ344377						DQ344314																											DQ344423		DQ246709		DQ344126	DQ344188						
+Planchonella sphaerocarpa				EU661403		AY552139		DQ377536						DQ344335																											DQ344444		DQ246714		DQ344146	DQ344209						
+Planchonella baillonii				HE860174		AY552141		DQ344363						DQ344300																											DQ344409		AY230714		DQ344112	DQ344174						
+Diospyros kaki	DQ923921					FJ624403					DQ924138	GQ436192		AJ430874										AB115365																	EU981113			AB115399								
+Diospyros mespiliformis	DQ923932										DQ924149			DQ924256	DQ924039									FJ238259				EU980712													EU981127			FJ238216					EU264322		FJ238173	
+Chrysophyllum roxburghii						DQ246672		DQ344352						DQ344289																	JF738480										DQ344398		AY230677		DQ344101	DQ344163						
+Cortusa matthioli			AY528555			AJ491681							AY647597	FJ794193	DQ378420				AJ491437					AY647737				Z83146													AY647807	AY647874										
+Magodendron mennyae				HE860155		AY552114		DQ344365						DQ344302																											DQ344411		AY603777		DQ344114	DQ344176						
+Omphalogramma delavayi	AF213783		DQ378514			JF977177								AF534675	DQ378423									DQ378828				AF213805			JF942659	JN045603											AF213752									
+Leptostylis filipes				EU661382		AY552135		DQ344364						DQ344301																											DQ344410		AY230692		DQ344113	DQ344175						
+Lysimachia vulgaris					AY727963	AF547736	AF420935							AF547782	JN895201				AJ491419								AF421013	AF421095															AY839960									
+Lysimachia maxima	AF213777		GQ257906			GQ258047							GQ257953								GQ258024							AF213806													GQ258002		AF213748	GQ257976		GQ257929						
+Palaquium formosanum	AF420979					AM408110	AF420942																				AF421021	AF421098															AF421068		AM179748			AM179551		AM179616	AM179682	
+Niemeyera prunifera				HE860158		DQ154058		DQ344371						DQ344308																											DQ344417		DQ246705		DQ344120	DQ344182						
+Ecclinusa guianensis				HE860152		DQ246677		DQ344358						DQ344295																											DQ344404		AY603776		DQ344107	DQ344169						
+Pouteria campechiana					AY727948	DQ246688		DQ344381						DQ344318																											DQ344427		AY230716		DQ344130	DQ344192						
+Primula pulverulenta			DQ378486			AF323699				HM018366		HM018415		DQ378575	DQ378385									DQ378790				HM018317																HM018464								
+Primula marginata			AJ427898			JQ755770							AY647567	AF402410	AY647492									AY647707										JQ755599	JQ755646				JQ755560		AY647777	AY647844										
+Primula ovalifolia						JF978023				HM018414		HM018463	HQ439118	FJ794204	FJ828605													JF943682														HQ439149		JN046555								
+Primula meadia	AF213767		AY528527			AF164016							AY647557	AM990515	AY647482									AY647697				U96658													AY647767	AY647834	AF213741									
+Primula hirsuta			AY528540			AJ427779							AY647574	AY647644	AY647499									AY647714										JQ755584	JQ755628				JQ755543		AY647784	AY647851										
+Primula secundiflora			AF402520			AF396695				HM018411		HM018450	EF595547	FJ794213	FJ828613													HM018364																HM018511								
+Primula cockburniana			DQ378483			HM018174				HM018370		HM018419		AF402395	DQ378380									DQ378785				HM018321																HM018468								
+Primula clusiana			AY528535			AJ427771							AY647565	AF402408	AY647491									AY647706										JQ755580	JQ755624				JQ755539		AY647776	AY647843										
+Primula poissonii			AF402517			AF396692				HM018400		HM018449	FJ786588	FJ794219	FJ828619													AF394973																HM018486								
+Primula vulgaris			JX231044			AJ427800						FJ395752		AJ237010	DQ378362									FJ490810				HQ619773	HM628965								JX231023				HM629035						DQ381428					
+Primula aurantiaca			DQ378481			HM018175				HM018371		HM018420		DQ378570	DQ378378									DQ378783				HM018322																HM018469								
+Primula egaliksensis			EF218324			EU095387							EF218417	EF218589	DQ378350									DQ378755				JN965779	HM628911										EF218506		HM628982	EF218146										
+Primula minima			AY528537			AJ427787							AY647569	AY647639	AY647494									AY647709										JQ755581	JQ755625				JQ755540		AY647779	AY647846										
+Primula chungensis			DQ378484			HM018176				HM018373		HM018422		AF402396	DQ378382									DQ378787				AF394984																HM018471								
+Primula glutinosa			AY528538			AJ427775							AY647571	AF402413	AY647496									AY647711										JQ755579	JQ755623				JQ755538		AY647781	AY647848										
+Englerophytum magalismontanum						DQ246680		DQ344361						DQ344298	JF270761													JF265411													DQ344407		AY230685		DQ344110	DQ344172						
+Micropholis egensis						FJ037876		DQ344366				FJ038782		DQ344303														JQ626049													DQ344412		AY230697		GQ428709	DQ344177						
+Argania spinosa	DQ923981					AM408056								DQ924307	DQ924090													Z80187												AM408009			AY230664		AM179712			AM179519		AM179580	AM179647	
+Euclea divinorum	DQ923967								FJ238199		FJ238285			DQ924291	DQ924074									FJ238242				EU980790			JF265418										EU981205		DQ924184								FJ238157	
+Euclea undulata	EU980874								FJ238205		FJ238290			DQ924293	FJ238122									FJ238248				EU980792			JQ025046										EU981207		DQ924186								FJ238163	
+Planchonella eerwah				EU661400		AY552147		DQ344383						DQ344320														Z80188													DQ344429		AY230719		DQ344132	DQ344194						
+Diospyros bejaudii	DQ923888									GQ248769	DQ924105	AM889883		DQ924212	DQ923995													EU980652													EU981067			GQ248292								
+Sarcosperma laurinum	AF420989					AM408055	AF420956								HQ415331												AF421039	AF421111															AF421080		AM179711			AM179518		AM179579	AM179646	
+Anagallis tenella	AJ235390		EU150402		AF479149	AY855150							EU150422	AY855116	HM850732		AF206845											HM849773			JN891008												AY856434									
+Lissocarpa guianensis	DQ923970						AF420934							DQ924295	DQ924078												AF421012	EU980794													EU981209		DQ924188	FJ238197							FJ238155	
+Neohemsleya usambarensis						DQ246684		DQ344369						DQ344306																											DQ344415		AM179792		AM179744	DQ344180		AM179547		AM179612	AM179678	
+Primula parryi			AY528548			AJ306364							AY647587	AF402417	AY647511									AY647727										JQ755566	JQ755609				JQ755524		AY647796	AY647864										
+Primula veris			JX231064			HM629075							AJ431005	AY680792	AY647530									AY647745				AF394981	HM628948								JX231043				AY647815	AY647882										
+Primula deorum			AJ427892			AJ427773							AY647573	AF402411	AY647498									AY647713				AF394989						JQ755568	JQ755611				JQ755526		AY647783	AY647849										
+Euclea natalensis	DQ923968								FJ238200		FJ238286			DQ924292	JF270769									FJ238243				EU980791			JF265419										EU981206		DQ924185						EU264324		FJ238158	
+Diospyros virginiana	DQ923957					AB175021	GU351008				DQ924174			DQ924281	DQ924064		GU476412							FJ238270				EU980774													EU981189			FJ238227							FJ238184	
+Chrysophyllum cainito						JF912985		AY172706					JF913182	AY172772	GQ981966							JF913018									GQ981702												AY603774		GQ982186	AY172756						
+Chrysophyllum argenteum						JF913006				FJ817195		FJ038774	JF913184	FJ039178	FJ514637							JF913091						JQ626243			FJ038162												AY230669		FJ039053							
+Chrysophyllum oliviforme						JF912996		DQ344350					JF913192	DQ344287								JF913099						L12607													DQ344396		AY230674		DQ344099	DQ344161						
+Ecclinusa ramiflora				HE860153		DQ246678		DQ344359				FJ038780		DQ344296														JQ626076													DQ344405		AY230683		GQ428718	DQ344170						
+Primula palinuri	AF213785		AJ427900			AJ427790							AY647564	AF402412	AY647489									AY647704				AF213801							JQ755629				JQ755544		AY647774	AY647841	AF213756									
+Diploon cuspidatum						FJ037870		DQ344356		FJ038369		FJ038779		FJ039183	FJ514729													JQ626045													DQ344402		AY230682		DQ344105	DQ344167						
+Eberhardtia aurata						EF558617		DQ344357						EF558605													AF520116													AM407961	EF558613		AM179778		AM179718	DQ344168		AM179525		AM179587	AM179654	
+Diospyros digyna	DQ923906						AF420924				DQ924123			DQ924230	DQ924013									FJ238281			AF421002	EU980676													EU981091		AF213731	FJ238238					EU264323		FJ238195	
+Ardisia crenata	AF209530					JN645180							JF416252	JF416262	JF416271	JN253088	AJ235997										AF520206	GQ436755			JN253146					JN252986							AJ236264	GU135441								
+Manilkara huberi						FJ037874				FJ817165		FJ038781		FJ039186	FJ514652													JQ625936			FJ038169												AM179786		AM179733			AM179538		AM179601	AM179667	
+Myrsine africana	AF213764		AF402566		AY727961	EU886863	AF420940						AM990489	AJ430880	AJ429290												AF421019	U96652															AF213751									
+Pouteria guianensis						DQ246690		DQ344385		FJ038380		FJ038803		FJ039204														GQ428635													DQ344431		DQ246711		GQ428712	DQ344196						
+Micropholis guyanensis						DQ246682		DQ344367		FJ817198		FJ038783		FJ039190	FJ514759													JQ626126			FJ038172										DQ344413		AY230698		HM446966	DQ344178						
+Micropholis venulosa						FJ037884		DQ344368		FJ038373		FJ038787		DQ344305	FJ514736													JQ626105			GQ428628										DQ344414		AY230699		DQ344117	DQ344179						
+Planchonella obovata	AF420981			EU661402		AB114899	AF420945	DQ377529						DQ344328													AF421024	AF421100			JF738948										DQ344437		AF421071		DQ344139	DQ344202						
+Manilkara zapota	DQ923983				AF479160		AF420938						AJ431007	DQ924309	AJ429295		L49288										AF421016	L01932			GU135174												AF213732		GU135342			AM179542	EU264333	AM179606	AM179672	

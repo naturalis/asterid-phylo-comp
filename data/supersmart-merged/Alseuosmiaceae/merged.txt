@@ -1,0 +1,8 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/cluster10.fa

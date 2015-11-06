@@ -1,0 +1,13 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster12.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster13.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster16.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Symphoricarpos/cluster17.fa

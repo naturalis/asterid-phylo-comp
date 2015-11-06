@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/cluster12.fa

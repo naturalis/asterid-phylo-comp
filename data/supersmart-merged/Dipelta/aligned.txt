@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/17863891-105265-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/17980594-105265-17-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/20530893-105265-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/226534254-105265-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/22795880-4200-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/22796661-4200-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/295454-4200-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/356690155-105265-24-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/357932833-105265-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Dipelta/6424732-4199-13-subtree.fa

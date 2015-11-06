@@ -1,0 +1,14 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster15.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster18.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster20.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster21.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster22.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Garryales/cluster23.fa

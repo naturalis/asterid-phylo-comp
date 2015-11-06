@@ -1,0 +1,15 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/153865368-79331-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/153865593-79331-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/17932794-91893-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/215260345-79331-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/221325785-79331-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/310877306-79331-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/332269032-21571-55-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/335058851-91893-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/335059368-79331-28-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/335059572-21571-14-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/335060191-91893-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/339893202-79331-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/375127441-79331-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/387768551-79331-25-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/56199634-79331-0-subtree.fa

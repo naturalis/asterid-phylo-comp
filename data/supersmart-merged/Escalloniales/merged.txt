@@ -1,0 +1,11 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster12.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster13.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Escalloniales/cluster15.fa

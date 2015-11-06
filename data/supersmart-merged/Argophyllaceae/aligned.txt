@@ -1,0 +1,5 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Argophyllaceae/149389289-57707-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Argophyllaceae/19919628-57707-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Argophyllaceae/305672065-57707-15-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Argophyllaceae/305672338-57707-17-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Argophyllaceae/308096630-57707-16-subtree.fa

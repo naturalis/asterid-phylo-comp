@@ -1,0 +1,12 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/10945638-85554-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/15422201-85554-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/1777689-85554-15-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/22795876-85554-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/22795988-85554-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/305671945-85554-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/305672336-85554-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/305672470-85554-17-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/305672516-85554-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/308096581-85554-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/7413609-85554-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Rousseaceae/98647500-85554-18-subtree.fa

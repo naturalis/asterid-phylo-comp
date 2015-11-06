@@ -1,0 +1,9 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster12.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster15.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster16.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster17.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Bruniales/cluster18.fa

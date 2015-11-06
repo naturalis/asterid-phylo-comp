@@ -1,0 +1,15 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster12.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster13.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster15.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster18.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster19.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster20.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster21.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/early_diverging_Apiaceae/cluster22.fa

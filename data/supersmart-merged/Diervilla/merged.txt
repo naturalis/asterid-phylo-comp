@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Diervilla/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Diervilla/cluster4.fa

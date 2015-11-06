@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Phellinaceae/7414408-4303-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Phellinaceae/769779-4303-9-subtree.fa

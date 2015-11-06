@@ -1,0 +1,12 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster12.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Boraginales/cluster13.fa

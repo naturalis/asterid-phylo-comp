@@ -1,0 +1,16 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/11385359-13532-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/160690173-24902-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/193876457-24902-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/197205558-13532-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/197261085-13532-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/19919600-13532-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/20146571-24902-19-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/22795826-13532-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/22795963-13532-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/255116840-13532-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/255116864-13532-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/2735713-13532-13-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/46430367-13532-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/5257051-13532-14-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/57648206-13532-12-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/57868933-13532-17-subtree.fa

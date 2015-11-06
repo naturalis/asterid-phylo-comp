@@ -1,0 +1,8 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster10.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster13.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Fouquieriaceae/cluster15.fa

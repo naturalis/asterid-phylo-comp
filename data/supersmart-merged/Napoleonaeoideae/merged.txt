@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Napoleonaeoideae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Napoleonaeoideae/cluster2.fa

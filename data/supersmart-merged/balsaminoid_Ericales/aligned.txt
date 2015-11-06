@@ -1,0 +1,17 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/11558518-91901-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/14718166-91901-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/15810723-55360-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/15810723-55388-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/15810747-164986-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/19919594-91901-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/2058346-55360-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/22797160-55360-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/302748047-91901-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/38155569-55388-15-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/387768415-55360-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/57340752-55360-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/57648204-91901-13-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/57868885-91901-15-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/6706289-55360-1-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/74134066-55388-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/8517630-55360-0-subtree.fa

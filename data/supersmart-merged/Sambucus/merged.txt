@@ -1,0 +1,14 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster8.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster12.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster15.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster16.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster18.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster19.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Sambucus/cluster21.fa

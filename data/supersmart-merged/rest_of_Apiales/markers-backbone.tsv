@@ -1,0 +1,352 @@
+taxon	trnT(UGU)-trnL(UAA)-intergenic-spacer	18S-ribosomal-RNA	rpl16	ndhF	atpB	rps16	psbA	contains-5S-ribosomal-RNA-and-intergenic-spacer-region	contains-tRNA-Leu-(trnL)-and-trnL-trnF-intergenic-spacer	matK	trnH-psbA-intergenic-spacer	trnS	contains-tRNA-Asp-(trnD),-trnD-trnY-intergenic-spacer,-tRNA-Tyr-(trnY),-trnY-trnE-intergenic-spacer,-tRNA-Glu-(trnE),-trnE-trnT-intergenic-spacer,-and-tRNA-Thr-(trnT)	rbcL	5.8S-ribosomal-RNA	unknown	ycf5	rbcL.1	unknown.1	26S-ribosomal-RNA	psbA.1	rpoC1	trnC	rbcL.2	contains-5S-ribosomal-RNA-and-nontranscribed-spacer	rpl32-tRNA-Leu-intergenic-spacer	rps4	matR	GBSSI	
+Arthrophyllum diversifolium									AY393708						AY389027				GQ267604											
+Arthrophyllum balansae									GQ267556						GQ267580				GQ267603											
+Eleutherococcus japonicus												AB649415									AB649345					AB649380				
+Eleutherococcus divaricatus								AY304720		AB571645																			AY204026	
+Meryta latifolia												FJ470208						FJ470148									FJ470241			
+Meryta pedunculata									AY393738						AF396419				AY746580											
+Meryta balansae									AY393737						AY746556				AY746571											
+Meryta tenuifolia									AY393739						AY389041				AY746584											
+Harmsiopanax aculeata									AY753278					AY753251	DQ007376															
+Panax sinensis								AY304742							AF263376								AY275941							
+Panax omeiensis								AY304740							U41692								AY275934							
+Panax wangianus								EU574686							U41691								AY275952							
+Brassaiopsis ficifolia				EF152186					EF152177						EF152169															
+Brassaiopsis ciliata				AY171074				AY304589							AF551723															
+Brassaiopsis griffithii									AY753259					AY753232	AY725116															
+Brassaiopsis mitis				AY171075				AY304652							AY304801															
+Brassaiopsis fatsioides				AY171070				AY304611							AY304782															
+Brassaiopsis ferruginea								AY304618							AY304784														AY203979	
+Brassaiopsis tripteris				AY256896				AY304692							AY304812															
+Brassaiopsis producta				AY251909				AY304668							AY304807															
+Brassaiopsis simplicifolia									AY753263					AY753234	AY725118															
+Brassaiopsis phanrangensis				AY171073				AY304666							AY304806															
+Polyscias schultzei									GQ267577						GQ267597				GQ267685											
+Polyscias mauritiana									AY430396						AY430384				GQ267663											
+Polyscias tennantii								AF393950	AF393914						AF229720															
+Polyscias nothisii								AY035576	AF382180						AF229707															
+Polyscias balfouriana	AF506118		AF094460																			U72478								
+Polyscias purpurea									AY430400						AF229711				GQ267676											
+Polyscias sessiliflora								AF393927	AF393912						AF229717															
+Polyscias mollis									AF396413						AF229705				GQ267667											
+Polyscias boivinii									AY430391						AY430380				GQ267639											
+Polyscias javanica									AY753279					AY753252	DQ007383															
+Polyscias bellendenkerensis									AF396411						AF229691				GQ267638											
+Polyscias gentryi								AF393947	AF393895						AF393862															
+Polyscias nodosa									AY430399						AY430387				GQ267672											
+Polyscias joskei								AY035572	AF382177						AF382944															
+Polyscias nitida								AY035575	AF382179						AF382945															
+Polyscias elegans									AF382175						AF229698				GQ267650											
+Polyscias dioica								AY035569	AF382173						AF382940															
+Polyscias repanda								AF393925	AF393908						AF393873															
+Polyscias tahitiensis									GQ267578						AF229719				GQ267689											
+Polyscias aubrevillei								AF393948	AF393890						AF393857															
+Polyscias multibracteata								AF393956	AF393902						AF393868															
+Polyscias maralia								AF393942	AF393899						AF393866															
+Polyscias carolorum									AY430392						AF393881				GQ267643											
+Polyscias ledermannii		GU476381													DQ499061			JF738377												
+Polyscias willmottii									GQ267579						GQ267599				GQ267691											
+Polyscias farinosa									AY430394						AY430382				GQ267651											
+Polyscias lecardii								AY035573	AF382178						AF229701															
+Polyscias macgillivrayi									AF396412						AF229702				GQ267660											
+Polyscias kikuyuensis									GQ267570						GQ267592				GQ267658											
+Polyscias samoensis									GQ267575						GQ267596				GQ267682											
+Polyscias orientalis								AF393949	AF393905						AF229708															
+Polyscias anjozorabensis								AF393952	AF393888						AF393855															
+Polyscias bracteata								AY035561	AF382166						AF229692															
+Polyscias dichroostachya									AY430393						AY430381				GQ267648											
+Oreopanax sanderianus			AF094465						AF382156													U72475								
+Gastonia sechellarum									GQ267565						GQ267587				GQ267621											
+Plerandra vitiensis									AY393757						JN165440				JN165576											
+Plerandra insolita									AY393756						AY389047				JN165560											
+Cuphocarpus humbertianus									GQ267560						AY430379				GQ267613											
+Cuphocarpus briquetianus									AY430388						GQ267581				GQ267611											
+Trevesia longipedicellata				AY171084											AF551733														AY203987	
+Trevesia sphaerocarpa				EF152192					EF152182						EF152173															
+Pittosporum koghiense			GQ244138										GQ243864		AF302035															
+Pittosporum glabratum										HQ415263								HQ415079										AF520127		
+Pittosporum illicioides							HQ427000			HQ427307								HQ427157												
+Pittosporum fairchildii					AJ235561										EF635472					AF479192										
+Gamblea pseudoevodiifolia			GQ244050										GQ243779		AF229766															
+Merrilliopanax cordifolius									AY753273					AY753243	AY725137															
+Aralia cachemirica									AY753253					AY753224	U66706															
+Aralia parasitica								AY304585							AY233319														AY204047	
+Aralia foliolosa									AY753254					AY753226	AY725108															
+Aralia gigantea									AY753255					AY753225	AY725138															
+Hydrocotyle leucocephala										JQ586540	FM207066													JQ590218						
+Hydrocotyle javanica			GQ244104										GQ243833		GU447308															
+Hydrocotyle rotundifolia			AF094455			AF110607																U72468								
+Trachymene incisa			GQ244113										GQ243842		AF272355															
+Schefflera elongata									AY955406						JN165480				JN165618											
+Schefflera cordata									GU004038						GU004074				GU004132											
+Schefflera panamensis									GU004049						GU004093				GU004152											
+Schefflera capixaba									GU004037						GU004072				GU004130											
+Schefflera rodriguesiana									GU004054						GU004098				GU004157											
+Schefflera plerandroides									AY955420						AY955467				JN165651											
+Schefflera ruschiana									GU004055						GU004099				GU004158											
+Schefflera pubigera									AY753272					AY753246	AY725130															
+Schefflera tremula									GU004060						GU004111				GU004172											
+Schefflera macrocarpa									GU004048						GU004090				GU004149											
+Schefflera diplodactyla									GU004040						GU004077				GU004135											
+Schefflera hypoleucoides									AY753274					AY753247	AY725129															
+Schefflera umbrosa									GU004063						GU004116				GU004177											
+Schefflera seemanniana									AY955427						AY955474				JN165671											
+Schefflera selloi									GU004056						GU004102				GU004162											
+Schefflera venulosa									AY753276					AY753249	JF284828															
+Schefflera glabrata									GU004041						GU004079				GU004137											
+Schefflera robusta									GU004052						GU004096				GU004155											
+Schefflera nono									AY955417						AY955464				JN165640											
+Schefflera burchellii									GU004036						GU004070				GU004128											
+Schefflera fantsipanensis									AY955407						AY955455				GU004119											
+Schefflera acuminata									GU004031						GU004064				GU004123											
+Schefflera brenesii									GU004035						GU004069				GU004127											
+Schefflera minutistellata						EU786159			EU786162						AF242244															
+Schefflera patula									GU004050						GU004094				GU004153											
+Schefflera harmsii									GU004042						GU004082				GU004140											
+Schefflera stilpnophylla									GU004059						GU004107				GU004168											
+Schefflera veitchii									AY955440						JN165550				JN165697											
+Schefflera rhododendrifolia									AY393770					AY753248	AY725132															
+Schefflera botumirimensis									GU004034						GU004068				GU004126											
+Schefflera crassipes									AY955401						AF229729				JN165607											
+Schefflera dielsii									GU004039						GU004076				GU004134											
+Schefflera pancheri									AY955418						AY955465				JN165646											
+Schefflera volkensii									AY955443						AY955490				FJ513387											
+Cheirodendron fauriei			GQ244039										GQ243770		AF229763															
+Oplopanax japonicus								AY304736							AF242248														AY204032	
+Eleutherococcus setchuenensis						DQ133858			AY393722	DQ133788								DQ133807												
+Harmsiopanax ingens			GQ244054						AY393730				GQ243783		AY389038															
+Panax assamicus									AY753271					AY753244	AY233322								AY275917							
+Panax vietnamensis		AB033635								AB044906					AY271924								AY275950							
+Cussonia paniculata			AF094459						AY393717						AY389032							U72470								
+Brassaiopsis gracilis				AY171071				AY304629							AY304793														AY203980	
+Brassaiopsis aculeata								AY304587	AY753257					AY753228	AY725110															
+Brassaiopsis shweliensis								AY304674	AY753262					AY753233	AY725114															
+Polyscias schatzii								AF393934	AF393909						AF229714				GQ267683											
+Polyscias crenata								AY035564	AF382169						AF229694				GQ267647											
+Polyscias ariadnes								AF393923	AF393889						AF393856				GQ267631											
+Polyscias coriacea								AF393924	AF393892						AF393859				GQ267646											
+Polyscias muraltiana								AF393957	AF393903						AF393869				GQ267669											
+Polyscias andapensis								AF393944	AF393885						AF393852				GQ267629											
+Polyscias abrahamiana								AY035557	AF382148						AF229686				GQ267625											
+Polyscias fulva								AY035559	AF382150						AF229699				GQ267655											
+Polyscias pancheri								AY035577	AF382182						AF229710				GQ267674											
+Polyscias veillonii								AY035582	AF382187						AF229721				GQ267690											
+Polyscias calophylla								AY035562	AF382167						AF382939				GQ267642											
+Polyscias pentamera								AF393938	AF393907						AF393872				GQ267675											
+Polyscias chapelieri								AF393946	AF393891						AF393858				GQ267644											
+Polyscias felicis								AF393951	AF393893						AF393860				GQ267652											
+Polyscias andrearum								AF393943	AF393886						AF393853				GQ267630											
+Polyscias subincisa								AY035581	GQ267568						AF229718				GQ267641											
+Polyscias modestei								AF393954	AF393900						AF393867				GQ267666											
+Polyscias mayottensis								AF393932	AF393901						AF229703				GQ267664											
+Polyscias microbotrys								AY035574	AF382181						AF229704				GQ267665											
+Polyscias dzumacensis								AY035570	AF382174						AF229697				GQ267649											
+Polyscias lucienneae								AF396409	AF393896						AF393863				GQ267659											
+Polyscias scopoliae								AY035580	AF382185						AF229715				GQ267686											
+Polyscias scutellaria									AF396414						AF229716				GQ267687										AY203992	
+Polyscias balansae								AY035560	AF382165						AF229689				GQ267634											
+Polyscias baretiana								AY035558	AF382149						AF229690				GQ267635											
+Polyscias fraxinifolia								AF393930	AF393894						AF393861				GQ267654											
+Polyscias amplifolia								AF393937	AF393884						AF393851				GQ267628											
+Polyscias ornifolia								AF393935	AF393906						AF393871				GQ267673											
+Polyscias zanthoxyloides								AF393939	AF393915						AF393877				GQ267692											
+Polyscias cissodendron								AY035563	AF382168						AF229693				GQ267645											
+Polyscias jaffrei								AY035571	AF382176						AF229700				GQ267657											
+Polyscias myrsine								AF393958	AF393904						AF393870				GQ267671											
+Polyscias madagascariensis								AF393955	AF393898						AF393865				GQ267661											
+Polyscias stuhlmannii								AF393929	AF393913						AF393876				GQ267688											
+Polyscias regalis								AY035578	AF382183						AF229712				GQ267678											
+Polyscias albersiana								AF393931	AF393883						AF229687				GQ267627											
+Cheiranthera linearis			GQ244134						AY829060				GQ243860		AY829025															
+Gastonia spectabilis									GQ267566						AF393879			JF739067	GQ267622											
+Bentleya spinescens			GQ244129						AY829049				GQ243855		AY829016															
+Billardiera cymosa			GQ244130						AY829050				GQ243856		AY829017															
+Trevesia baviensis				AY171076											AF551731										AY304754				AY203988	
+Cephalaralia cephalobotrys			GQ244037						AY393713				GQ243768		AF229762															
+Seemannaralia gerrardii			GQ244096						AY393781				GQ243825		AY389062															
+Pittosporum spinescens			GQ244141						AY829075				GQ243867		AY829040															
+Pittosporum rubiginosum			GQ244139						AY829074				GQ243865		AY829039															
+Aralia spinifolia										HQ415247					U41676			HQ415059			HQ415411									
+Hydrocotyle bonariensis			GQ244102										GQ243831		AF077894						JQ937322									
+Trachymene coerulea			GQ244110										GQ243839					AY188437		AY189114										
+Schefflera rainaliana			GQ244094						AY955422				GQ243823		AY955469															
+Schefflera macrophylla			GQ244089						AY955414				GQ243818		JF284820															
+Schefflera candelabrum			GQ244084						AY393767				GQ243813		AF229728															
+Schefflera myriantha			GQ244092						AY393772				GQ243820		AY389053															
+Auranticarpa edentata			GQ244128						AY829047				GQ243854		AY829013															
+Pseudopanax chathamicus												FJ470193			U63166			FJ470133									FJ470226			
+Pseudopanax gilliesii												FJ470189			U63173			FJ470129									FJ470222			
+Pseudopanax macintyrei												FJ470200			U63179			FJ470140									FJ470233			
+Pseudopanax kermadecensis												FJ470211			U63175			FJ470151									FJ470244			
+Pseudopanax discolor												FJ470205			U63170			FJ470145									FJ470238			
+Cheirodendron platyphyllum			GQ244040						AY393714				GQ243771		AF229764															
+Bursaria spinosa			GQ244133						AY829058				GQ243859		AY829024															
+Bursaria incana			GQ244132						AY829057				GQ243858		AY829023															
+Eleutherococcus giraldii										GQ434263					AY548181	GQ434776	GQ435788				GQ435397									
+Brassaiopsis grushvitzkyi				AY171078				AY304635	AY393729						AY389037														AY203986	
+Brassaiopsis hainla				EF152187				AY304637	AY393712					AY753230	AY389028															
+Brassaiopsis stellata				AY171072				AY304686	EF152179						AY304811														AY203984	
+Polyscias sambucifolia		GU476382						AY035579	AF382184						AF229713				GQ267680											
+Polyscias multijuga			GQ244074						GQ267571				GQ243802		GQ267593				GQ267668											
+Polyscias australiana									AF396410	JN564052					AF229688			JN564319	GQ267632											
+Polyscias murrayi			GQ244075						GQ267572				GQ243804		AF229706				GQ267670											
+Gastonia crassa			GQ244051						GQ267562				GQ243780		GQ267583				GQ267615											
+Plerandra pickeringii			GQ244093						AY955419				GQ243822		JN165429				JN165566											
+Motherwellia haplosciadea			GQ244062						AY393742				GQ243791		AY389042					AY189088										
+Merrilliopanax chinensis			GQ244059						AY393736				GQ243788		AY389040														AY204086	
+Aralia californica	AF506114		AF094457	AY171069											U66921							U72480								
+Hydrocotyle bowlesioides									AY393699	U58600								U50235		AY189076		U36295								
+Hydrocotyle modesta			GQ244106							AY188400			GQ243835					AY188424		AY189077										
+Schefflera costata			GQ244085						AY955400				GQ243814		JN165465				JN165601											
+Schefflera reginae			GQ244095						AY955423				GQ243824		JN165516				JN165661											
+Schefflera gabriellae			GQ244087						AY393769				GQ243816		AF229731				JN165626											
+Neosciadium glochidiatum			GQ244109			DQ133873				DQ133793			GQ243838					DQ133816												
+Fatsia polycarpa			GQ244049						AY393725				GQ243778		AY389034														AY203995	
+Oplopanax horridus				AY171088				AY304734	AY393745						AY389044														AY204035	
+Eleutherococcus gracilistylus															AY548182	GQ434779	GQ435791	GQ436710			GQ435404									
+Diplopanax stachyanthus				JF321067	JF298830				JF321155	AF468494								L11224		AY260014										
+Panax zingiberensis		AB085764						AF548133		AB085765					U41700								AY275953						AY204039	
+Brassaiopsis hispida				EF152188				AY304643	EF152178					AY753231	EF152170			JQ933245												
+Chengiopanax sciadophylloides			GQ244042			AB237421			AB237422				GQ243772		AM400882			D44552												
+Oreopanax capitatus			GQ244067					AY304738		JQ586674			GQ243796					JQ590385											AY204071	
+Gastonia duplicata			GQ244052					AF393928	GQ267563				GQ243781		GQ267585				GQ267617											
+Cuphocarpus aculeatus			GQ244043					AF393959	AF393920				GQ243773		AF229737				GQ267608											
+Raukaua simplex			GQ244081									FJ470182	GQ243810		U63180			FJ470122									FJ470215			
+Osmoxylon novoguineense									AY393748	AF271759					AF229726			AY188431		AY189097									AY204087	
+Osmoxylon geelvinkianum			GQ244069						AY393747	AF271758			GQ243798		AF229727				EF040756											
+Schefflera actinophylla			AF094462						AF382153	GU135026								GU135189			GU135355	U72471								
+Cheirodendron trigynum			GQ244041						AY393715	U58606					U63183			U50241		AY189055										
+Arthrophyllum mackeei			GQ244032						AF382158	AY188395			GQ243764		AF229736			AY188415		AY189039										
+Metapanax delavayi			GU054897	GU054707		GU054992			GU055087					GU054517	AF242232						GU054802									
+Rhytidosporum alpinum			GQ244144						AY829080	AY188408			GQ243870		AY829045			AY188436		AY189106										
+Marianthus ringens			GQ244136						AY829063	AY188401			GQ243862		AY829027			AY188427		AY189084										
+Brassaiopsis glomerulata			GQ244036	AY256895				AY304625	AY393711				GQ243767	AY753229	AY304791															
+Chengiopanax fargesii			GU054936	GU054746		GU055031			GU055126					GU054556	GU054651						GU054841									
+Oreopanax xalapensis			GU054924	GU054734		GU055019			GU055114					GU054544	GU054639						GU054829									
+Oreopanax liebmannii			GU054963	GU054773		GU055058			GU055153					GU054583	GU054678						GU054868									
+Oreopanax polycephalus			GU054923	GU054733		GU055018			GU055113					GU054543	GU054638						GU054828									
+Trevesia lateospina			GU054949	GU054759		GU055044			EF152181					GU054569	EF152172						GU054854									
+Tetraplasandra hawaiensis			GQ244099					AF368486		U58593			GQ243828		AF368479			U50257		AY189112										
+Dendropanax proteus			GU054906	GU054716		GU055001			GU055096					GU054526	AF242237						GU054811									
+Dendropanax gonatopodus			GU054966	GU054727		GU055070			GU055156					GU054595	GU054690						GU054880									
+Dendropanax cuneifolius			GU054952	GU054762		GU055047			GU055142					GU054572	GU054667						GU054857									
+Dendropanax praestans			GU054944	GU054754		GU055039			GU055134					GU054564	GU054657						GU054847									
+Dendropanax sessiliflorus			GU054921	GU054717		GU055071			EF152183					GU054596	GU054622						GU054881									
+Dendropanax oliganthus			GU054958	GU054729		GU055053			GU055148					GU054578	GU054673						GU054863									
+Dendropanax caucanus			GU054915	GU054725		GU055011			GU055105					GU054536	GU054631						GU054820									
+Dendropanax trifidus				EF152195		AB178622			AY393720				AY163507		AF242238			AB665989			AY163526									
+Dendropanax lancifolius			GU054964	GU054774		GU055059			GU055154					GU054584	GU054679						GU054869									
+Dendropanax pallidus			GU054981	GU054791		GU055076			GU055171					GU054601	GU054696						GU054886									
+Dendropanax oligodontus			GU054980	GU054790		GU055075			GU055170					GU054600	GU054689						GU054885									
+Dendropanax poilanei			GU054962	GU054771		GU055056			GU055152					GU054581	GU054676						GU054867									
+Dendropanax maingayi			GU054918	GU054728		GU055013			GU055108					GU054538	DQ007371						GU054823									
+Dendropanax umbellatus			GU054960	GU054770		GU055055			GU055150					GU054580	GU054675						GU054865									
+Dendropanax schippii			GU054967	GU054777		GU055062			GU055157					GU054587	GU054682						GU054872									
+Dendropanax productus			GU054972	GU054782		GU055067			GU055162					GU054592	GU054687						GU054877									
+Dendropanax globosus			GU054904	GU054714		GU054999			GU055094					GU054524	GU054619						GU054809									
+Dendropanax macropodus			GU054905	GU054715		GU055000			GU055095					GU054525	GU054620						GU054810									
+Dendropanax cuneatus			GU054965	GU054775		GU055054			GU055149					GU054585	GU054674						GU054870									
+Dendropanax punctatus			GU054982	GU054792		GU055077			GU055172					GU054602	GU054697						GU054887									
+Dendropanax latilobus			GU054941	GU054751		GU055036			GU055131					GU054561	GU054656						GU054846									
+Dendropanax ravenii			GU054920	GU054730		GU055015			GU055110					GU054540	GU054635						GU054825									
+Dendropanax bolivianus			GU054957	GU054766		GU055052			GU055147					GU054577	GU054671						GU054862									
+Dendropanax capillaris			GU054914	GU054724		GU055009			GU055104					GU054534	GU054629						GU054819									
+Dendropanax palustris			GU054943	GU054747		GU055038			GU055133					GU054557	GU054658						GU054842									
+Dendropanax confertus			GU054983	GU054793		GU055078			GU055173					GU054603	GU054698						GU054888									
+Aralia nudicaulis									AF382157	HQ593176					U41674			HQ589959			HQ596601									
+Aralia vietnamensis			GU054951	GU054761		GU055046			GU055141					GU054571	AF273541						GU054856									
+Aralia stellata			GU054935	GU054745		GU055030			GU055125					GU054555	GU054650						GU054840									
+Aralia finlaysoniana			GU054950	GU054760		GU055045			GU055140					GU054570	AF273529						GU054855									
+Aralia stipulata			GU054985	GU054795		GU055080			GU055175					GU054605	AF273535						GU054890									
+Hydrocotyle verticillata									AY393700	U58601	FM207078				AY389025			U50236		AY189078										
+Hydrocotyle sibthorpioides		X16605	GQ244108								FM207067		GQ243837		JQ425409			D44570			JQ425423									
+Macropanax undulatus			GU054909	GU054719		GU055004			GU055099					AY753242	AY725125						GU054814									
+Macropanax maingayi			GU054931	GU054741		GU055026			GU055121					GU054551	GU054646						GU054836									
+Macropanax rosthornii			GU054898	GU054708		GU054993			GU055088					GU054518	GU054613						GU054803									
+Schefflera heterophylla			GU054927	GU054737		GU055022			GU055117					GU054547	DQ007388						GU054832									
+Schefflera subulata			GU054929	GU054739		GU055024			GU055119					GU054549	GU054644						GU054834									
+Schefflera hypoleuca			GU054928	GU054738		GU055023			GU055118					GU054548	AY725127						GU054833									
+Schefflera pentandra			GU054912	GU054722		GU055007			GU055102					GU054532	GU004029						GU054817									
+Schefflera elegantissima	AF506116					DQ133882			AF396416	DQ133795					AF229730			DQ133821	AY746587											
+Astrotricha pterocarpa			GQ244034						AY393709	AF271756			GQ243765		AF229761			AY188416		AY189041										
+Tupidanthus calyptratus									AY393788	U58622				AY753250	AY389065			U50259		AY189116									AY204061	
+Pseudopanax ferox			GQ244077						AY393761			FJ470190	GQ243806		U63172			FJ470150									FJ470242			
+Fatsia oligocarpella			GU054945	GU054755		GU055040			GU055135					GU054565	GU054660						GU054850									
+Eleutherococcus sieboldianus			GU054896	GU054706		GU054991			AY393723	AB571644				GU054516	AY548190						GU054801									
+Gastonia rodriguesiana			GQ244053					AF393940	GQ267564	U58611			GQ243782		AF368466				GQ267619	AY189070										
+Sinopanax formosanus			GQ244097	GU054723		GU055008			GU055103				GQ243826	GU054533	AF229768						GU054818									
+Dendropanax caloneurus			GU054902	GU054712		GU054997			GU055092					GU054522	GU054617						GU054807								AY203998	
+Dendropanax burmanicus			GU054901	GU054781		GU055066			GU055161					GU054591	GU054616						GU054876								AY204000	
+Dendropanax hoi			GQ244046	GU054778		GU055063			GU055158				GQ243776	GU054588	GU054683						GU054873									
+Dendropanax chevalieri			GU054973	GU054783		GU055068		AY304715	GU055163					GU054573	GU054668						GU054878									
+Aralia cordata			GU054934	GU054744		GU055029			GU055124					GU054554	U66922			D44555			GU054839									
+Aralia chinensis				EF152193		AF110609			AY393704	HQ427393					AF242256			HQ427250			HQ427093	U36283								
+Schefflera angulata			GU054925	GU054735		GU055020			GU055115					GU054545	GU004066				GU004124		GU054830									
+Pseudopanax lessonii			GQ244078									FJ470185	GQ243807		U63177			FJ470124			FJ470157						FJ470221			
+Eleutherococcus sessiliflorus				EF152196		DQ133825			AY393721	AB571642					FJ980421	GQ434778	GQ435790	DQ133796												
+Munroidendron racemosum			GQ244063					AF393961	AF393922	U58592			GQ243792		AF229738			U50249	GQ267624	AY189094										
+Meryta denhamii			FJ470247									FJ470204	FJ470172		AF229725			FJ470144	AY746573		FJ470154						FJ470237			
+Heteropanax fragrans			GQ244056	EF152198					EF152184				GQ243785	AY753236	AY725120			JQ933360	GU004118										AY204056	
+Hymenosporum flavum		L16009	GQ244135						AY829061	U58623			GQ243861		AY829026			U50260		AY189079										
+Gastonia cutispongia			GU054946	GU054756		GU055041		AF393926	AF396415					GU054566	AY389049				GQ267616		GU054851									
+Raukaua anomalus			FJ470245						AY393764			FJ470180	FJ470170		U63164			FJ470120			FJ470152						FJ470213			
+Reynoldsia sandwicensis			GQ244082					AF368487	AY393765	U58618			GQ243811		AF368468			U50253	GQ267693	AY189105										
+Dendropanax dentiger			GU054903	GU054713		GU055074			GU055169	HQ427394				GU054599	GU054694			HQ427251			GU054884									
+Dendropanax hainanensis			GU054940	GU054750		GU055035		AY304716	GU055130					GU054560	AF242236						GU054845								AY203997	
+Schefflera delavayi				GQ983669	GQ983613	GQ984020			EF152185						EF152176				GU004121										AY204054	
+Schefflera decaphylla									FJ039277	JQ626409					FJ037796		FJ039358	FJ037968	GU004133		FJ038860									
+Pseudopanax colensoi			GQ244065	GQ983677	GQ983637	GQ984028							GQ243794														GQ983951			
+Pseudopanax laetus			FJ470253						AY393762			FJ470198	FJ470178		U63176			FJ470138			FJ470160						FJ470232			
+Sciadodendron excelsum			GU054954	GU054764		GU055049			GU055144	JQ586681				GU054574	GU054669			JQ590388			GU054859									
+Oplopanax elatus			GQ244066	GU054757		GU055042			AY393744				GQ243795	GU054567	AY389043						GU054852								AY204033	
+Eleutherococcus trifoliatus			GQ244047	AY171089					AY753264	U58603			GQ243777	AY753235	AY725119			U50239		AY189065										
+Metapanax davidii			GQ244061	EF152201		GU055005		AY304732	GU055100				GQ243790	GU054530	AF242233						GU054815								AY204022	
+Macropanax dispermus			GQ244058	GU054702		GU054987			GU055082				GQ243787	AY753237	AY725121			JQ933394			GU054797								AY204020	
+Schefflera heptaphylla			GU054926	GU054736		GU055021			GU055116	JN407095				GU054546	JN407425			JN407245	GU004120		GU054831									
+Schefflera digitata		GU476379	GQ244086						AY393768			FJ470181	GQ243815		DQ499063			FJ470121			FJ470153						FJ470214			
+Pseudopanax linearis			FJ470252						AY393763			FJ470206	FJ470177		U63178			FJ470146	GQ267600		FJ470159						FJ470225			
+Pseudopanax crassifolius			FJ470249						AY393760			FJ470187	FJ470174		U63168			FJ470126			FJ470156						FJ470220		AY203994	
+Meryta sinclairii			FJ470248							U58614		FJ470203	GQ243789		AY746565			FJ470143	AY746583	AY189086	FJ470155						FJ470236			
+Hedera nepalensis	AF506102		GU054922	GU054732		GU055017			GU055112				AY163505	GU054542	GU054637						GU054827								AY204084	
+Hydrocotyle vulgaris				GQ983666	GQ983599	DQ133870				DQ133792	FM207084				AF077895			HM850058						JN892731			GQ983976			
+Schefflera morototoni			GU054932	GU054742		GU055027			GU055122	JQ586677			GQ243819	GU054552	AY955463			JQ590386	GU004151		HM447000									
+Trevesia palmata			GQ244101	AY171083					AY393785	U58621			GQ243830		AF242247		GQ435787	GQ436703		AY189115	GQ435395				AY304761				AY203989	
+Pittosporum tobira			AF094468	AF130201		AB178609	FJ493297		FJ490806	HM850706			GQ243868					HQ619768		AY189151								DQ110355		
+Aralia racemosa			GU054900	GU054710		GU054995			GU055090	HQ593177				GU054520	U66929			HQ589960			HQ596602								AY204043	
+Panax pseudoginseng		AB088026				HQ112533			AY393750	HQ113076					HQ112438			HQ112615			HQ112886		AY275936							
+Hedera hibernica	AF506110		AF515547						AJ537464	FN668806			AY163502	AY163540	AF506079						FN675789								HQ234543	
+Hedera caucasigena			HQ220386			HQ220322			HQ220354			HQ220418	HQ220259								HQ220578								HQ234539	
+Hedera maderensis			HQ220392			HQ220328			HQ220360			HQ220424	HQ220265								HQ220584								HQ234556	
+Cussonia spicata			GQ244044	GQ983676	GQ983596	GQ983995				U58607			GQ243774		AF229765					AY189057				JF265382			GQ983905			
+Billardiera heterophylla		AJ236001	AF094473	AJ236268	AJ236214	DQ133886			GQ984042	U58625			GQ243857		AY829019			U50262		AY189109							GQ983904			
+Tetraplasandra oahuensis			GQ244100	GQ983667	GQ983616	GQ983996		AF393960	AF393921				GQ243829		AF368480				GQ267694								GQ983896			
+Pittosporum undulatum		L15197	GQ244143			DQ133878			AJ430960	DQ133794			GQ243869		AF302014			HM850262									GQ983886			
+Dendropanax arboreus	AF506119		GU054969	GU054787		GU055064			GU055159	U58609			GQ243775	GU054597	GU054670			JQ590380		AY189060	GQ982206	U72476								
+Aralia elata			GU054970	GU054780		GU055065			GU055160					GU054590	AF077875						GU054875		AY275914							
+Schefflera arboricola			GQ244083	GU054721		GU055006			GU055101	U58619			GQ243812	GU054531	AF242243			U50255		AY189108	GU054816									
+Pseudopanax arboreus			AF094461						AY393759	U58617		FJ470202	GQ243793		AY746566			FJ470141	AY746585	AY189103	FJ470158	U72479					FJ470235			
+Panax stipuleanatus		JX680332				HQ112539		AY304743		HQ113082					JX680330			HQ112601			HQ112891		AY275944						AY204041	
+Polyscias fruticosa			HQ220403			HQ220338			HQ220370			HQ220435	HQ220276		U63191						HQ220595								HQ234593	
+Brassaia actinophylla			HQ220402			HQ220339			HQ220371			HQ220434	HQ220275		AF242245						HQ220594								HQ234595	
+Eleutherococcus senticosus		AB080245	GU054895	GU054705		GU054990			GU055085	AB571640				GU054515	GQ434775			GQ436704			GQ435396									
+Panax trifolius			GU054986	GU054796		HQ112541			GU055176	HQ113084				GU054606	U41698			HQ112614			GU054891		AY275946							
+Hedera iberica	AF506089		HQ220391			HQ220327			AF515533			HQ220423	HQ220264	AY163533	AJ131232						AY163514									
+Polyscias guilfoylei			GQ244073	GQ983674	GQ983620	GQ983997			GQ267569	AY188407			GQ243803		AF242246			U50251	GQ267656	AY189102							GQ983893			
+Kalopanax septemlobus			GU054930	GU054740		GU055025		AY304730	AY393733	U58591		AB649389	GQ243786	GU054550	EF152175			D44571		AY189080	AB649340	U72473				AB649352			AY204029	
+Hedera canariensis	AF506085		HQ220380			HQ220316			HQ220348			HQ220412	HQ220253	AY163544	AJ131221						HQ220572								HQ234518	
+Hedera colchica	AF506104		HQ220381			HQ220317			AF515540			HQ220413	HQ220254	AY163531	AJ131223						AY163512								HQ234524	
+Hedera maroccana	AF506083		HQ220394			HQ220330			HQ220362			HQ220426	HQ220267	AY163532	AF506080						HQ220586								HQ234564	
+Hedera cypria	AF506113		HQ220382			HQ220318			HQ220350			HQ220414	HQ220255	AY163535	AJ131225						AY163516								HQ234525	
+Trevesia sundaica			HQ220405	AY171080		HQ220341			HQ220373			HQ220437	HQ220278		AY389063						HQ220597				AY304767				AY203990	
+Hedera rhombea	AF506100		HQ220400	GU054703		HQ220336			GU055083			HQ220432	HQ220273	AY163529	GU054608						HQ220592								AY204078	
+Hedera pastuchovii	AF506103		GU054894	GU054704		GU054989			GU055084			HQ220430	HQ220271	GU054514	AJ131239						HQ220590								HQ234582	
+Hedera azorica	AF506107		HQ220376			HQ220312			AF515541	HM850708		HQ220408	HQ220249	AY163530	AJ131218			HM850042			HQ220568								HQ234517	
+Hedera algeriensis	AF506094		GU054933	GU054743		HQ220313			HQ220347	HE970710		HQ220411	HQ220252	GU054553	AJ131217			HE963505			AY163508								HQ234505	
+Aralia spinosa			AF094458	GU054794	GQ983605	GU055079			GU055174	U58604			GQ243763	GU054604	U66928			L11166		AY189035	GU054889	U72481					GQ983963	EU281115	AY204045	
+Tetrapanax papyrifer			GU054948	GU054758	GQ983624	GU055043			AY393783	U58620			GQ243827	GU054568	U63192		GQ435789	GQ436708	GU004117	AY189111	GU054853	U72472					GQ983889		AY204006	
+Fatsia japonica	AF506121		GQ244048	AY171077		EU786161			EU786164	U58610		FJ470179	HQ220274	AY163545	EU786158			FJ470119		AY189069	HQ220593	U72474					FJ470212		AY203996	
+Hedera helix		X16604	HQ220387	AY171079	AF092105	HQ220314			HQ220355	JN895670		HQ220419	HQ220260		AJ131228			JQ412372		AF479194	HQ220579	U72477					AY188242	DQ401390	HQ234541	
+Panax japonicus	JN700291	D84100				HQ112528				HQ113071			JN700282	JN700296	U41701		GQ435795	HQ112602			HQ112880		AY275928			JN700321				
+Panax notoginseng	JN700401	AB027525				HQ112529		EU574685		AB088002			JN700352	JN700406	U41684			JF950030			JN700337		AY275931			JN700431			AY204040	
+Panax quinquefolius	JN700391	D85172	GQ244072		AJ236210	HQ112534		EU574687	AY393751	AB044904			GQ243801	JN700396	HQ112439			GQ436709	HQ650812	AF479193	HQ112888		AY275938			JN700501				
+Panax ginseng	JN700461	D83275		AF130204		HQ112510		EU234581	AF366930	AB044903		AB649416	JN700452	JN700466	EU592021			JF950028	HQ650811	GQ178077	AB649346		AY275926			AB649381				

@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster11.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster13.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster14.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster16.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster18.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Oncothecaceae,_Metteniusaceae,_Icacinaceae/cluster19.fa

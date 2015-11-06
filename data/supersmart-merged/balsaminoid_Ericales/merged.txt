@@ -1,0 +1,6 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/cluster4.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/cluster9.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/balsaminoid_Ericales/cluster11.fa

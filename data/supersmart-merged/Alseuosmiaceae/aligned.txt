@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/1304285-49929-13-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/164371383-49582-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/22795868-49929-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/22795938-49929-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/22795983-49929-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/22796019-49929-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/305672284-49929-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/308096668-49929-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/6686770-49929-0-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Alseuosmiaceae/7414843-49929-1-subtree.fa

@@ -1,0 +1,2 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Scytopetaloideae/cluster2.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Scytopetaloideae/cluster3.fa

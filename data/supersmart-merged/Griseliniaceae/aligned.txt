@@ -1,0 +1,10 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/11323496-42225-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/14718067-4036-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/164371392-4036-87-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/164685683-16912-16-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/22796304-16912-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/255958515-16912-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/255958784-16912-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/30524708-16912-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/33563003-4036-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/6687618-16912-6-subtree.fa

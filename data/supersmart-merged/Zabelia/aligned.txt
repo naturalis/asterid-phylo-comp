@@ -1,0 +1,11 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/22795880-4200-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/22796661-4200-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/295454-4199-11-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/295823542-486692-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/295823546-486692-4-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/300069109-486692-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/300069140-486692-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/305671680-486692-2-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/305671728-486692-9-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/357932803-486692-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Zabelia/36938520-4200-4-subtree.fa

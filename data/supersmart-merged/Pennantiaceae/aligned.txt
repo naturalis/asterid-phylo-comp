@@ -1,0 +1,9 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/10945632-4036-5-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/14718067-4036-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/149389292-159370-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/164371392-4036-87-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/255958512-159369-7-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/255958795-159370-8-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/305671594-159370-15-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/33563003-4036-6-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Pennantiaceae/6424734-4036-7-subtree.fa

@@ -1,0 +1,6 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/cluster1.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/cluster3.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/cluster5.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/cluster6.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/cluster7.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Griseliniaceae/cluster8.fa

@@ -1,0 +1,12 @@
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/15027539-79609-19-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/165934098-79609-46-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/165934162-79609-45-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/165934229-4199-60-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/165934305-4199-32-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/17863895-4200-20-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/226534278-79609-15-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/22795880-4199-3-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/22796661-4199-10-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/33299980-79609-13-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/52429797-4199-59-subtree.fa
+/vagrant/asterid-phylo-comp/data/supersmart-merged/Weigela/6424732-4199-13-subtree.fa
