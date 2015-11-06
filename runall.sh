@@ -63,3 +63,10 @@ done
 if [ ! -e "$MARKERS/markers.tsv" ]; then
 	perl script/count_markers.pl -i $SUPERSMART > "$MARKERS/markers.tsv"
 fi
+
+# create taxon summary
+if [ ! -e "$MARKERS/taxa.tsv" ]; then
+	perl script/count_taxa.pl -i $SUPERSMART -m 'rbcL' -m 'matK' -m 'rps16' -m 'ndhF' \
+	-m '5.8S-ribosomal-RNA' -m 'contains-trnT-trnL-intergenic-spacer,-tRNA-Leu-(trnL),-trnL-trnF-intergenic-spacer,-and-tRNA-Phe-(trnF)' \
+	> "$MARKERS/taxa.tsv"
+fi
