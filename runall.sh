@@ -143,3 +143,9 @@ fi
 
 # move back
 cd -
+
+# merge the two run results
+if [ ! -e "$MARKERS/merged.tsv" ]; then
+	perl $SCRIPT/merge_run_results.pl -i $SUPERSMART -s $MARKERS/taxa.tsv -r $RERUN/taxa.tsv \
+	-limit 3 -m 'rbcL' -m 'matK' -m 'rps16' -m 'ndhF' > $MARKERS/merged.tsv
+fi
