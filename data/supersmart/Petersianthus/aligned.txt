@@ -1,1 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Petersianthus/6687204-3642-8-subtree.fa

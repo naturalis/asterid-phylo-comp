@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Steganotaenia/146148337-4037-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Steganotaenia/6692888-507443-1-subtree.fa

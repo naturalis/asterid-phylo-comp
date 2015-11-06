@@ -1,7 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Centella/1292971-43068-2-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Centella/14276793-235261-47-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Centella/1498276-43068-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Centella/2281236-43068-3-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Centella/255958688-4036-3-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Centella/255958834-235261-8-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Centella/6692896-43068-4-subtree.fa

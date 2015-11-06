@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Staavia/45548872-266466-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Staavia/45549002-266466-1-subtree.fa

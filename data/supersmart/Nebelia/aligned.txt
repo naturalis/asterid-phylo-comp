@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Nebelia/45548826-266446-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Nebelia/45548973-25736-17-subtree.fa

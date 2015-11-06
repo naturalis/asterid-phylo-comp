@@ -1,9 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/10945632-4036-5-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/149389292-159370-6-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/164371392-4036-87-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/17932792-159370-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/255958512-159369-7-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/255958795-159370-8-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/305671594-159370-15-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/32526542-159370-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Pennantia/32526550-159369-3-subtree.fa

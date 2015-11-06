@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Rhaptopetalum/90855935-372764-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Rhaptopetalum/92918796-372764-1-subtree.fa

@@ -1,9 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/10945644-91902-18-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/21633462-91902-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/22796297-91902-19-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/22796622-91902-3-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/22796654-91902-4-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/22796674-4069-536-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/335058871-91902-2-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/335059206-91902-14-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Montiniaceae/335059845-91902-16-subtree.fa

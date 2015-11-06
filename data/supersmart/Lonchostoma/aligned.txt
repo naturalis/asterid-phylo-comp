@@ -1,1 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Lonchostoma/45548778-266421-0-subtree.fa

@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Linconia/45548902-266489-0-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Linconia/45548988-266489-1-subtree.fa

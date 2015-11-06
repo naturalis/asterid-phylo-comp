@@ -1,2 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Cariniana/6687204-3642-8-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cariniana/92918696-79560-1-subtree.fa

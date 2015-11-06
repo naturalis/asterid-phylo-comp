@@ -1,5 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Cyrillaceae/18140656-4339-1-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cyrillaceae/1834402-4339-16-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cyrillaceae/37543471-4339-23-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cyrillaceae/66394754-4339-5-subtree.fa
-/vagrant/asterid-phylo-comp/data/supersmart/Cyrillaceae/8452641-4339-0-subtree.fa

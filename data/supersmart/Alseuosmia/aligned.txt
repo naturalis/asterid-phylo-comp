@@ -1,1 +1,0 @@
-/vagrant/asterid-phylo-comp/data/supersmart/Alseuosmia/164371383-49582-6-subtree.fa
