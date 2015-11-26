@@ -3,6 +3,8 @@
 SPREADSHEET=data/taxa/sampling_asterids_tree.tsv
 SUPERSMART=data/supersmart-merged
 MARKERS=data/markers
+ENRICHED=data/enriched
+ENRICHED_MARKERS=$ENRICHED/final_selection_table_asterids.txt
 RERUN=data/supersmart-rerun
 ALIGNMENTS=data/alignments
 SCRIPT=`pwd`/script
@@ -155,3 +157,22 @@ fi
 # Here we first fetch all the sequences for the selected markers and taxa in separate 
 # files. We then align these and concatenate them as input for exabayes, i.e. in a PHYLIP
 # file with short taxon names
+MARKER_SELECTION="rbcL matK rps16 ndhF"
+for M in $MARKER_SELECTION; do
+
+	# do the download
+	if [ ! -e "$ENRICHED/$M.fa" ]; then
+		perl script/fetch_seqs.pl -t $ENRICHED_MARKERS -m $M -o $ENRICHED/$M.fa -v
+	fi
+	
+	# do the alignment
+	if [ ! -e "$ENRICHED/$M.aln.fa" ]; then
+		mafft --auto $ENRICHED/$M.fa > $ENRICHED/$M.aln.fa
+	fi
+done
+
+# do the concatenation
+if [ ! -e "$ENRICHED/merged.phy" ]; then
+	perl script/merge_aln.pl -i "$ENRICHED/rbcL.aln.fa" -i "$ENRICHED/matK.aln.fa" \
+		"$ENRICHED/rps16.aln.fa" -i "$ENRICHED/ndhF.aln.fa" -f phylip > "$ENRICHED/merged.phy"
+fi
