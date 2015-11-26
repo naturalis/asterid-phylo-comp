@@ -4,6 +4,7 @@ SPREADSHEET=data/taxa/sampling_asterids_tree.tsv
 SUPERSMART=data/supersmart-merged
 MARKERS=data/markers
 RERUN=data/supersmart-rerun
+ALIGNMENTS=data/alignments
 SCRIPT=`pwd`/script
 export SUPERSMART_BACKBONE_MAX_DISTANCE=0.25
 export SUPERSMART_BACKBONE_MIN_COVERAGE=1
@@ -149,3 +150,8 @@ if [ ! -e "$MARKERS/merged.tsv" ]; then
 	perl $SCRIPT/merge_run_results.pl -i $SUPERSMART -s $MARKERS/taxa.tsv -r $RERUN/taxa.tsv \
 	-limit 3 -m 'rbcL' -m 'matK' -m 'rps16' -m 'ndhF' > $MARKERS/merged.tsv
 fi
+
+##########################################################################################
+# Here we first fetch all the sequences for the selected markers and taxa in separate 
+# files. We then align these and concatenate them as input for exabayes, i.e. in a PHYLIP
+# file with short taxon names
