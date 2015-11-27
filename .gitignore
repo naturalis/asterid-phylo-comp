@@ -2,3 +2,5 @@
 seeds.*
 *.phy
 .DS_Store
+ExaBayes_*
+infer_backbone*
