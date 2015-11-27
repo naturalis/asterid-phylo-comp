@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+use Data::Dumper;
 use Getopt::Long;
 use Bio::DB::GenBank;
 use Bio::Phylo::Factory;
@@ -29,30 +30,45 @@ $project->insert($merged);
 
 # read matrices, collect distinct taxa
 my %taxa;
+my %ti_for_name;
 my @matrices;
 for my $i ( @infile ) {
+	$log->info("going to read $i");
 	my $matrix = parse_matrix(
 		'-format' => 'fasta',
 		'-type'   => 'dna',
 		'-file'   => $i,
 	);
 	
-	# clean up row names: only using binomials
+	# parse out accession numbers, set as row name, 
+	# store mapping to binomial
+	my %name_for_accession;
 	$matrix->visit(sub{
 		my $row = shift;
 		my $accession = $row->get_name;
 		$accession =~ s/ .+//; # strip trailing defline
-		$accession =~ s/^.+_([^_]+)$/$1/; # keep accession number
-		
-		# attempt to fetch taxon ID from sequence
-		$log->info("attempting to fetch sequence $accession");
-		my $seq = $dbg->get_Seq_by_acc($accession);
-		my $tid = $seq->species->ncbi_taxid;
-		$row->set_name($tid);
-		$taxa{$tid}++;
+		my @parts = split /_/, $accession;
+		$accession = pop @parts;
+		my $name = join ' ', @parts;
+		$name_for_accession{$accession} = $name;
+		$log->info("$name -> $accession");
+		$row->set_name($accession);
 	});
+	
+	# stream all results	
+	my $io = $dbg->get_Stream_by_acc([ keys %name_for_accession ]);
+	while( my $seq = $io->next_seq ) {
+		my $accession = $seq->accession_number;
+		my $name = $name_for_accession{$accession};
+		my $tid  = $ti_for_name{$name} || ($ti_for_name{$name} = $seq->species->ncbi_taxid);
+		$log->info("$name -> $accession -> $tid");
+		$taxa{$tid}++;
+		my $row = $matrix->get_by_name($accession);
+		$row->set_name($tid);
+	}	
 	push @matrices, $matrix;
 }
+$log->info("\n".Dumper(\%taxa)."\n");
 
 # populate the merged matrix
 NAME: for my $name ( sort { $a cmp $b } keys %taxa ) {
