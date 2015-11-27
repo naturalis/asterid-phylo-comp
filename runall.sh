@@ -174,5 +174,10 @@ done
 # do the concatenation
 if [ ! -e "$ENRICHED/merged.phy" ]; then
 	perl script/merge_aln.pl -i "$ENRICHED/rbcL.aln.fa" -i "$ENRICHED/matK.aln.fa" \
-		"$ENRICHED/rps16.aln.fa" -i "$ENRICHED/ndhF.aln.fa" -f phylip > "$ENRICHED/merged.phy"
+		"$ENRICHED/rps16.aln.fa" -i "$ENRICHED/ndhF.aln.fa" -f phylip -v > "$ENRICHED/merged.phy"
+fi
+
+# build the tree
+if [ ! -e "$ENRICHED/backbone.dnd" ]; then
+	smrt bbinfer -s merged.phy -i exabayes
 fi
