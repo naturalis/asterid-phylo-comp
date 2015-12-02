@@ -178,8 +178,21 @@ if [ ! -e "$ENRICHED/merged.phy" ]; then
 fi
 
 # build the tree
-if [ ! -e "$ENRICHED/backbone.dnd" ]; then
+if [ ! -e "$ENRICHED/backbone.dnd.trees" ]; then
 	cd $ENRICHED
 	smrt bbinfer --supermatrix merged.phy --inferencetool exabayes --ids
 	cd -
+fi
+
+##########################################################################################
+# Here we reroot the trees on the members of the outgroup taxon Cornales:
+# 60120		Cornus nuttallii
+# 16922		Camptotheca acuminata
+# 561372	Nyssa sinensis
+# 96933		Hydrangea arborescens
+# 16911		Curtisia dentata
+# 55377		Grubbia tomentosa
+# 161874	Alangium kurzii
+if [ ! -e "$ENRICHED/backbone-rerooted.dnd" ]; then
+	perl script/reroot.pl -t "$ENRICHED/backbone.dnd.trees" -o 60120,16922,561372,96933,16911,55377,161874 -v > "$ENRICHED/backbone-rerooted.dnd"
 fi
