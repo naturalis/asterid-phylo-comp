@@ -26,7 +26,7 @@ TAXA=`ls $SUPERSMART/`
 ##########################################################################################
 # Here we do an initial run of the SUPERSMART pipeline where we try to collect data for
 # each of the higher taxa in the input spreadsheet individually. This sometimes fails,
-# especially in cases where an input taxon has <3 species in our database, i.e. the 
+# especially in cases where an input taxon has <3 species in our database, i.e. the
 # pipeline considers such an input taxon near-monotypic, such that no phylogenetically
 # informative data set can be constructed. In a second step, we will create a set of names
 # only with species from these input taxa, so that we can then convince the pipeline that,
@@ -42,12 +42,12 @@ for TAXON in $TAXA; do
 	if [ ! -e "species.tsv" ]; then
 		smrt taxize -b -r `cat names.txt`
 	fi
-	
+
 	# align all phylota clusters for the species
 	if [ ! -e "aligned.txt" ]; then
-		smrt align				
-	fi	
-	
+		smrt align
+	fi
+
 	# run all-vs-all BLAST merger on phylota clusters
 	if [ -e "aligned.txt" ] && [ ! -e "merged.txt" ]; then
 		smrt orthologize
@@ -57,8 +57,8 @@ for TAXON in $TAXA; do
 		else
 			echo "no alignments were made for $TAXON, won't cluster"
 		fi
-	fi	
-	
+	fi
+
 	# perform a supermatrix merger, produce marker table
 	if [ -e "merged.txt" ] && [ ! -e "markers-backbone.tsv" ]; then
 		smrt bbmerge --exemplars -1
@@ -68,8 +68,8 @@ for TAXON in $TAXA; do
 		else
 			echo "no clustering was done for $TAXON, won't merge"
 		fi
-	fi	
-	
+	fi
+
 	# move back
 	cd -
 done
@@ -102,7 +102,7 @@ if [ ! -e "$RERUN/species.tsv" ]; then
 	for TAXON in $MISSING; do
 		if [ ! -e "$RERUN/species.tsv" ]; then
 			head -1 "$SUPERSMART/$TAXON/species.tsv" > "$RERUN/species.tsv"
-		fi	
+		fi
 		grep -v '^name' "$SUPERSMART/$TAXON/species.tsv" >> "$RERUN/species.tsv"
 	done
 fi
@@ -112,8 +112,8 @@ cd $RERUN
 
 # align all phylota clusters for the species
 if [ ! -e "aligned.txt" ]; then
-	smrt align				
-fi	
+	smrt align
+fi
 
 # run all-vs-all BLAST merger on phylota clusters
 if [ -e "aligned.txt" ] && [ ! -e "merged.txt" ]; then
@@ -124,7 +124,7 @@ else
 	else
 		echo "no alignments were made for $RERUN, won't cluster"
 	fi
-fi	
+fi
 
 # perform a supermatrix merger, produce marker table
 if [ -e "merged.txt" ] && [ ! -e "markers-backbone.tsv" ]; then
@@ -135,7 +135,7 @@ else
 	else
 		echo "no clustering was done for $RERUN, won't merge"
 	fi
-fi	
+fi
 
 # create taxon summary
 if [ ! -e "taxa.tsv" ]; then
@@ -154,7 +154,7 @@ if [ ! -e "$MARKERS/merged.tsv" ]; then
 fi
 
 ##########################################################################################
-# Here we first fetch all the sequences for the selected markers and taxa in separate 
+# Here we first fetch all the sequences for the selected markers and taxa in separate
 # files. We then align these and concatenate them as input for exabayes, i.e. in a PHYLIP
 # file with short taxon names
 MARKER_SELECTION="rbcL matK rps16 ndhF"
@@ -164,7 +164,7 @@ for M in $MARKER_SELECTION; do
 	if [ ! -e "$ENRICHED/$M.fa" ]; then
 		perl script/fetch_seqs.pl -t $ENRICHED_MARKERS -m $M -o $ENRICHED/$M.fa -v
 	fi
-	
+
 	# do the alignment
 	if [ ! -e "$ENRICHED/$M.aln.fa" ]; then
 		mafft --auto $ENRICHED/$M.fa > $ENRICHED/$M.aln.fa
@@ -179,5 +179,7 @@ fi
 
 # build the tree
 if [ ! -e "$ENRICHED/backbone.dnd" ]; then
-	smrt bbinfer -s merged.phy -i exabayes
+	cd $ENRICHED
+	smrt bbinfer --supermatrix merged.phy --inferencetool exabayes --ids
+	cd -
 fi
