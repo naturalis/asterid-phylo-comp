@@ -8,7 +8,7 @@ Cornales	Alangium kurzii	161874	3	AF384108	HQ427284	NA	JF321064	scalariform
 Alseuosmiaceae	Alseuosmia macrophylla	49583	3	X87377	AJ429378	NA	AJ238334	scalariform
 Gentianales	Alstonia scholaris	52822	3	JF739092	KR530342	DQ660558	NA	simple
 early_diverging_Apiaceae	Anginon rugosum	46364	2	U50222	NA	AF110573	NA	simple
-"Oncothecaceae,_Metteniusaceae,_Icacinaceae"	Apodytes dimidiata	159374	4	JF265292	AJ429311	AJ431022	AJ429109	scalariform
+Oncothecaceae,_Metteniusaceae,_Icacinaceae	Apodytes dimidiata	159374	4	JF265292	AJ429311	AJ431022	AJ429109	scalariform
 rest_of_Apiales	Aralia stellata	904022	2	NA	NA	KF591529	KF591502	simple
 Aralidium	Aralidium pinnatifidum	48205	3	AF299087	NA	AJ431083	AJ429126	scalariform
 Argophyllaceae	Argophyllum nullumense	577416	2	KM895989	KM894822	NA	NA	scalariform
@@ -22,7 +22,7 @@ Lamiales	Buddleja asiatica	69056	3	NA	AJ429346	AJ431058	AF027277	simple
 Cornales	Camptotheca acuminata	16922	4	JQ280850	JQ280882	EU734472	JF321071	scalariform
 Aquifoliales	Cardiopteris quinqueloba	125019	3	NA	AJ429310	AJ431021	AJ312963	simple
 Rousseaceae	Carpodetus serratus	54173	3	Y08461	AJ429383	NA	AJ238336	scalariform
-"Oncothecaceae,_Metteniusaceae,_Icacinaceae"	Cassinopsis ilicifolia	159376	4	AJ428896	AJ429312	AJ431023	AJ429110	scalariform
+Oncothecaceae,_Metteniusaceae,_Icacinaceae	Cassinopsis ilicifolia	159376	4	AJ428896	AJ429312	AJ431023	AJ429110	scalariform
 Lamiales	Catalpa speciosa	155717	3	NA	HE967373	AJ609197	DQ411407	simple
 rest_of_Apiales	Cheirodendron trigynum	46389	4	U50241	U58606	JX106148	JX106029	scalariform
 early_diverging_Asteraceae	Chuquiraga oppositifolia	171763	2	EU841109	NA	EU547602	NA	simple
@@ -40,7 +40,7 @@ Alseuosmiaceae	Crispiloba disperma	49593	3	X87382	GQ983650	NA	AJ238338	scalarifo
 Cornales	Curtisia dentata	16911	3	L11222	U96901	NA	JF321074	scalariform
 ericalean_lineage	Cyrilla racemiflora	4341	4	L01900	AF380080	AJ430995	AF421051	scalariform
 early_diverging_Asteraceae	Dasyphyllum argenteum	41566	2	AY874428	NA	NA	L39392	simple
-"Oncothecaceae,_Metteniusaceae,_Icacinaceae"	Dendrobangia boliviana	597262	2	FJ037991	JQ626474	NA	NA	scalariform
+Oncothecaceae,_Metteniusaceae,_Icacinaceae	Dendrobangia boliviana	597262	2	FJ037991	JQ626474	NA	NA	scalariform
 Bruniales	Desfontainia spinosa	34247	3	Z29670	NA	AJ431074	AJ011988	scalariform
 Diabelia	Diabelia serrata	1112099	3	KP297679	KP297520	NA	HQ693966	scalariform
 Diervilla	Diervilla rivularis	79607	2	NA	AJ429392	AJ431105	NA	scalariform
@@ -70,8 +70,8 @@ Heptacodium	Heptacodium miconioides	137004	3	NA	GQ284983	GQ984004	AF283509	simpl
 early_diverging_Apiaceae	Heteromorpha arborescens	40689	2	JF265470	NA	DQ133866	NA	simple
 Cornales	Hydrangea arborescens	96933	4	AF323186	JF308692	HE983410	JF321089	scalariform
 rest_of_Apiales	Hymenosporum flavum	23128	2	NA	U58623	NA	NA	simple
-"Oncothecaceae,_Metteniusaceae,_Icacinaceae"	Icacina mannii	4323	4	AF206780	HQ384577	HQ385206	AJ400888	simple
-"Oncothecaceae,_Metteniusaceae,_Icacinaceae"	Icacina senegalensis	159380	4	AJ428897	AJ429313	AJ431024	AJ429111	simple
+Oncothecaceae,_Metteniusaceae,_Icacinaceae	Icacina mannii	4323	4	AF206780	HQ384577	HQ385206	AJ400888	simple
+Oncothecaceae,_Metteniusaceae,_Icacinaceae	Icacina senegalensis	159380	4	AJ428897	AJ429313	AJ431024	AJ429111	simple
 Aquifoliales	Ilex cornuta	146505	4	AF471624	GQ997309	GQ997365	GQ997315	scalariform
 Solanales	Kaliphora madagascariensis	125030	4	HQ384922	AJ429358	HQ385198	HQ384859	simple
 ericalean_lineage	Kalmia polifolia	45899	3	JN965615	JN966342	NA	GU176733	scalariform
@@ -95,7 +95,7 @@ rest_of_Apiales	Myodocarpus fraxinifolius	127429	3	NA	AF271747	GQ984015	GQ983678
 Napoleonaeoideae	Napoleona vogelii	79577	3	Z80173	AJ429388	NA	DQ388164	simple
 ericalean_lineage	Needhamiella pumilio	55237	2	U80422	AF539984	NA	NA	simple
 Cornales	Nyssa sinensis	561372	4	JF308651	JQ280856	EU734480	JF321073	scalariform
-"Oncothecaceae,_Metteniusaceae,_Icacinaceae"	Oncotheca balansae	85235	4	AJ131950	AJ429320	AJ431031	AJ429114	scalariform
+Oncothecaceae,_Metteniusaceae,_Icacinaceae	Oncotheca balansae	85235	4	AJ131950	AJ429320	AJ431031	AJ429114	scalariform
 Lamiales	Oroxylum indicum	83951	3	NA	HQ384520	JN686524	AF102635	simple
 Lamiales	Osmanthus americanus	126554	3	NA	EU409424	AF225277	DQ673285	simple
 Scytopetaloideae	Oubanguia alata	59675	2	NA	KC627404	NA	DQ388165	simple
@@ -112,7 +112,7 @@ ericalean_lineage	Pieris formosa	49158	2	AF124581	U61303	NA	NA	scalariform
 rest_of_Apiales	Pittosporum tobira	43073	3	NA	HM850706	AB178609	AF130201	simple
 rest_of_Apiales	Plerandra insolita	256627	2	NA	NA	JX106161	JX106042	scalariform
 Escalloniales	Polyosma cunninghamii	124854	4	AF299091	AJ429368	AJ431079	AJ419702	scalariform
-"Oncothecaceae,_Metteniusaceae,_Icacinaceae"	Poraqueiba guianensis	597260	2	FJ038063	JQ626457	NA	NA	scalariform
+Oncothecaceae,_Metteniusaceae,_Icacinaceae	Poraqueiba guianensis	597260	2	FJ038063	JQ626457	NA	NA	scalariform
 Gentianales	Posoqueria latifolia	58460	3	GQ981837	NA	FM204728	AM949855	simple
 Gentianales	Potalia resinifera	84952	2	AJ235816	NA	NA	AJ235831	simple
 rest_Ericales	Pouteria guianensis	357088	3	FJ038183	JQ413943	NA	DQ246711	simple
