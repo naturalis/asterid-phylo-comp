@@ -23,3 +23,8 @@ the following steps of the [SUPERSMART](http://www.supersmart-project.org) pipel
 4. For these candidate markers we then created a [table](data/markers/taxa.tsv) to collect 
    accession numbers for each of the species from step 2.
    
+## Additional enrichment
+We then performed more targeted searches for the identified markers to see if additional
+sequence data is available (the SUPERSMART pipeline operates on an indexed version of
+GenBank release 194, which is not the most recent one). This resulted in a
+[final selection](data/enriched/final_selection_table_asterids.tsv).
