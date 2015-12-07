@@ -39,5 +39,5 @@ GenBank release 194, which is not the most recent one). This resulted in a
 We then downloaded the sequences (using another [script](script/fetch_seqs.pl)) and aligned
 each marker using MAFFT v7.130b (2013/12/05). We subsequently [merged](script/merge_aln.pl)
 the alignments into a [supermatrix](data/enriched/merged.phy), which we analyzed using
-ExaBayes (by way of `smrt bbinfer`). We rooted the trees in the posterior sample on the
-taxon _Cornales_.
+ExaBayes (by way of `smrt bbinfer`). We [rooted](script/reroot.pl) the trees in the posterior 
+sample on the taxon _Cornales_.
