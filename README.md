@@ -31,9 +31,13 @@ the following steps of the [SUPERSMART](http://www.supersmart-project.org) pipel
    [more enriched marker/taxa table](data/markers/merged.tsv).
    
 ## Additional enrichment
-We then performed more targeted searches for the identified markers to see if additional
+We performed more targeted searches for the identified markers to see if additional
 sequence data are available (the SUPERSMART pipeline operates on an indexed version of
 GenBank release 194, which is not the most recent one). This resulted in a
 [final selection](data/enriched/final_selection_table_asterids.tsv).
 
-
+We then downloaded the sequences (using another [script](script/fetch_seqs.pl)) and aligned
+each marker using MAFFT v7.130b (2013/12/05). We subsequently [merged](script/merge_aln.pl)
+the alignments into a [supermatrix](data/enriched/merged.phy), which we analyzed using
+ExaBayes (by way of `smrt bbinfer`). We rooted the trees in the posterior sample on the
+taxon _Cornales_.
