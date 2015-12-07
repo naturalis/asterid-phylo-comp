@@ -9,13 +9,14 @@ my $burnin  = 0.1;
 my $outdir  = '.';
 my $species = 'taxon_id'; # column in final_selection_table_asterids.tsv
 my $char    = 'perforation plate type'; # column in final_selection_table_asterids.tsv
-my ( $tree, $data );
+my ( $tree, $data, $consensus );
 GetOptions(
-	'tree=s'    => \$tree,
-	'data=s'    => \$data,
-	'burnin=f'  => \$burnin,
-	'outdir=s'  => \$outdir,
-	'species=s' => \$species,
+	'tree=s'      => \$tree,
+	'data=s'      => \$data,
+	'burnin=f'    => \$burnin,
+	'outdir=s'    => \$outdir,
+	'species=s'   => \$species,
+	'consensus=s' => \$consensus,
 );
 
 my %synonym = (
@@ -129,4 +130,45 @@ for my $t ( @trees ) {
 			}
 		}
 	}
+}
+
+# write the command file
+{
+
+	# open handle, write first lines
+	open my $outfh, '>', $outdir . '/' . 'commands.txt' or die $!;
+	print $outfh "1\n"; # multistate
+	print $outfh "2\n"; # MCMC
+	print $outfh "PriorAll exp 10\n"; # priors for states
+	
+	# read the consensus tree, will estimate ancestral states for nodes in it
+	my $t = parse_tree(
+		'-format' => 'figtree',
+		'-file'   => $consensus,
+	);
+	
+	# write node statements
+	my $index = 1;
+	$t->visit_depth_first(
+		'-post' => sub {
+			my $n = shift;
+			my @c = @{ $n->get_children };
+			if ( @c ) {
+				my %tips;
+				for my $c ( @c ) {
+					my @t = @{ $c->get_generic('tips') };
+					$tips{$_}++ for @t;
+				}
+				my @tips = keys %tips;
+				print $outfh "AddNode Node" . $index++ . " @tips\n";
+				$n->set_generic( 'tips' => [ @tips ] );
+			}
+			else {
+				my $name = $n->get_name;
+				my $ti = $translate{$name} || $translate{$synonym{$name}};
+				$n->set_generic( 'tips' => [ $ti ] );
+			}
+		}
+	);
+	print $outfh "Run\n";
 }
