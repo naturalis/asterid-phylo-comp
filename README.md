@@ -36,6 +36,7 @@ sequence data are available (the SUPERSMART pipeline operates on an indexed vers
 GenBank release 194, which is not the most recent one). This resulted in a
 [final selection](data/enriched/final_selection_table_asterids.tsv).
 
+## Multiple sequence alignment and phylogenetic inference
 We then downloaded the sequences (using another [script](script/fetch_seqs.pl)) and aligned
 each marker using MAFFT v7.130b (2013/12/05). We subsequently [merged](script/merge_aln.pl)
 the alignments into a [supermatrix](data/enriched/merged.phy), which we analyzed using
