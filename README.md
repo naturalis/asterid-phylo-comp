@@ -11,7 +11,7 @@ taxa might be suitable representatives for their respective major groups we ran
 the following steps of the [SUPERSMART](http://www.supersmart-project.org) pipeline:
 
 1. `smrt taxize` as applied to each of the higher taxon names in the `names_to_query`
-   column of the [sampling_asterids_tree](data/taxa/sample_asterids_tree.tsv) spreadsheet,
+   column of the [sampling_asterids_tree](data/taxa/sampling_asterids_tree.tsv) spreadsheet,
    binned by their grouping under `taxa_in_original_tree`. For example, for the family
    Fouquieriaceae we expanded the genus Fouquieria.
 2. For each of these `taxa_in_original_tree` we then ran `smrt align` and `smrt orthologize`
