@@ -3,6 +3,7 @@ use strict;
 use warnings;
 use Getopt::Long;
 use List::Util 'sum';
+use List::MoreUtils 'uniq';
 use Bio::Phylo::Treedrawer;
 use Bio::Phylo::IO qw'parse unparse';
 use Bio::Phylo::Util::Logger ':levels';
@@ -15,17 +16,26 @@ my $original  = 'taxa_in_original_tree'; # column in spreadsheet
 my $species   = 'species'; # column in spreadsheet
 my $character = 'perforation plate type'; # column in spreadsheet
 my $posterior = 0.5; # threshold posterior
+my @excise    = ( 
+	'Poraqueiba guianensis',
+	'Alstonia scholaris',
+	'Maesa indica',
+	'Berzelia lanuginosa',
+	'Brunia albiflora',
+	'Abelia spathulata',
+);
 my ( $intree, $data, $ancstates );
 GetOptions(
-	'intree=s'    => \$intree,
-	'data=s'      => \$data,
-	'verbose+'    => \$verbosity,
-	'taxon_id=s'  => \$taxon_id,
-	'original=s'  => \$original,
-	'species=s'   => \$species,
-	'posterior=f' => \$posterior,
-	'ancstates=s' => \$ancstates,
-	'character=s' => \$character,
+	'intree=s'     => \$intree,
+	'data=s'       => \$data,
+	'verbose+'     => \$verbosity,
+	'taxon_id=s'   => \$taxon_id,
+	'original=s'   => \$original,
+	'species=s'    => \$species,
+	'posterior=f'  => \$posterior,
+	'ancstates=s'  => \$ancstates,
+	'character=s'  => \$character,
+	'excise=s'     => \@excise,
 );
 
 # instantiate helper objects
@@ -44,19 +54,28 @@ my $drawer = Bio::Phylo::Treedrawer->new(
 	'-mode'        => 'clado',
 	'-shape'       => 'rect',
 	'-width'       => 1600,
-	'-height'      => 4000,
+	'-height'      => 2000,
 	'-tree'        => $tree,
 	'-node_radius' => 10,
 	'-tip_radius'  => 10,
 	'-text_width'  => 600,
-	'-text_horiz_offset' => 15,
+	'-text_horiz_offset'     => 15,
+	'-collapsed_clade_width' => 2,
 );
 
+# main operations
+my %meta   = read_species_table($data);
+my %record = read_ancestral_states($ancstates);
+my %colors = apply_states( \%record, \%meta );
+collapse_tree( \@excise, \%colors );
+
 # read species table
-my ( %mapping, %char );
-{
+sub read_species_table {
+	my $data = shift;
+
 	$log->info("going to read taxon data from $data");
 	my @header;
+	my %meta;
 	my ( $s_idx, $t_idx, $c_idx, $p_idx ); # species, taxon, clade, phenotype indices
 	open my $fh, '<', $data or die $!;
 	LINE: while(<$fh>) {
@@ -72,21 +91,27 @@ my ( %mapping, %char );
 			}
 			next LINE;
 		}
-		$mapping{ $line[$t_idx] } = "'" . $line[$s_idx] . ' / ' . $line[$c_idx] . "'";	
-		$char{ $line[$t_idx] } = $line[$p_idx];
+		$meta{ $line[$t_idx] } = {
+			'species' => $line[$s_idx],
+			'clade'   => $line[$c_idx],
+			'state'   => $line[$p_idx],
+		};
 	}
+	return %meta;
 }
 
-# apply ancestral state pies
-{
+# read in the state reconstructions
+sub read_ancestral_states {
+	my $ancstates = shift;
 	
-	# read in the state reconstructions
 	$log->info("going to read ancestral states from $ancstates");
 	my ( %header, %record );
 	open my $fh, '<', $ancstates or die $!;
 	LINE: while(<$fh>) {
 		chomp;
 		my @line = split /\t/, $_;
+		
+		# parse the header, instantiate record fields
 		if ( not %header ) {
 			for my $i ( 0 .. $#line ) {
 				if ( $line[$i] =~ /Node(\d+) P\((\d)\)/ ) {
@@ -99,6 +124,8 @@ my ( %mapping, %char );
 			}
 			next LINE;
 		}
+		
+		# store the record
 		for my $index ( keys %record ) {
 			for my $state ( keys %{ $record{$index} } ) {
 				my $i = $header{$index}->{$state};
@@ -108,15 +135,37 @@ my ( %mapping, %char );
 			}
 		}	
 	}
-	
+	return %record;
+}
+
+# apply ancestral state pies
+sub apply_states {
+	my ( $record, $meta ) = @_;
+	$log->info("going to apply states");
+
+	# synonyms that slipped into @fredericlens's spreadsheet
+	my %synonym = (
+		'1317872' => '59675',
+		'1630344' => '1630342',
+		'237952'  => '85293',
+	);
+
 	# apply state reconstructions to the generic 'pie' slot
 	my $index = 1;
+	my %colors;
 	$tree->visit_depth_first(
 		'-post' => sub {
 			my $n = shift;
+			
+			# both tips and nodes
 			$n->set_font_face('Verdana');
+			$n->set_font_size('12px');
+			
+			# nodes have multiple states in 'pie' slot
 			if ( $n->is_internal ) {
-				my $values = $record{$index};
+				my $values = $record->{$index};
+				
+				# compute averages for each state
 				for my $key ( keys %{ $values } ) {
 					my @v = @{ $values->{$key} };
 					$values->{$key} = sum(@v) / scalar(@v);					
@@ -126,57 +175,102 @@ my ( %mapping, %char );
 				$index++;
 			}
 			else {
+			
+				# tips are species names, hence italic
 				$n->set_font_style('Italic');
+				my $name = $n->get_name;
+				my $key = $meta->{$name} ? $name : $synonym{$name};		
+				if ( $meta->{$key} ) {
+					my $state = $meta->{$key}->{'state'};
+					
+					# progressively assign colors
+					if ( not %colors ) {
+						$colors{$state} = 'white';
+					}
+					elsif ( not $colors{$state} ) {
+						$colors{$state} = 'black';
+					}	
+					
+					# set name / clade / state				
+					$n->set_name( $meta->{$key}->{'species'} );
+					$n->set_generic( 'clade' => [ $meta->{$key}->{'clade'} ] );
+					$n->set_generic( 'state' => [ $state ] );
+					$n->set_node_color($colors{$state});
+					$n->set_node_outline_color( 'black' );					
+				}
+				else {
+					$log->error("no mapping for $name");
+				}		
 			}
 		}
 	);
+	return %colors;		
 }
 
-# synonyms that slipped into @fredericlens's spreadsheet
-my %synonym = (
-	'1317872' => '59675',
-	'1630344' => '1630342',
-	'237952'  => '85293',
-);
+# collapse low-support nodes, unwanted tips and monophyletic,
+# uniform-state clades
+sub collapse_tree {
+	my ( $excise, $colors ) = @_;
+	$log->info("going to collapse tree");
 
-# relabel tips
-my %colors;
-for my $tip ( @{ $tree->get_terminals } ) {
-	my $name = $tip->get_name;
-	my $key = $mapping{$name} ? $name : $synonym{$name};
-	if ( $mapping{$key} ) {
-		$tip->set_name($mapping{$key});
-		my $state = $char{$key};
-		if ( not %colors ) {
-			$colors{$state} = 'white';
+	# collapse low support nodes
+	$tree->visit_depth_first(
+		'-post' => sub {
+			my $n = shift;		
+			if ( $n->is_internal ) {
+				my $p = $n->get_meta_object('fig:posterior');
+				if ( $p < $posterior ) {
+					$n->collapse;
+				}
+				else {
+					$n->set_name( sprintf "%.2f", $p );
+				}
+			}
 		}
-		elsif ( not $colors{$state} ) {
-			$colors{$state} = 'black';
+	);
+
+	# prune unwanted tips
+	my @prune;
+	for my $name ( @$excise ) {
+		if ( my $tip = $tree->get_by_name($name) ) {
+			push @prune, $tip;
 		}
-		$tip->set_node_color($colors{$state});
-		$tip->set_node_outline_color( 'black' );
+		else {
+			$log->error("Can't find $name in tree");
+		}
 	}
-	else {
-		$log->error("no mapping for $name");
-	}
+	$tree->prune_tips(\@prune);
+
+	# collapse monophyletic, uniform-state clades
+	$tree->visit_depth_first(
+		'-post' => sub {
+			my $n = shift;
+			my @c = @{ $n->get_children };
+			if ( @c ) {
+				my ( @clade, @state, $size );
+				for my $c ( @c ) {
+					push @clade, @{ $c->get_generic('clade') };
+					push @state, @{ $c->get_generic('state') };
+					$size += $c->get_generic('size') || 1;
+				}
+				$n->set_generic( 'clade' => \@clade );
+				$n->set_generic( 'state' => \@state );
+				$n->set_generic( 'size'  => $size );
+				if ( scalar(uniq(@clade)) == 1 and scalar(uniq(@state)) == 1 ) {
+					my ($clade) = @clade;
+					my ($state) = @state;
+					my $prob    = sprintf '%.2f', $n->get_meta_object('fig:posterior');
+					my $name = $clade . " (n=$size, p=$prob)";
+					$n->set_collapsed(1);
+					$n->set_name($name);
+					$n->set_node_color($colors->{$state});
+				}
+			}
+		}
+	);
+
+	$tree->ladderize;
 }
 
-# collapse low support nodes
-$tree->visit_depth_first(
-	'-post' => sub {
-		my $n = shift;
-		$n->set_font_size('12px');
-		if ( $n->is_internal ) {
-			my $p = $n->get_meta_object('fig:posterior');
-			if ( $p < $posterior ) {
-				$n->collapse;
-			}
-			else {
-				$n->set_name( sprintf "%.2f", $p );
-			}
-		}
-	}
-);
-$tree->ladderize;
-
+$log->info("going to draw tree");
 print $drawer->draw;
